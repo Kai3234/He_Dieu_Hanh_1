@@ -6,11 +6,13 @@ import { supabase } from './supabaseClient'
 import { Button } from './components/ui/button'
 
 
+
 function App() {
   
 
   return (
     <>
+      <Button>Click</Button>
         
     </>
   )
