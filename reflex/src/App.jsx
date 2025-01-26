@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import { supabase } from './supabaseClient'
+import { Button } from './components/ui/button'
 
 
 function App() {
@@ -10,7 +11,6 @@ function App() {
 
   return (
     <>
-      
         
     </>
   )
