@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bộ nhớ và tính cục bộ của dữ liệu.md",
+                "file": "Xử lí kích thước ma trận bất kì trong thuật toán lát gạch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bộ nhớ và tính cục bộ của dữ liệu"
+              "title": "Xử lí kích thước ma trận bất kì trong thuật toán lát gạch"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,8 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a29d8418c0247cc",
+  "active": "8e977c087c293287",
   "lastOpenFiles": [
-    "Bộ nhớ và tính cục bộ của dữ liệu.md"
+    "New Text Document.txt",
+    "Bộ nhớ và tính cục bộ của dữ liệu.md",
+    "Phụ lục Bộ nhớ và tính cục bộ của dữ liệu.md",
+    "Phép nhân ma trận lát gạch kernel.md",
+    "README.md",
+    "Thuật toán song song lát gạch.md",
+    "Xử lí kích thước ma trận bất kì trong thuật toán lát gạch.md",
+    "Bộ nhớ CUDA.md",
+    "Tài nguyên/Untitled/Untitled",
+    "Tài nguyên/Untitled",
+    "Tài nguyên/Bộ nhớ CUDA",
+    "Thuật ngữ",
+    "Tài nguyên"
   ]
 }
