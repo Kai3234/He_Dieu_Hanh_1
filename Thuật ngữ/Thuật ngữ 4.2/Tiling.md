@@ -1,5 +1,0 @@
-"Tiling" (phân mảnh) là một kỹ thuật trong lập trình song song và xử lý dữ liệu, thường được sử dụng để tối ưu hóa hiệu suất của các thuật toán, đặc biệt là trong các ứng dụng tính toán ma trận hoặc xử lý hình ảnh.
-
-Trong ngữ cảnh này, "tiling" đề cập đến việc chia nhỏ một bài toán lớn thành các phần nhỏ hơn (các "tile") mà có thể được xử lý độc lập và song song. Mỗi phần nhỏ này có thể được xử lý bởi một luồng hoặc một đơn vị xử lý riêng biệt, giúp tăng cường hiệu suất và giảm thời gian tính toán tổng thể.
-
-Kỹ thuật này thường đi kèm với việc sử dụng đồng bộ hóa để đảm bảo rằng các luồng hoặc đơn vị xử lý có thể làm việc cùng nhau một cách hiệu quả, đặc biệt là khi chúng cần chia sẻ dữ liệu hoặc đồng bộ hóa trạng thái. Tiling giúp tận dụng tối đa tài nguyên phần cứng và cải thiện hiệu suất của các ứng dụng tính toán phức tạp.

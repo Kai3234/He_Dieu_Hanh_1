@@ -1,1 +1,0 @@
-Đây là bộ nhớ lớn nhất trong GPU và có thể truy cập bởi tất cả các Thread trên mọi Block. Tuy nhiên, truy cập vào global memory thường chậm hơn so với các loại bộ nhớ khác, do đó cần phải tối ưu để tránh hiệu năng bị giảm.
