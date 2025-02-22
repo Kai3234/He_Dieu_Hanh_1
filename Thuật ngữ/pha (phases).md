@@ -1,0 +1,1 @@
+Trong thuật toán nhân ma trận dạng ô
