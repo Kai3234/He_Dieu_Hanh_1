@@ -1,1 +1,2 @@
 Đồng bộ hóa rào cản (Barrier Synchronization) là một kỹ thuật trong lập trình song song để đảm bảo tất cả các [[luồng (threads)]] trong một khối (block) hoàn thành một bước tính toán trước khi tiếp tục bước tiếp theo.
+Trong lập trình GPU với CUDA, lệnh __ syncthreads() được sử dụng để thực hiện đồng bộ hóa rào cản trong mỗi [[khối luồng (thread block)]].
