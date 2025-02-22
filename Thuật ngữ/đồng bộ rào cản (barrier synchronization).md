@@ -1,0 +1,1 @@
+Đồng bộ hóa rào cản (Barrier Synchronization) là một kỹ thuật trong lập trình song song để đảm bảo tất cả các [[luồng (threads)]] trong một khối (block) hoàn thành một bước tính toán trước khi tiếp tục bước tiếp theo.
