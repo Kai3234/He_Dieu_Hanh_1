@@ -5,4 +5,4 @@ Thay vì để mỗi [[luồng (thread)]] truy xuất toàn bộ dữ liệu t�
 3. Sau khi hoàn tất một pha, thuật toán tiếp tục tải dữ liệu mới cho pha tiếp theo.
 Mỗi pha gồm 2 bước chính:
 1. Tải dữ liệu: Các [[luồng (thread)]] cùng nhau nạp một ô dữ liệu vào bộ nhớ chia sẻ.
-2. 
+2. Tính toán: Dữ liệu được sử dụng để thực hiện phép nhân ma trận.
