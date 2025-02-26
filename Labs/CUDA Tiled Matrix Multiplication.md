@@ -9,4 +9,5 @@ Trước khi bắt đầu phần lab này, đảm bảo:
 Chỉnh sửa code trong tab code để thực hiện:
 - Cấp phát bộ nhớ thiết bị
 - Sao chép bộ nhớ host sang thiết bị
-- Khởi tạo [[khối luồng]]
+- Khởi tạo kích thước [[khối luồng]] và lưới kernel
+- 
