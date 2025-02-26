@@ -1,5 +1,5 @@
 # Mục tiêu
-Thiết lập một quy trình phép nhân ma trận dạng ô dày đặc
+Thiết lập một quy trình phép nhân ma trận dạng ô dày đặc sử dụng bộ nhớ chia sẻ
 # Điều kiện tiên quyết:
 Trước khi bắt đầu phần lab này, đảm bảo:
 - Đã hoàn thành Lab "Phép nhân ma trận"
