@@ -15,3 +15,5 @@ Chỉnh sửa code trong tab code để thực hiện các nhiệm vụ sau:
 - Giải phóng bộ nhớ thiết bị
 - Triển khai quy trình nhân ma trận sử dụng bộ nhớ chia sẻ và tiling
 Các vị trí để chèn code được đánh dấu bằng //@@
+
+# Hướng dẫn thiết lập cục bộ
