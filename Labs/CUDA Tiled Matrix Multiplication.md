@@ -6,4 +6,5 @@ Trước khi bắt đầu phần lab này, đảm bảo:
 - Đã hoàn thành các bài giảng module bắt buộc
 
 # Hướng dẫn
-Chỉnh sửa 
+Chỉnh sửa code trong tab code để thực hiện:
+- Cấp phát bộ nhớ thiết bị
