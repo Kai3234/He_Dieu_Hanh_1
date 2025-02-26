@@ -17,3 +17,8 @@ Chỉnh sửa code trong tab code để thực hiện các nhiệm vụ sau:
 Các vị trí để chèn code được đánh dấu bằng //@@
 
 # Hướng dẫn thiết lập cục bộ
+Phiên bản mã nguồn gần đây nhất cho phòng thí nghiệm này cùng với các tập lệnh xây dựng có thể được tìm thấy trên kho lưu trữ Bitbucket. Mô tả về cách sử dụng công cụ CMake cùng với cách xây dựng phòng thí nghiệm để phát triển cục bộ có trong tài liệu README ở thư mục gốc của kho lưu trữ.
+
+Tệp thực thi được tạo ra do quá trình biên dịch phòng thí nghiệm có thể được chạy bằng lệnh sau:
+
+./TiledMatrixMultiplication_Template -e &lt;expected.raw> -i &lt;input0.raw>,&lt;input1.raw> -o &lt;output.raw>
