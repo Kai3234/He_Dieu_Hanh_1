@@ -71,19 +71,12 @@ Mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Sinh vi
 	
 	int main(int argc, char **argv) {
 		gpuTKArg_t args;
-		
 		float *hostA; // Ma trận A
-		
 		float *hostB; // Ma trận B
-		
 		float *hostC; // Ma trận đầu ra C
-		
 		float *deviceA;
-		
 		float *deviceB;
-		
 		float *deviceC;
-		
 		int numARows; // Số hàng trong ma trận A
 		
 		int numAColumns; // Số cột trong ma trận A
