@@ -42,3 +42,4 @@ Trong đó &lt;expected.raw> là đầu ra dự kiến, &lt;input0.raw>,&lt;inpu
    Trả lời: Giống như đầu vào được xếp gạch cho [[bộ nhớ chia sẻ]], đầu vào có thể được xếp gạch ở phía máy chủ để thực thi kernel.
 
 # Mẫu mã
+Mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Sinh viên dự kiến sẽ chèn mã của mình vào các phần được phân định bằng //@@. Sinh viên dự kiến sẽ giữ nguyên mã khác. Tài liệu về thư viện Lib GPUTK có thể được tìm thấy trên kho lưu trữ Bitbucket trong thư mục "libgputk/docs" ở thư mục gốc của kho lưu trữ.
