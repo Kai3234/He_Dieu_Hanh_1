@@ -46,21 +46,21 @@ Mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Sinh vi
 
 #include <gputk.h>
 
-#define gpuTKCheck(stmt) \
+#define gpuTKCheck(stmt) 
 
-do { \
+	do { 
+	
+	cudaError_t err = stmt; 
+	
+	if (err != cudaSuccess) { 
+	
+	gpuTKLog(ERROR, "Không chạy được stmt", #stmt); 
+	
+	gpuTKLog(ERROR, "Đã nhận lỗi CUDA ", cudaGetErrorString(err)); 
+	
+	return -1; 
 
-cudaError_t err = stmt; \
-
-if (err != cudaSuccess) { \
-
-gpuTKLog(ERROR, "Không chạy được stmt", #stmt); \
-
-gpuTKLog(ERROR, "Đã nhận lỗi CUDA %s", cudaGetErrorString(err)); \
-
-return -1; \
-
-} \
+} 
 
 } while (0)
 
