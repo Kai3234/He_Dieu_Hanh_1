@@ -10,4 +10,4 @@ Chỉnh sửa code trong tab code để thực hiện:
 - Cấp phát bộ nhớ thiết bị
 - Sao chép bộ nhớ host sang thiết bị
 - Khởi tạo kích thước [[khối luồng]] và lưới kernel
-- 
+- Gọi kernel CUDA
