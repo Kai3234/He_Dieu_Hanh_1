@@ -39,3 +39,4 @@ Trong đó &lt;expected.raw> là đầu ra dự kiến, &lt;input0.raw>,&lt;inpu
 6. Giả sử bạn có các ma trận có kích thước lớn hơn kích thước [[luồng (thread)|luồng]] tối đa. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân trong trường hợp này.
    Trả lời: Mỗi [[luồng (thread)|luồng]] có thể thực hiện 4 hoặc 9 hoặc 16 phần tử liền kề của ma trận (làm thô luồng).
 7. Giả sử bạn có các ma trận không vừa với bộ nhớ toàn cục. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân ngoài vị trí.
+   Trả lời: Giống như đầu vào được xếp gạch cho [[bộ nhớ chia sẻ]], đầu vào có thể được xếp gạch ở phía máy chủ để thực thi hạt nhân.
