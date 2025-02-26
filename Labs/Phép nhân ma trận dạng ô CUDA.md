@@ -65,63 +65,59 @@ Mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Sinh vi
 	// Tính toán C=A∗B
 	
 	__global__ void matrixMultiplyShared(float *A, float *B, float *C, int numARows, int numAColumns, int numBRows, int numBColumns, int numCRows, int numCColumns) {
-	
 	//@@ Chèn mã để triển khai phép nhân ma trận tại đây
-	
-	//@@ Bạn phải sử dụng bộ nhớ dùng chung cho phòng thí nghiệm này
-	
+	//@@ Bạn phải sử dụng bộ nhớ chia sẻ cho lab này
 	}
 	
 	int main(int argc, char **argv) {
-	
-	gpuTKArg_t args;
-	
-	float *hostA; // Ma trận A
-	
-	float *hostB; // Ma trận B
-	
-	float *hostC; // Ma trận đầu ra C
-	
-	float *deviceA;
-	
-	float *deviceB;
-	
-	float *deviceC;
-	
-	int numARows; // Số hàng trong ma trận A
-	
-	int numAColumns; // Số cột trong ma trận A
-	
-	int numBRows; // Số hàng trong ma trận B
-	
-	int numBColumns; // Số cột trong ma trận B
-	
-	int numCRows; // Số hàng trong ma trận C (bạn phải đặt giá trị này)
-	
-	int numCColumns; // Số cột trong ma trận C (bạn phải đặt giá trị này)
-	
-	args = gpuTKArg_read(argc, argv);
-	
-	gpuTKTime_start(Generic, "Đang nhập dữ liệu và tạo bộ nhớ trên máy chủ");
-	
-	hostA = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 0), &numARows, &numAColumns);
-	
-	hostB = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 1), &numBRows, &numBColumns);
-	
-	//@@ Đặt numCRows và numCColumns
-	
-	numCRows = 0;
-	
-	numCColumns = 0;
-	
-	//@@ Cấp phát ma trận hostC
-	
-	gpuTKTime_stop(Generic, "Đang nhập dữ liệu và tạo bộ nhớ trên máy chủ");
-	
-	gpuTKLog(TRACE, "Kích thước của A là %d x %d", numARows, numAColumns);
-	
-	gpuTKLog(TRACE, "Kích thước của B là %d x %d", numBRows, numBColumns);
-	
-	gpuTKTime_start(GPU, "Đang cấp phát bộ nhớ GPU.");
-	
-	//@@ Cấp phát bộ nhớ GPU tại đây
+		gpuTKArg_t args;
+		
+		float *hostA; // Ma trận A
+		
+		float *hostB; // Ma trận B
+		
+		float *hostC; // Ma trận đầu ra C
+		
+		float *deviceA;
+		
+		float *deviceB;
+		
+		float *deviceC;
+		
+		int numARows; // Số hàng trong ma trận A
+		
+		int numAColumns; // Số cột trong ma trận A
+		
+		int numBRows; // Số hàng trong ma trận B
+		
+		int numBColumns; // Số cột trong ma trận B
+		
+		int numCRows; // Số hàng trong ma trận C (bạn phải đặt giá trị này)
+		
+		int numCColumns; // Số cột trong ma trận C (bạn phải đặt giá trị này)
+		
+		args = gpuTKArg_read(argc, argv);
+		
+		gpuTKTime_start(Generic, "Đang nhập dữ liệu và tạo bộ nhớ trên máy chủ");
+		
+		hostA = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 0), &numARows, &numAColumns);
+		
+		hostB = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 1), &numBRows, &numBColumns);
+		
+		//@@ Đặt numCRows và numCColumns
+		
+		numCRows = 0;
+		
+		numCColumns = 0;
+		
+		//@@ Cấp phát ma trận hostC
+		
+		gpuTKTime_stop(Generic, "Đang nhập dữ liệu và tạo bộ nhớ trên máy chủ");
+		
+		gpuTKLog(TRACE, "Kích thước của A là %d x %d", numARows, numAColumns);
+		
+		gpuTKLog(TRACE, "Kích thước của B là %d x %d", numBRows, numBColumns);
+		
+		gpuTKTime_start(GPU, "Đang cấp phát bộ nhớ GPU.");
+		
+		//@@ Cấp phát bộ nhớ GPU tại đây
