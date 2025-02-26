@@ -13,7 +13,7 @@ Chỉnh sửa code trong tab code để thực hiện các nhiệm vụ sau:
 - Gọi kernel CUDA
 - Sao chép kết quả từ thiết bị sang máy chủ
 - Giải phóng bộ nhớ thiết bị
-- Triển khai quy trình nhân ma trận sử dụng bộ nhớ chia sẻ và tiling
+- Triển khai quy trình nhân ma trận sử dụng [[bộ nhớ chia]] sẻ và tiling
 Các vị trí để chèn code được đánh dấu bằng //@@
 
 # Hướng dẫn thiết lập cục bộ
@@ -35,7 +35,7 @@ Trong đó &lt;expected.raw> là đầu ra dự kiến, &lt;input0.raw>,&lt;inpu
 4. Mô tả những tối ưu hóa nào khác có thể được triển khai cho kernel của bạn để tăng tốc độ hiệu suất.
    Trả lời: Điều chỉnh các tham số khởi chạy kernel để có độ chiếm dụng tối ưu.
 5. So sánh độ khó triển khai của kernel này so với MP trước đó. Bạn gặp khó khăn gì với việc triển khai này?
-   Trả lời: Dịch chỉ mục địa chỉ từ không gian toàn cục sang không gian bộ nhớ chia sẻ là một nơi mới để mắc lỗi.
+   Trả lời: Dịch chỉ mục địa chỉ từ không gian toàn cục sang không gian [[bộ nhớ chia sẻ]] là một nơi mới để mắc lỗi.
 6. Giả sử bạn có các ma trận có kích thước lớn hơn kích thước [[luồng (thread)|luồng]] tối đa. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân trong trường hợp này.
    Trả lời: Mỗi [[luồng (thread)|luồng]] có thể thực hiện 4 hoặc 9 hoặc 16 phần tử liền kề của ma trận (làm thô luồng).
 7. Giả sử bạn có các ma trận không vừa với bộ nhớ toàn cục. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân ngoài vị trí.
