@@ -36,6 +36,6 @@ Trong đó &lt;expected.raw> là đầu ra dự kiến, &lt;input0.raw>,&lt;inpu
    Trả lời: Điều chỉnh các tham số khởi chạy kernel để có độ chiếm dụng tối ưu.
 5. So sánh độ khó triển khai của kernel này so với MP trước đó. Bạn gặp khó khăn gì với việc triển khai này?
    Trả lời: Dịch chỉ mục địa chỉ từ không gian toàn cục sang không gian bộ nhớ chia sẻ là một nơi mới để mắc lỗi.
-6. Giả sử bạn có các ma trận có kích thước lớn hơn kích thước [[luồng]] tối đa. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân trong trường hợp này.
+6. Giả sử bạn có các ma trận có kích thước lớn hơn kích thước [[luồng (thread)|luồng]] tối đa. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân trong trường hợp này.
    Trả lời:
 7. Giả sử bạn có các ma trận không vừa với bộ nhớ toàn cục. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân ngoài vị trí.
