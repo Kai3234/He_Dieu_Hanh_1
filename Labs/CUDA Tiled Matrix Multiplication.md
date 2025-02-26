@@ -9,4 +9,4 @@ Trước khi bắt đầu phần lab này, đảm bảo:
 Chỉnh sửa code trong tab code để thực hiện:
 - Cấp phát bộ nhớ thiết bị
 - Sao chép bộ nhớ host sang thiết bị
-- Khởi tạo 
+- Khởi tạo khối luồng
