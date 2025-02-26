@@ -36,8 +36,8 @@ Trong đó &lt;expected.raw> là đầu ra dự kiến, &lt;input0.raw>,&lt;inpu
    Trả lời: Điều chỉnh các tham số khởi chạy kernel để có độ chiếm dụng tối ưu.
 5. So sánh độ khó triển khai của kernel này so với MP trước đó. Bạn gặp khó khăn gì với việc triển khai này?
    Trả lời: Dịch chỉ mục địa chỉ từ không gian toàn cục sang không gian [[bộ nhớ chia sẻ]] là một nơi mới để mắc lỗi.
-6. Giả sử bạn có các ma trận có kích thước lớn hơn kích thước [[luồng (thread)|luồng]] tối đa. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân trong trường hợp này.
-   Trả lời: Mỗi [[luồng (thread)|luồng]] có thể thực hiện 4 hoặc 9 hoặc 16 phần tử liền kề của ma trận (làm thô luồng).
+6. Giả sử bạn có các ma trận có kích thước lớn hơn kích thước [[luồng|luồng]] tối đa. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân trong trường hợp này.
+   Trả lời: Mỗi [[luồng|luồng]] có thể thực hiện 4 hoặc 9 hoặc 16 phần tử liền kề của ma trận (làm thô luồng).
 7. Giả sử bạn có các ma trận không vừa với bộ nhớ toàn cục. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân ngoài vị trí.
    Trả lời: Giống như đầu vào được xếp gạch cho [[bộ nhớ chia sẻ]], đầu vào có thể được xếp gạch ở phía máy chủ để thực thi kernel.
 
