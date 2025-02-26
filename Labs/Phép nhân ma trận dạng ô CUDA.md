@@ -13,4 +13,4 @@ Chỉnh sửa code trong tab code để thực hiện các nhiệm vụ sau:
 - Gọi kernel CUDA
 - Sao chép kết quả từ thiết bị sang máy chủ
 - Giải phóng bộ nhớ thiết bị
-- Triển khai quy trình nhân ma trận
+- Triển khai quy trình nhân ma trận sử dụng bộ nhớ chia sẻ và tiling
