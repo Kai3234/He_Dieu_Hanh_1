@@ -22,3 +22,8 @@ Phiên bản mã nguồn gần đây nhất cho phòng thí nghiệm này cùng 
 Tệp thực thi được tạo ra do quá trình biên dịch lab có thể được chạy bằng lệnh sau:
 
 ./TiledMatrixMultiplication_Template -e &lt;expected.raw> -i &lt;input0.raw>,&lt;input1.raw> -o &lt;output.raw>
+
+Trong đó &lt;expected.raw> là đầu ra dự kiến, &lt;input0.raw>,&lt;input1.raw> là tập dữ liệu đầu vào và &lt;output.raw> là đường dẫn tùy chọn để lưu trữ kết quả. Các tập dữ liệu có thể được tạo bằng trình tạo tập dữ liệu được xây dựng như một phần của quy trình biên dịch.
+
+## Câu hỏi
+1. 
