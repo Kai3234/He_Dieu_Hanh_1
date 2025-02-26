@@ -28,3 +28,4 @@ Trong đó &lt;expected.raw> là đầu ra dự kiến, &lt;input0.raw>,&lt;inpu
 ## Câu hỏi
 1. Có bao nhiêu phép toán dấu phẩy động đang được thực hiện trong kernel nhân ma trận của bạn? Giải thích.
 2. Có bao nhiêu lần đọc bộ nhớ toàn cục đang được thực hiện bởi kernel của bạn? Giải thích.
+3. Có bao nhiêu lần ghi bộ nhớ toàn cục đang được thực hiện bởi kernel của bạn? Giải thích.
