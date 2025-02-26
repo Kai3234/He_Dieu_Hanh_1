@@ -10,7 +10,7 @@ Chỉnh sửa code trong tab code để thực hiện các nhiệm vụ sau:
 - Cấp phát bộ nhớ thiết bị
 - Sao chép bộ nhớ máy chủ sang thiết bị
 - Khởi tạo kích thước [[khối luồng]] và lưới kernel
-- Gọi kernel CUDA
+- Gọi kernel [[CUDA]]
 - Sao chép kết quả từ thiết bị sang máy chủ
 - Giải phóng bộ nhớ thiết bị
 - Triển khai quy trình nhân ma trận sử dụng [[bộ nhớ chia sẻ]]  và [[Tiling|tiling]]
