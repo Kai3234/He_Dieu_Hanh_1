@@ -1,5 +1,5 @@
 # Mục tiêu
-Thiết lập một quy trình phép nhân ma trận dạng [[ô]] dày đặc bằng cách sử dụng [[bộ nhớ chia sẻ]]
+Triển khai một quy trình nhân ma trận dạng [[ô]] dày đặc bằng cách sử dụng [[bộ nhớ chia sẻ]]
 # Điều kiện tiên quyết:
 Trước khi bắt đầu phần lab này, đảm bảo:
 - Đã hoàn thành Lab "Phép nhân ma trận"
@@ -13,3 +13,4 @@ Chỉnh sửa code trong tab code để thực hiện các nhiệm vụ sau:
 - Gọi kernel CUDA
 - Sao chép kết quả từ thiết bị sang máy chủ
 - Giải phóng bộ nhớ thiết bị
+- Triển khai quy trình nhân ma trận
