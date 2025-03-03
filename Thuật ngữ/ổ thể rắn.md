@@ -1,0 +1,1 @@
+SSD (Solid State Drive) là một loại ổ cứng sử dụng bộ nhớ flash thay vì đĩa từ như [[HDD]]. Nhờ không có bộ phận cơ học, SSD có tốc độ đọc/ghi nhanh hơn nhiều, hoạt động bền bỉ và tiêu thụ ít điện năng hơn so với [[HDD]].
