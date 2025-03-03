@@ -6,4 +6,4 @@
     
 3. **Quản lý đồng bộ**: Khi nhiều [[luồng]] hoặc tiến trình truy cập vào bộ nhớ toàn cục, cần có các cơ chế đồng bộ hóa để tránh xung đột và đảm bảo tính nhất quán của dữ liệu.
     
-4. **Sử dụng trong GPU**: Trong lập trình GPU, bộ nhớ toàn cục thường chỉ đến bộ nhớ mà tất cả các [[luồng]] có thể truy cập, và nó có thể ảnh hưởng đến hiệu suất của ứng dụng nếu không được quản lý đúng cách.
+4. **Sử dụng trong GPU**: Trong lập trình [[GPU]], bộ nhớ toàn cục thường chỉ đến bộ nhớ mà tất cả các [[luồng]] có thể truy cập, và nó có thể ảnh hưởng đến hiệu suất của ứng dụng nếu không được quản lý đúng cách.
