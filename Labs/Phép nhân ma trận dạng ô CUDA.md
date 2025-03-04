@@ -44,9 +44,9 @@ Trong đó &lt;expected.raw> là đầu ra dự kiến, &lt;input0.raw>,&lt;inpu
 # Mẫu mã
 Mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Sinh viên dự kiến sẽ chèn mã của mình vào các phần được phân định bằng //@@. Sinh viên dự kiến sẽ giữ nguyên mã khác. Tài liệu về thư viện Lib GPUTK có thể được tìm thấy trên kho lưu trữ Bitbucket trong thư mục "libgputk/docs" ở thư mục gốc của kho lưu trữ.
 
-#include <gputk.h>
+\#include <gputk.h>
 
-#define gpuTKCheck(stmt) 
+\#define gpuTKCheck(stmt) 
 
 	do { 
 	
