@@ -9,7 +9,7 @@ a. 1/8 mức sử dụng ban đầu
 b. 1/16 mức sử dụng ban đầu  
 ==c.== 1/32 mức sử dụng ban đầu  
 d. 1/64 mức sử dụng ban đầu
-**Giải thích:** Mỗi phần tử trong [[ô]] được sử dụng 32 lần, như đã giải thích trong [[4.3|bài giảng 4.3]].
+**Giải thích:** Mỗi phần tử trong [[ô]] được sử dụng 32 lần, như đã giải thích trong [[4.3 Phép nhân ma trận dạng ô|bài giảng 4.3]].
 Câu 3. Đối với [[Kernel|kernel]] nhân ma trận đơn chính theo ô như đã trình bày trong [[4.4 Phép nhân ma trận dạng ô nhớ kernel|Bài giảng 4.4]], giả sử kích thước [[ô]] là 32x32 và hệ thống có kích thước [[Burst DRAM|burst DRAM]] là 128 byte. Sẽ có bao nhiêu [[Burst DRAM|burst DRAM]] được gửi đến bộ xử lý do việc tải một ô ma trận A bởi một [[khối luồng]]?
 a.      16
 ==b.==      32
