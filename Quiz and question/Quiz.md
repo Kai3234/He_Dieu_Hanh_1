@@ -13,4 +13,4 @@ a.      16
 b.      32
 c.      64
 d.      128
-Câu 4.
+Câu 4. Giả sử một nhân ma trận theo ô xử lý các điều kiện biên như đã giải thích trong Bài giảng 4.5. Giả sử chúng ta sử dụng ô kích thước 32x32 để xử lý các ma trận vuông có kích thước 1.000x1.000. Trong MỖI khối luồng, số lượng warps tối đa sẽ có sự phân kỳ điều khiển do xử lý các điều kiện biên khi tải các ô A trong suốt quá trình thực thi của kernel là bao nhiêu?
