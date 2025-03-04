@@ -33,7 +33,7 @@ Trong đó &lt;expected.raw> là đầu ra dự kiến, &lt;input0.raw>,&lt;inpu
 3. Có bao nhiêu lần ghi [[bộ nhớ toàn cục]] đang được thực hiện bởi kernel của bạn? Giải thích.
    Trả lời: Chỉ có ma trận đầu ra được ghi. numCRows * numCCols
 4. Mô tả những tối ưu hóa nào khác có thể được triển khai cho kernel của bạn để tăng tốc độ hiệu suất.
-   Trả lời: Điều chỉnh các tham số khởi chạy kernel để có độ chiếm dụng tối ưu.
+   Trả lời: Điều chỉnh các tham số khởi chạy [[kernel]] để có độ chiếm dụng tối ưu.
 5. So sánh độ khó triển khai của kernel này so với MP trước đó. Bạn gặp khó khăn gì với việc triển khai này?
    Trả lời: Dịch chỉ mục địa chỉ từ [[bộ nhớ toàn cục|không gian toàn cục]] sang không gian [[bộ nhớ chia sẻ]] là một nơi mới để mắc lỗi.
 6. Giả sử bạn có các ma trận có kích thước lớn hơn kích thước [[luồng|luồng]] tối đa. Phác thảo một thuật toán sẽ thực hiện thuật toán nhân ma trận sẽ thực hiện phép nhân trong trường hợp này.
