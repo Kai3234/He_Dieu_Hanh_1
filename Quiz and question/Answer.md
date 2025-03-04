@@ -3,8 +3,8 @@ a.      1
 ==b.==      1,000
 c.      512
 d.      512,000  
-**Giải thích:** Các biến bộ nhớ chia sẻ được phân bổ cho các [[khối luồng]]. Vì vậy, số lượng phiên bản là số lượng [[khối luồng, tức là 1.000.
-Câu 2. Đối với kernel nhân ma trận theo ô, nếu chúng ta sử dụng [[ô]] kích thước 32x32, thì mức giảm sử dụng băng thông bộ nhớ cho các ma trận đầu vào A và B là bao nhiêu?
+**Giải thích:** Các biến bộ nhớ chia sẻ được phân bổ cho các [[khối luồng]]. Vì vậy, số lượng phiên bản là số lượng [[khối luồng]], tức là 1.000.
+Câu 2. Đối với kernel nhân ma trận theo [[ô]], nếu chúng ta sử dụng [[ô]] kích thước 32x32, thì mức giảm sử dụng băng thông bộ nhớ cho các ma trận đầu vào A và B là bao nhiêu?
 a. 1/8 mức sử dụng ban đầu  
 b. 1/16 mức sử dụng ban đầu  
 ==c.== 1/32 mức sử dụng ban đầu  
@@ -15,7 +15,7 @@ a.      16
 ==b.==      32
 c.      64
 d.      128
-**Giải thích:** Đối với một ô A kích thước 32x32, mỗi hàng trong ô bao gồm 32 từ liên tiếp và được truy cập bởi một warp. Tổng lượng dữ liệu trong hàng chỉ là một burst duy nhất. Chúng ta có 32 hàng trong một ô, vì vậy sẽ có 32 burst được gửi đến bộ xử lý.
+**Giải thích:** Đối với một [[ô]] A kích thước 32x32, mỗi hàng trong [[ô]] bao gồm 32 từ liên tiếp và được truy cập bởi một warp. Tổng lượng dữ liệu trong hàng chỉ là một burst duy nhất. Chúng ta có 32 hàng trong một [[ô]], vì vậy sẽ có 32 burst được gửi đến bộ xử lý.
 Câu 4. Giả sử một nhân ma trận theo [[ô]] xử lý các điều kiện biên như đã giải thích trong [[Bài giảng 4.5]]. Giả sử chúng ta sử dụng [[ô]] kích thước 32x32 để xử lý các ma trận vuông có kích thước 1.000x1.000. Trong MỖI [[khối luồng]], số lượng warps tối đa sẽ có sự phân kỳ điều khiển do xử lý các điều kiện biên khi tải các [[ô]] A trong suốt quá trình thực thi của [[kernel]] là bao nhiêu?
 ==a.==      32
 b.      24
