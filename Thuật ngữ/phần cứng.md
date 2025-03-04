@@ -1,0 +1,1 @@
+Phần cứng (**Hardware**) là **toàn bộ các thiết bị vật lý** cấu thành một hệ thống máy tính hoặc thiết bị điện tử. Nó bao gồm tất cả các linh kiện mà bạn có thể **nhìn thấy, chạm vào và lắp ráp**.

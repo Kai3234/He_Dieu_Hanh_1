@@ -1,0 +1,1 @@
+**Vi phạm truy cập bộ nhớ** (**Memory Access Violation**) xảy ra khi một chương trình cố gắng **đọc hoặc ghi dữ liệu vào một vùng bộ nhớ không hợp lệ**. Điều này có thể dẫn đến lỗi chương trình, treo hệ thống hoặc thậm chí lỗ hổng bảo mật.
