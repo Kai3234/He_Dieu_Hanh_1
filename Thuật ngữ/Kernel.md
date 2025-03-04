@@ -1,0 +1,1 @@
+**Kernel (hạt nhân hệ điều hành)** là thành phần cốt lõi của **hệ điều hành**, có nhiệm vụ **quản lý tài nguyên hệ thống** và **giao tiếp giữa phần cứng và phần mềm**. Nó đóng vai trò trung gian giữa **ứng dụng** và **phần cứng**, giúp chương trình có thể sử dụng CPU, RAM, ổ đĩa và các thiết bị khác một cách an toàn và hiệu quả.
