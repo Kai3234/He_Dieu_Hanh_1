@@ -21,4 +21,4 @@ Câu 4. Giả sử một nhân ma trận theo [[ô]] xử lý các điều kiệ
 b.      24
 c.      16
 d.      8
-**Giải thích:** Sự phân kỳ điều khiển xảy ra do việc xử lý cạnh bên phải. Đối với các [[khối luồng]] xử lý các [[ô]] hoàn toàn nằm trong phạm vi hợp lệ ở chiều y, tất cả 32 warps trong một khối sẽ trải qua sự phân kỳ tại ranh giới bên phải. Đối với các khối luồng xử lý các [[ô]] A ở dưới cùng trên cạnh bên phải, chỉ có 8 warps sẽ trải qua sự phân kỳ điều khiển vì tất cả các luồng trong 24 warps dưới sẽ không vượt qua bài kiểm tra ranh giới.
+**Giải thích:** Sự phân kỳ điều khiển xảy ra do việc xử lý cạnh bên phải. Đối với các [[khối luồng]] xử lý các [[ô]] hoàn toàn nằm trong phạm vi hợp lệ ở chiều y, tất cả 32 warps trong một khối sẽ trải qua sự phân kỳ tại ranh giới bên phải. Đối với các khối luồng xử lý các [[ô]] A ở dưới cùng trên cạnh bên phải, chỉ có 8 warps sẽ trải qua sự phân kỳ điều khiển vì tất cả các [[luồng]] trong 24 warps dưới sẽ không vượt qua bài kiểm tra ranh giới.
