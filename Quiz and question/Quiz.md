@@ -3,7 +3,7 @@ a.      1
 b.      1,000
 c.      512
 d.      512,000
-Câu 2. Đối với [[Kernel|kernel]] nhân ma trận theo ô, nếu chúng ta sử dụng [[ô]] kích thước 32x32, thì mức giảm sử dụng băng thông bộ nhớ cho các ma trận đầu vào A và B là bao nhiêu?
+Câu 2. Đối với [[Kernel|kernel]] nhân ma trận theo ô, nếu chúng ta sử dụng [[ô]] kích thước 32x32, thì mức giảm sử dụng [[băng thông ]]bộ nhớ cho các ma trận đầu vào A và B là bao nhiêu?
 a. 1/8 mức sử dụng ban đầu  
 b. 1/16 mức sử dụng ban đầu  
 c. 1/32 mức sử dụng ban đầu  
