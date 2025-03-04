@@ -8,4 +8,9 @@ a. 1/8 mức sử dụng ban đầu
 b. 1/16 mức sử dụng ban đầu  
 c. 1/32 mức sử dụng ban đầu  
 d. 1/64 mức sử dụng ban đầu
-Câu 3. 
+Câu 3. Đối với kernel nhân ma trận đơn chính theo ô như đã trình bày trong Bài giảng 4.4, giả sử kích thước ô là 32x32 và hệ thống có kích thước burst DRAM là 128 byte. Sẽ có bao nhiêu burst DRAM được gửi đến bộ xử lý do việc tải một ô ma trận A bởi một khối luồng?
+a.      16
+b.      32
+c.      64
+d.      128
+Câu 4.
