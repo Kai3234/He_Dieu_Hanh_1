@@ -1,4 +1,4 @@
-Lập trình song song (Parallel programming) là một kỹ thuật lập trình trong đó nhiều tác vụ hoặc phần của một [[chương trình]] được thực hiện đồng thời. Thay vì chạy từng tác vụ một cách tuần tự, lập trình song song chia nhỏ công việc thành các phần nhỏ hơn và giao cho nhiều [[CPU|bộ xử lý]] hoặc [[lõi xử lý]] khác nhau để thực hiện cùng một lúc.
+Lập trình song song (Parallel programming) là một kỹ thuật lập trình trong đó nhiều tác vụ hoặc phần của một [[chương trình]] được thực hiện đồng thời. Thay vì chạy từng tác vụ một cách tuần tự, lập trình song song chia nhỏ công việc thành các phần nhỏ hơn và giao cho nhiều [[bộ xử lý]] hoặc [[lõi xử lý]] khác nhau để thực hiện cùng một lúc.
 
 ### Mục tiêu của lập trình song song:
 
