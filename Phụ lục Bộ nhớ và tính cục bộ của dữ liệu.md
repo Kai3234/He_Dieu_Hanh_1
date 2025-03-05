@@ -1,7 +1,7 @@
-# [[4.1 Bộ nhớ CUDA]]
+## [[4.1 Bộ nhớ CUDA]]
 
 ## [[4.1 Bộ nhớ CUDA#1|1]]
-# [[4.2 Thuật toán song song dạng ô]]
+## [[4.2 Thuật toán song song dạng ô]]
 <<<<<<< HEAD
 ## [[4.3 Phép nhân ma trận lát gạch]]
 ## [[4.4 Kernel nhân ma trận dạng ô]]
