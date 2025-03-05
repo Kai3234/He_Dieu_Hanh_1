@@ -1,0 +1,1 @@
+Xử lý ảnh (Image Processing) là quá trình biến đổi một hình ảnh số (digital image) thành một hình ảnh khác hoặc trích xuất thông tin hữu ích từ hình ảnh đó. Quá trình này bao gồm nhiều công đoạn khác nhau, từ việc cải thiện chất lượng hình ảnh (như tăng độ tương phản, giảm nhiễu) đến việc phân tích và nhận dạng đối tượng trong ảnh.
