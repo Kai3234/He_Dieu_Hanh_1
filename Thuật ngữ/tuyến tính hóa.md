@@ -1,0 +1,1 @@
+**Tuyến tính hóa (Linearization)** là một phương pháp toán học dùng để xấp xỉ một hệ thống hoặc hàm phi tuyến tính bằng một hệ thống/hàm tuyến tính, thường xung quanh một điểm cụ thể (ví dụ: điểm cân bằng hoặc điểm làm việc). Mục đích là đơn giản hóa việc phân tích và giải quyết các bài toán phức tạp bằng cách tận dụng các công cụ của đại số tuyến tính.
