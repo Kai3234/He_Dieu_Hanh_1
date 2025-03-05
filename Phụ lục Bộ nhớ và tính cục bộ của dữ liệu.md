@@ -12,5 +12,7 @@
 - #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Một giải pháp "đơn giản"|Một giải pháp "đơn giản"]]
 - #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Triển khai|Triển khai]]
 - #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Một giải pháp "đơn giản"|Một giải pháp "đơn giản"]]
+- #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Các ý quan trọng|Các ý quan trọng]]
+- #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Mở rộng cho ma trận hình chữ nhật|Mở rộng cho]]
 
 
