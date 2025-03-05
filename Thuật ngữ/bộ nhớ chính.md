@@ -1,4 +1,4 @@
-Bộ nhớ chính (main memory), còn được gọi là bộ nhớ trong (internal memory) hay bộ nhớ truy cập ngẫu nhiên (RAM - Random Access Memory), là một phần quan trọng của máy tính, nơi dữ liệu và chương trình được lưu trữ tạm thời trong quá trình hoạt động. Nó cho phép [[CPU]] (Central Processing Unit - Bộ xử lý trung tâm) truy cập dữ liệu một cách nhanh chóng và ngẫu nhiên để thực hiện các tác vụ xử lý.
+Bộ nhớ chính (main memory), còn được gọi là bộ nhớ trong (internal memory) hay bộ nhớ truy cập ngẫu nhiên (RAM - Random Access Memory), là một phần quan trọng của máy tính, nơi dữ liệu và chương trình được lưu trữ tạm thời trong quá trình hoạt động. Nó cho phép [[CPU]]  truy cập dữ liệu một cách nhanh chóng và ngẫu nhiên để thực hiện các tác vụ xử lý.
 
 ### Đặc điểm của bộ nhớ chính
 
