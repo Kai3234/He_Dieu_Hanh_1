@@ -9,9 +9,9 @@
 
 ## [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán lát gạch]]
 
-- #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Mục tiêu|Mục tiêu]]
-- #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Vấn đề của ma trận có kích thước không chia hết chiều rộng ô|Vấn đề của ma trận có kích thước không chia hết chiều rộng ô]]
-- #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Một giải pháp "đơn giản"|Một giải pháp "đơn giản"]]
+- #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#1) Mục tiêu|1) Mục tiêu]]
+- #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#2) Vấn đề của ma trận có kích thước không chia hết chiều rộng ô|2) Vấn đề của ma trận có kích thước không chia hết chiều rộng ô]]
+- #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#3) Một giải pháp "đơn giản"|Một giải pháp "đơn giản"]]
 - #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Triển khai|Triển khai]]
 - #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Một giải pháp "đơn giản"|Một giải pháp "đơn giản"]]
 - #### [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô#Các ý quan trọng|Các ý quan trọng]]
