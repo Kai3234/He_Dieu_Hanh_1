@@ -1,2 +1,1 @@
-Bộ nhớ chia sẻ (Shared Memory) trong [[CUDA]] là một loại [[bộ nhớ cục bộ]], được chia sẻ giữa các luồng trong cùng một khối (block).
-Nó có tốc độ nhanh hơn nhiều so với [[bộ nhớ toàn cục]] vì nằm trực tiếp trên từng Multiprocessor của [[GPU]].
+Bộ nhớ chia sẻ là một vùng bộ nhớ có thể được truy cập bởi nhiều [[tiến trình]] hoặc [[luồng]] khác nhau để trao đổi [[dữ liệu]] mà không cần thông qua[[ hệ thống tệp]] hoặc cơ chế liên lạc phức tạp như gửi tin nhắn (message passing).
