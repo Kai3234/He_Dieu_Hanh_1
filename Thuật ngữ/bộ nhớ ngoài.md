@@ -1,4 +1,4 @@
-Bộ nhớ ngoài (External Memory hoặc Secondary Storage) là loại [[bộ nhớ]] được sử dụng để lưu trữ [[dữ liệu]] lâu dài, ngay cả khi máy tính tắt nguồn. Đây là [[bộ nhớ]] tách biệt với bộ nhớ trong ([[bộ nhớ chính|RAM]], [[bộ nhớ đệm|Cache]]), có dung lượng lớn hơn nhưng tốc độ truy cập chậm hơn.
+Bộ nhớ ngoài (External Memory hoặc Secondary Storage) là loại [[bộ nhớ]] được sử dụng để lưu trữ [[dữ liệu]] lâu dài, ngay cả khi máy tính tắt nguồn. Đây là [[bộ nhớ]] tách biệt với bộ nhớ trong ([[RAM]], [[bộ nhớ đệm|Cache]]), có dung lượng lớn hơn nhưng tốc độ truy cập chậm hơn.
 
 ### Các loại bộ nhớ ngoài phổ biến
 
