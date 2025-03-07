@@ -8,13 +8,13 @@ Trong hệ điều hành, carpooling (hay còn gọi là ghép xe)  có thể đ
 
 **Lợi ích của carpooling (theo nghĩa bóng) trong hệ điều hành:**
 
-- **Tiết kiệm tài nguyên:** Giảm thiểu việc sử dụng bộ nhớ, CPU, thiết bị ngoại vi, từ đó giúp hệ thống hoạt động hiệu quả hơn.
+- **Tiết kiệm tài nguyên:** Giảm thiểu việc sử dụng [[bộ nhớ]], [[CPU]], [[thiết bị ngoại vi]], từ đó giúp hệ thống hoạt động hiệu quả hơn.
 - **Tăng hiệu suất:** Tối ưu hóa việc sử dụng tài nguyên giúp hệ thống xử lý công việc nhanh hơn.
 - **Giảm chi phí:** Giảm chi phí đầu tư và vận hành hệ thống do sử dụng tài nguyên hiệu quả hơn.
 
 Tuy nhiên, việc chia sẻ tài nguyên cũng có thể gây ra một số vấn đề, chẳng hạn như:
 
-- **Xung đột:** Các tiến trình có thể tranh chấp tài nguyên, dẫn đến tình trạng chờ đợi hoặcDeadlock.
+- **Xung đột:** Các tiến trình có thể tranh chấp tài nguyên, dẫn đến tình trạng chờ đợi hoặc [[Deadlock]].
 - **Bảo mật:** Việc chia sẻ tài nguyên có thể làm tăng nguy cơ bị tấn công hoặc truy cập trái phép.
 
 Do đó, cần có các cơ chế quản lý và điều phối tài nguyên một cách hiệu quả để đảm bảo hệ thống hoạt động ổn định và an toàn.
