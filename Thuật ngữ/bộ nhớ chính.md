@@ -4,7 +4,7 @@
 
 1. **Tốc độ truy xuất cực nhanh**
     
-    - Được thiết kế để [[CPU]] đọc/ghi dữ liệu trực tiếp mà không cần thông qua thiết bị trung gian.
+    - Được thiết kế để [[CPU]] [[đọc]]/[[ghi]] dữ liệu trực tiếp mà không cần thông qua [[thiết bị trung gian]].
         
     - Ví dụ: RAM có tốc độ hàng tỷ lần truy cập mỗi giây (nanosecond).
         
