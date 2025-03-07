@@ -1,0 +1,1 @@
+**Bo mạch chủ (Motherboard, Mainboard)** là bảng mạch chính trong máy tính, có nhiệm vụ **kết nối và điều phối hoạt động của tất cả các linh kiện [[phần cứng]]**
