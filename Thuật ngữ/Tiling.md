@@ -6,9 +6,9 @@
     
 3. **Trong xử lý hình ảnh**: Tiling có thể được sử dụng để xử lý các hình ảnh lớn bằng cách chia chúng thành các phần nhỏ hơn. Điều này cho phép các [[thuật toán]] [[xử lý hình ảnh]] hoạt động hiệu quả hơn, vì chúng có thể làm việc với các tile nhỏ mà không cần phải tải toàn bộ hình ảnh vào bộ nhớ cùng một lúc.
     
-4. **Trong lập trình song song**: Khi lập trình cho [[GPU]], [[Tiling|tiling]] có thể giúp tối ưu hóa việc sử dụng [[bộ nhớ đệm]]. Bằng cách chia dữ liệu thành các [[ô]], các [[luồng]] có thể truy cập vào dữ liệu gần nhau trong bộ nhớ, giảm thiểu độ trễ và tăng tốc độ truy cập.
+4. **Trong lập trình song song**: Khi lập trình cho [[GPU]], [[Tiling|tiling]] có thể giúp tối ưu hóa việc sử dụng [[bộ nhớ đệm]]. Bằng cách chia dữ liệu thành các [[ô]], các [[luồng]] có thể truy cập vào [[dữ liệu]] gần nhau trong [[bộ nhớ]], giảm thiểu [[độ trễ]] và tăng tốc độ truy cập.
     
-5. **Tối ưu hóa hiệu suất**: Tiling giúp cải thiện hiệu suất bằng cách giảm thiểu việc truy cập vào bộ nhớ chính và tận dụng bộ nhớ cache hiệu quả hơn. Điều này đặc biệt quan trọng trong các ứng dụng yêu cầu xử lý dữ liệu lớn hoặc tính toán phức tạp.
+5. **Tối ưu hóa hiệu suất**: Tiling giúp cải thiện hiệu suất bằng cách giảm thiểu việc truy cập vào [[bộ nhớ chính]] và tận dụng [[bộ nhớ đệm]] hiệu quả hơn. Điều này đặc biệt quan trọng trong các [[ứng dụng]] yêu cầu xử lý [[dữ liệu]] lớn hoặc tính toán phức tạp.
     
 
 Tóm lại, tiling là một kỹ thuật quan trọng trong nhiều lĩnh vực, giúp tối ưu hóa hiệu suất và quản lý tài nguyên một cách hiệu quả hơn.
