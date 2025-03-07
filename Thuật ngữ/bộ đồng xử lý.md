@@ -2,7 +2,7 @@ Bộ đồng xử lý (Coprocessor) là một [[bộ xử lý]] máy tính đư�
 
 ### Chức năng
 
-Các bộ đồng xử lý khác nhau về mức độ tự chủ. Một số phụ thuộc vào việc điều khiển trực tiếp thông qua các [[lệnh đồng xử lý]], được nhúng trong luồng lệnh của [[CPU]]. Những bộ khác hoạt động như các bộ xử lý độc lập, có khả năng xử lý không đồng bộ; tuy nhiên, chúng không được tối ưu hóa cho các tác vụ tổng quát hoặc không thể thực hiện do [[kiến trúc tập lệnh]] hạn chế, chuyên tập trung vào việc tăng tốc các nhiệm vụ cụ thể. Thông thường, các bộ đồng xử lý này được điều khiển bằng [[truy cập bộ nhớ trực tiếp]] (DMA), với bộ xử lý chủ (CPU) xây dựng một danh sách lệnh để hướng dẫn hoạt động của chúng.
+Các bộ đồng xử lý khác nhau về mức độ tự chủ. Một số phụ thuộc vào việc điều khiển trực tiếp thông qua các [[lệnh đồng xử lý]], được nhúng trong luồng lệnh của [[CPU]]. Những bộ khác hoạt động như các bộ xử lý độc lập, có khả năng xử lý không đồng bộ; tuy nhiên, chúng không được tối ưu hóa cho các tác vụ tổng quát hoặc không thể thực hiện do [[kiến trúc tập lệnh]] hạn chế, chuyên tập trung vào việc tăng tốc các nhiệm vụ cụ thể. Thông thường, các bộ đồng xử lý này được điều khiển bằng [[truy cập bộ nhớ trực tiếp]], với bộ xử lý chủ ([[CPU]]) xây dựng một danh sách lệnh để hướng dẫn hoạt động của chúng.
 
 ### Lợi ích chính:
 
