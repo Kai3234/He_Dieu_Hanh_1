@@ -1,6 +1,6 @@
-Bố cục tuyến tính hóa của ma trận 2D, hay còn gọi là "flattening" hoặc "serialization", là quá trình chuyển đổi một ma trận hai chiều thành một mảng một chiều. Quá trình này rất quan trọng trong nhiều ứng dụng, đặc biệt là trong lĩnh vực [[xử lý ảnh]], học máy và lưu trữ dữ liệu.
+Bố cục tuyến tính hóa của ma trận 2D, hay còn gọi là "flattening" hoặc "serialization", là quá trình chuyển đổi một ma trận hai chiều thành một mảng một chiều. Quá trình này rất quan trọng trong nhiều ứng dụng, đặc biệt là trong lĩnh vực [[xử lý ảnh]], [[học máy]] và [[lưu trữ dữ liệu]].
 
-Có hai cách phổ biến để tuyến tính hóa một ma trận M có kích thước m×n:
+Có hai cách phổ biến để [[tuyến tính hóa]] một ma trận M có kích thước m×n:
 
 1. Tuyến tính hóa theo hàng (Row-major order)
 	- Duyệt theo từng hàng, từ trái sang phải.
