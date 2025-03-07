@@ -8,6 +8,6 @@ Các bộ đồng xử lý khác nhau về mức độ tự chủ của chúng. 
 
 - Card đồ họa ([[GPU]]) là bộ đồng xử lý chuyên xử lý hình ảnh.
     
-- TPU (Tensor Processing Unit) của Google tối ưu cho các tác vụ AI.
+- [[TPU]] của Google tối ưu cho các tác vụ AI.
     
-- Vi xử lý FPGA dùng để tùy chỉnh chức năng theo nhu cầu.
+- [[Vi xử lý FPGA]] dùng để tùy chỉnh chức năng theo nhu cầu.
