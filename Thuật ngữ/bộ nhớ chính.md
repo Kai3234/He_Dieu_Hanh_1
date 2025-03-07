@@ -1,4 +1,4 @@
-**Bộ nhớ chính (Primary Memory)** là loại bộ nhớ **trực tiếp tương tác với [[CPU]]**, có nhiệm vụ [[lưu trữ dữ liệu]] và lệnh **tạm thời** để [[CPU]] xử lý ngay lập tức. Đây là thành phần quan trọng quyết định tốc độ và hiệu suất của máy tính.
+**Bộ nhớ chính (Primary Memory)** là loại bộ nhớ **trực tiếp tương tác với [[CPU]]**, có nhiệm vụ [[lưu trữ dữ liệu]] và [[lệnh]] **tạm thời** để [[CPU]] xử lý ngay lập tức. Đây là thành phần quan trọng quyết định tốc độ và hiệu suất của máy tính.
 
 ### Đặc điểm chính
 
