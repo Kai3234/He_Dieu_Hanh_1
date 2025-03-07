@@ -1,4 +1,4 @@
-Bộ nhớ (Memory) trong máy tính là nơi lưu trữ [[dữ liệu]] và [[chương trình]] để máy tính có thể truy xuất và xử lý. Nó đóng vai trò quan trọng trong hoạt động của hệ thống, ảnh hưởng đến tốc độ và hiệu suất làm việc của máy tính.
+Bộ nhớ (Memory) trong máy tính lưu trữ dữ liệu máy tính một cách lâu dài (khi kết thúc một phiên làm việc của máy tính thì dữ liệu không bị mất đi), hoặc lưu dữ liệu tạm thời trong quá trình làm việc của máy tính (khi kết thúc một phiên làm việc của máy tính thì bộ nhớ này bị mất hết [dữ liệu](https://vi.wikipedia.org/wiki/D%E1%BB%AF_li%E1%BB%87u "Dữ liệu")).
 
 ### Phân loại
 - [[bộ nhớ chính]]
