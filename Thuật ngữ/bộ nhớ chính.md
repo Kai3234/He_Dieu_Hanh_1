@@ -14,12 +14,12 @@
         
 3. **Dữ liệu dễ bay hơi (Volatile)**
     
-    - **Mất dữ liệu khi tắt nguồn** (trừ ROM).
+    - **Mất [[dữ liệu]] khi tắt nguồn** (trừ [[ROM]]).
         
 4. **Vị trí vật lý gần CPU**
     
-    - Được gắn trực tiếp trên bo mạch chủ (mainboard) hoặc tích hợp trong CPU
+    - Được gắn trực tiếp trên [[bo mạch chủ]] hoặc tích hợp trong [[CPU]]
 
 ### Phân loại
-1. RAM
-2. ROM
+1. [[RAM]]
+2. [[ROM]]
