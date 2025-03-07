@@ -10,7 +10,7 @@
         
 2. **[[dung lượng|Dung lượng]] hạn chế**
     
-    - Thường nhỏ hơn bộ nhớ phụ (ví dụ: RAM phổ thông từ 8GB đến 64GB, trong khi ổ cứng có thể lên đến hàng TB).
+    - Thường nhỏ hơn [[bộ nhớ phụ]] (ví dụ: RAM phổ thông từ 8GB đến 64GB, trong khi ổ cứng có thể lên đến hàng TB).
         
 3. **Dữ liệu dễ bay hơi (Volatile)**
     
