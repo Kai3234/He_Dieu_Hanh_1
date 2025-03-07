@@ -16,5 +16,5 @@ Các bộ đồng xử lý khác nhau về mức độ tự chủ. Một số p
 - **[[FPU]] (Floating Point Unit)** – Xử lý phép toán dấu phẩy động, tăng tốc các phép toán toán học phức tạp.
 - **[[GPU]] (Graphics Processing Unit)** – Xử lý đồ họa, tăng tốc hiển thị hình ảnh, video và AI.
 - **[[DSP]] (Digital Signal Processor)** – Xử lý tín hiệu số, ứng dụng trong âm thanh, hình ảnh, viễn thông.
-- **[[TPU]] (Tensor Processing Unit)** – Đồng xử lý chuyên dụng cho [[AI]]/[[Machine Learning]] của Google.
+- **[[TPU]] (Tensor Processing Unit)** – Đồng xử lý chuyên dụng cho [[AI]]/[[học máy|Machine Learning]] của Google.
 - **[[bộ đồng xử lý mã hóa|Bộ đồng xử lý mã hóa]] (Encryption Coprocessor)** – Hỗ trợ mã hóa, giải mã dữ liệu bảo mật.
