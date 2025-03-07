@@ -1,0 +1,1 @@
+**Biến cục bộ (Local Variable)** là biến được **khai báo bên trong một hàm, khối lệnh hoặc vòng lặp**, và chỉ có thể truy cập được trong phạm vi (scope) đó. Khi hàm/khoi lệnh kết thúc, biến cục bộ sẽ bị hủy và bộ nhớ được giải phóng.
