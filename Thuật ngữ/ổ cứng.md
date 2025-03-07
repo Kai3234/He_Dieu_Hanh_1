@@ -1,1 +1,1 @@
-Ổ cứng (Hard Drive) là [[bộ nhớ phụ]] của máy tính, dùng để lưu trữ hệ điều hành, phần mềm và dữ liệu người dùng một cách lâu dài, ngay cả khi tắt nguồn.
+Ổ cứng (Hard Drive) là [[bộ nhớ phụ]], thiết bị [[lưu trữ dữ liệu]] chính của máy tính, dùng để lưu trữ [[hệ điều hành]], [[phần mềm]] và [[dữ liệu]] người dùng một cách lâu dài, ngay cả khi tắt nguồn.
