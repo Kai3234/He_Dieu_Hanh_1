@@ -4,4 +4,4 @@ Bộ nhớ (Memory) trong máy tính lưu trữ dữ liệu máy tính một c
 - [[bộ nhớ chính|Bộ nhớ chính]]
 - [[bộ nhớ ngoài|Bộ nhớ ngoài]]
 - [[bộ nhớ đệm|Bộ nhớ đệm]] và [[thanh ghi]]
-- [[bộ nhớ ảo|Bộ nh]]
+- [[bộ nhớ ảo|Bộ nhớ ảo]]
