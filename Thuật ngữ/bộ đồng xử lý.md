@@ -4,10 +4,4 @@ Bộ đồng xử lý (Coprocessor) là một [[bộ xử lý]] máy tính đư�
 
 Các bộ đồng xử lý khác nhau về mức độ tự chủ của chúng. Một số phụ thuộc vào sự điều khiển trực tiếp thông qua các lệnh đồng xử lý được nhúng trong luồng lệnh của [[CPU]]. Những bộ khác là những [[bộ xử lý]] độc lập thực sự, có thể hoạt động không đồng bộ; tuy nhiên, chúng vẫn không được tối ưu hóa cho mã đa dụng hoặc không thể thực hiện được do [[kiến trúc tập lệnh]], chỉ tập trung vào việc tăng tốc các tác vụ cụ thể. Thông thường, các bộ đồng xử lý này được điều khiển thông qua [[truy cập bộ nhớ trực tiếp]], trong đó [[CPU|bộ xử lý chính]] xây dựng một danh sách lệnh. 
 
-### Ứng dụng thực tế:
-
-- Card đồ họa ([[GPU]]) là bộ đồng xử lý chuyên xử lý hình ảnh.
-    
-- [[TPU]] của Google tối ưu cho các tác vụ AI.
-    
-- [[Vi xử lý FPGA]] dùng để tùy chỉnh chức năng theo nhu cầu.
+### Ví dụ
