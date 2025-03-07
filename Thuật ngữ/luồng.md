@@ -1,4 +1,4 @@
-Một _thread_ là đơn vị thực thi nhỏ nhất có thể được quản lý bởi hệ điều hành. _Process_ là một nhóm các thread có liên kết, thực thi cùng nhau trên cùng một môi trường và cùng chia sẻ tài nguyên trên đó với nhau. Nghĩa là các thread trong cùng một process chia sẻ với nhau cùng một memory space và có thể giao tiếp trực tiếp với nhau.
+Một _thread_ là đơn vị thực thi nhỏ nhất có thể được quản lý bởi [[hệ điều hành]]. _Process_ là một nhóm các thread có liên kết, thực thi cùng nhau trên cùng một môi trường và cùng chia sẻ tài nguyên trên đó với nhau. Nghĩa là các thread trong cùng một process chia sẻ với nhau cùng một memory space và có thể giao tiếp trực tiếp với nhau.
 
 Một thread không thể tồn tại bên ngoài một process. Ngoài ra, mỗi một thread chỉ có thể tồn tại trong một process.
 Một thread còn có thể coi là một light-weight processes. Một _single-threaded process_ là một process chỉ tồn tại duy nhất một thread, một _multi-threaded process_ là một process có thể tồn tại một hoặc nhiều thread.
