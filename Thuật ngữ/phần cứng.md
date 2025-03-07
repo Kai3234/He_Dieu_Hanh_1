@@ -1,1 +1,1 @@
-Phần cứng (**Hardware**) là tất cả các thành phần vật lý của một hệ thống máy tính mà bạn có thể nhìn thấy và chạm vào được. Chúng là những bộ phận cấu tạo nên chiếc máy tính hoàn chỉnh, từ những thiết bị bên trong cho đến các thiết bị ngoại vi.
+Phần cứng (**Hardware**) là tất cả các thành phần vật lý của một hệ thống máy tính mà bạn có thể nhìn thấy và chạm vào được. Chúng là những bộ phận cấu tạo nên chiếc máy tính hoàn chỉnh, từ những thiết bị bên trong cho đến các [[thiết bị ngoại vi]].
