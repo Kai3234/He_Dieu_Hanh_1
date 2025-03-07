@@ -4,5 +4,5 @@ Thay vì truy xuất từng [[ô|ô nhớ]] riêng lẻ, Burst DRAM cho phép l�
 
 ## Cách thức hoạt động
 - Khi [[CPU]] hoặc bộ điều khiển bộ nhớ yêu cầu [[dữ liệu]] từ [[bộ nhớ chính|RAM]], thay vì chỉ gửi 1 [[ô|ô nhớ]] mỗi lần, Burst DRAM có thể gửi một loạt (burst) [[dữ liệu]] liên tục.
-- Điều này giúp giảm [[độ trễ truy cập bộ nhớ]] và cải thiện hiệu suất.
+- Điều này giúp giảm [[độ trễ]] truy cập bộ nhớ và cải thiện hiệu suất.
 - Số lượng [[dữ liệu]] trong mỗi "burst" thường là 4, 8 hoặc 16 ô nhớ, tùy thuộc vào cấu hình của [[RAM]].
