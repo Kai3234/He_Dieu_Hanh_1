@@ -1,0 +1,2 @@
+**Biến cục bộ của luồng (Thread-local variable)** là **[[biến]] chỉ tồn tại trong phạm vi của một [[luồng]] (thread) cụ thể**, mỗi [[luồng]] có bản sao riêng của [[biến]] đó và không bị ảnh hưởng bởi các luồng [[khác]].
+**Mỗi [[luồng]] có một bản sao độc lập**, tránh xung đột dữ liệu trong [[lập trình]] [[đa luồng]].
