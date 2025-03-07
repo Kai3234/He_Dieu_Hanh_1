@@ -6,10 +6,10 @@
     
     - Cho phép chạy [[ứng dụng]] lớn hơn [[RAM]] vật lý.
         
-- **Cô lập tiến trình**:
+- **Cô lập [[tiến trình]]**:
     
     - Mỗi [[tiến trình]] có **không gian địa chỉ ảo riêng**, tránh xung đột.
         
 - **Quản lý [[bộ nhớ]] linh hoạt**:
     
-    - Hệ điều hành tự động xử lý việc nạp/di chuyển dữ liệu giữa RAM và ổ cứng.
+    - [[Hệ điều hành]] tự động xử lý việc nạp/di chuyển [[dữ liệu]] giữa [[RAM]] và [[ổ cứng]].
