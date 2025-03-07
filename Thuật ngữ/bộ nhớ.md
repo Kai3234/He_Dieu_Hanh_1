@@ -2,6 +2,7 @@ Bộ nhớ (Memory) trong máy tính là nơi lưu trữ [[dữ liệu]] và [[c
 ### Phân loại bộ nhớ trong máy tính
 
 - [[bộ nhớ chính]] 
-- [[bộ nhớ ngoài]] 
+- [[bộ nhớ ngoài]]
+- bộ nhớ thứ cấp
 - [[bộ nhớ đệm]] 
 - [[bộ nhớ ảo]] 
