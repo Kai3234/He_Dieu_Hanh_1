@@ -6,11 +6,11 @@
     
     - Được thiết kế để [[CPU]] [[đọc dữ liệu|đọc]]/[[ghi dữ liệu|ghi]] dữ liệu trực tiếp mà không cần thông qua [[thiết bị trung gian]].
         
-    - Ví dụ: RAM có tốc độ hàng tỷ lần truy cập mỗi giây (nanosecond).
+    - Ví dụ: [[RAM]] có tốc độ hàng tỷ lần truy cập mỗi giây (nanosecond).
         
 2. **[[dung lượng|Dung lượng]] hạn chế**
     
-    - Thường nhỏ hơn [[bộ nhớ phụ]] (ví dụ: RAM phổ thông từ 8GB đến 64GB, trong khi ổ cứng có thể lên đến hàng TB).
+    - Thường nhỏ hơn [[bộ nhớ phụ]] (ví dụ: [[RAM]] phổ thông từ 8GB đến 64GB, trong khi [[ổ cứng]] có thể lên đến hàng TB).
         
 3. **Dữ liệu dễ bay hơi (Volatile)**
     
