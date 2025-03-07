@@ -1,6 +1,6 @@
-"Global memory" là một thuật ngữ thường được sử dụng trong lĩnh vực máy tính và lập trình, đặc biệt là trong ngữ cảnh của các hệ thống [[đa luồng]] hoặc [[lập trình song song]]. Nó thường chỉ đến một vùng nhớ mà tất cả các [[luồng]] hoặc [[tiến trình]] có thể truy cập. Dưới đây là một số điểm chính về  bộ nhớ toàn cục(global memory):
+"Global memory" là một thuật ngữ thường được sử dụng trong lĩnh vực máy tính và lập trình, đặc biệt là trong ngữ cảnh của các hệ thống [[đa luồng]] hoặc [[lập trình song song]]. Nó thường chỉ đến một vùng nhớ mà tất cả các [[luồng]] hoặc [[tiến trình]] có thể [[truy cập dữ liệu|truy cập]]. Dưới đây là một số điểm chính về  bộ nhớ toàn cục(global memory):
 
-1. **Truy cập chung**: Bộ nhớ toàn cục cho phép nhiều [[luồng]] hoặc tiến trình truy cập và chia sẻ dữ liệu. Điều này rất hữu ích trong các ứng dụng cần phối hợp giữa nhiều phần của chương trình.
+1. **Truy cập chung**: Bộ nhớ toàn cục cho phép nhiều [[luồng]] hoặc tiến trình truy cập và chia sẻ dữ liệu. Điều này rất hữu ích trong các ứng dụng cần phối hợp giữa nhiều phần của [[chương trình]].
     
 2. **Hiệu suất**: Mặc dù bộ nhớ toàn cục có thể dễ dàng chia sẻ dữ liệu, việc truy cập vào nó có thể chậm hơn so với các loại bộ nhớ khác (như bộ nhớ cache hoặc bộ nhớ cục bộ) do độ trễ cao hơn.
     
