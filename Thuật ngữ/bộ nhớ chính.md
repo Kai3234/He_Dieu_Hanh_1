@@ -18,4 +18,8 @@
         
 4. **Vị trí vật lý gần CPU**
     
-    - Được gắn trực tiếp trên bo mạch chủ (mainboard) hoặc tích hợp trong CPU (ví dụ: Cache Memory)
+    - Được gắn trực tiếp trên bo mạch chủ (mainboard) hoặc tích hợp trong CPU
+
+### Phân loại
+1. RAM
+2. ROM
