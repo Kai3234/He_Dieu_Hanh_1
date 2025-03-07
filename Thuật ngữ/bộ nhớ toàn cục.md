@@ -4,7 +4,7 @@
 
 1. **Truy cập chung**: Bộ nhớ toàn cục cho phép nhiều [[luồng]] hoặc [[tiến trình]] [[truy cập dữ liệu|truy cập]] và [[chia sẻ dữ liệu|chia sẻ]] dữ liệu. Điều này rất hữu ích trong các [[ứng dụng]] cần phối hợp giữa nhiều phần của [[chương trình]].
     
-2. **Hiệu suất**: Mặc dù bộ nhớ toàn cục có thể dễ dàng [[chia sẻ dữ liệu]], việc truy cập vào nó có thể chậm hơn so với các loại bộ nhớ khác (như bộ nhớ cache hoặc bộ nhớ cục bộ) do độ trễ cao hơn.
+2. **Hiệu suất**: Mặc dù bộ nhớ toàn cục có thể dễ dàng [[chia sẻ dữ liệu]], việc truy cập vào nó có thể chậm hơn so với các loại [[bộ nhớ]] khác (như [[bộ nhớ đệm|bộ nhớ cache]] hoặc [[bộ nhớ cục bộ]]) do độ trễ cao hơn.
     
 3. **Quản lý đồng bộ**: Khi nhiều [[luồng]] hoặc tiến trình truy cập vào bộ nhớ toàn cục, cần có các cơ chế đồng bộ hóa để tránh xung đột và đảm bảo tính nhất quán của dữ liệu.
     
