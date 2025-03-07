@@ -1,0 +1,1 @@
+**Cơ chế đồng bộ hóa (Synchronization Mechanism)** là các phương pháp đảm bảo rằng việc truy xuất và thay đổi dữ liệu dùng chung giữa các luồng diễn ra **an toàn, nhất quán**, tránh xung đột hoặc hỏng dữ liệu. Khi nhiều luồng cùng truy cập vào một vùng nhớ toàn cục, nếu không đồng bộ hóa, có thể xảy ra **race condition** (tranh chấp tài nguyên), dẫn đến kết quả không đoán trước.
