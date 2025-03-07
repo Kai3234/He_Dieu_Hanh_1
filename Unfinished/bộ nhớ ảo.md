@@ -1,0 +1,1 @@
+**Bộ nhớ ảo (Virtual Memory)** là một kỹ thuật quản lý [[bộ nhớ]] cho phép máy tính **mở rộng [[dung lượng]] [[bộ nhớ]] khả dụng** bằng cách sử dụng không gian lưu trữ trên [[ổ cứng]] (HDD/SSD) như một phần mở rộng của RAM vật lý. Nhờ đó, hệ thống có thể chạy các ứng dụng lớn hơn dung lượng RAM thực tế và quản lý đa nhiệm hiệu quả hơn.
