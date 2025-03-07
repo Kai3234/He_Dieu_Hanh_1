@@ -6,6 +6,6 @@
 	- Giúp các [[CPU]] phối hợp làm việc nhanh hơn mà không cần sao chép [[dữ liệu]] qua lại.
 2. Trong [[phần mềm]]:
 	- Là một [[phương thức giao tiếp giữa các tiến trình]].
-	- Một tiến trình có thể tạo ra vùng nhớ chia sẻ, và các tiến trình khác có thể truy cập để đọc/ghi dữ liệu nhanh hơn.
+	- Một [[tiến trình]] có thể tạo ra vùng nhớ chia sẻ, và các [[tiến trình]] khác có thể truy cập để [[đọc dữ liệu|đọc]]/[[ghi dữ liệu|ghi]] dữ liệu nhanh hơn.
 
 
