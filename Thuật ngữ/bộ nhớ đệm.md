@@ -1,4 +1,4 @@
-Bộ nhớ đệm (**Cache memory**)  là loại bộ nhớ tốc độ cao, có nhiệm vụ **lưu trữ dữ liệu và lệnh thường xuyên được sử dụng** để CPU hoặc GPU truy xuất nhanh chóng. Đây là thành phần quan trọng giúp **giảm độ trễ** và **tăng hiệu suất** của hệ thống máy tính.
+Bộ nhớ đệm (**Cache memory**) là một thành phần phần cứng hoặc phần mềm dùng để lưu trữ dữ liệu, giúp các yêu cầu truy cập dữ liệu trong tương lai được xử lý nhanh hơn. Dữ liệu được lưu trữ trong bộ nhớ đệm có thể là kết quả của một phép tính trước đó hoặc bản sao của dữ liệu được lưu trữ ở một nơi khác.
 
 ### Chức năng của bộ nhớ đệm
 - Giảm thời gian truy xuất dữ liệu bằng cách lưu trữ các thông tin hay được sử dụng.
