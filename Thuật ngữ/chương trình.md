@@ -2,9 +2,9 @@ Chương trình máy tính (computer program) là một tập hợp các câu [[
 
 Một chương trình máy tính ở dạng mà con người có thể đọc được được gọi là [[mã nguồn]].
 
-[[mã nguồn|Mã nguồn]] cần một chương trình máy tính khác để thực thi, vì máy tính chỉ có thể chạy các [[lệnh máy]] của riêng nó.
+[[mã nguồn|Mã nguồn]] cần một chương trình máy tính khác để thực thi, vì máy tính chỉ có thể chạy các [[ngôn ngữ máy]] của riêng nó.
 
-Do đó, [[mã nguồn]] có thể được dịch thành [[lệnh máy]] bằng một trình biên dịch dành cho [[ngôn ngữ lập trình]] đó. 
+Do đó, [[mã nguồn]] có thể được dịch thành [[ngôn ngữ máy]] bằng một trình biên dịch dành cho [[ngôn ngữ lập trình]] đó. 
 
 Tệp kết quả sau khi [[biên dịch]] được gọi là [[tệp thực thi]].
 
