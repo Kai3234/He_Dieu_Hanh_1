@@ -1,0 +1,1 @@
+**Biến (Variable)** trong [[lập trình]] là một **"vùng nhớ được đặt tên"** dùng để [[lưu trữ dữ liệu]] tạm thời trong quá trình [[chương trình]] chạy. Biến có thể thay đổi giá trị (variable = có thể biến đổi) và được sử dụng để [[tham chiếu]] đến [[dữ liệu]] trong [[bộ nhớ]].
