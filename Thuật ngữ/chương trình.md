@@ -6,6 +6,6 @@ Một chương trình máy tính ở dạng mà con người có thể đọc đ
 
 Do đó, [[mã nguồn]] có thể được dịch thành [[lệnh máy]] bằng một trình biên dịch dành cho [[ngôn ngữ lập trình]] đó. 
 
-Tệp kết quả sau khi biên dịch được gọi là [[tệp thực thi]].
+Tệp kết quả sau khi [[biên dịch]] được gọi là [[tệp thực thi]].
 
-Ngoài ra, [[mã nguồn ]]cũng có thể được thực thi trực tiếp trong một trình thông dịch dành cho ngôn ngữ lập trình đó.
+Ngoài ra, [[mã nguồn ]]cũng có thể được thực thi trực tiếp trong một trình thông dịch dành cho [[ngôn ngữ lập trình]] đó.
