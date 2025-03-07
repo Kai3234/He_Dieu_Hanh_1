@@ -3,8 +3,8 @@ Trong hệ điều hành, carpooling (hay còn gọi là ghép xe)  có thể đ
 **Ví dụ:**
 
 - **Chia sẻ bộ nhớ:** Các tiến trình có thể chia sẻ cùng một vùng [[bộ nhớ]] để giảm dung lượng sử dụng và tăng tốc độ [[truy cập dữ liệu]].
-- **Chia sẻ CPU:** Các tiến trình có thể được phân chia thời gian sử dụng CPU một cách linh hoạt để tận dụng tối đa khả năng xử lý của hệ thống.
-- **Chia sẻ thiết bị:** Các tiến trình có thể chia sẻ cùng một thiết bị ngoại vi (ví dụ: máy in, ổ cứng) để giảm chi phí và tăng hiệu quả sử dụng.
+- **Chia sẻ CPU:** Các [[tiến trình]] có thể được phân chia thời gian sử dụng [[CPU]] một cách linh hoạt để tận dụng tối đa khả năng xử lý của hệ thống.
+- **Chia sẻ thiết bị:** Các [[tiến trình]] có thể chia sẻ cùng một [[thiết bị ngoại vi]] (ví dụ: máy in, ổ cứng) để giảm chi phí và tăng hiệu quả sử dụng.
 
 **Lợi ích của carpooling (theo nghĩa bóng) trong hệ điều hành:**
 
