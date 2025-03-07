@@ -1,4 +1,4 @@
-Lõi xử lý (**Core**) là một **đơn vị xử lý** bên trong **[[CPU]]**, có khả năng thực hiện các lệnh độc lập. Một [[CPU]] có thể có một hoặc nhiều lõi, và số lượng lõi càng nhiều thì khả năng xử lý đa nhiệm càng mạnh.
+Lõi xử lý (**Core**) là một **đơn vị xử lý** bên trong **[[CPU]]**, có khả năng thực hiện các [[lệnh]] độc lập. Một [[CPU]] có thể có một hoặc nhiều lõi, và số lượng lõi càng nhiều thì khả năng xử lý đa nhiệm càng mạnh.
 ### Vai trò của lõi xử lý
 
 - **Xử lý song song**: Mỗi lõi xử lý có thể hoạt động độc lập, cho phép [[CPU]] xử lý nhiều tác vụ cùng một lúc. Điều này giúp tăng tốc độ xử lý và cải thiện hiệu suất của hệ thống.

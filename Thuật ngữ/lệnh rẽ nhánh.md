@@ -1,4 +1,4 @@
-Lệnh rẽ nhánh (**Branch Instruction**) là một loại lệnh trong [[lập trình]] điều khiển luồng thực thi của [[chương trình]] bằng cách **chuyển hướng** sang một phần khác của [[mã nguồn]], thay vì chạy tuần tự từng dòng (if-else, switch...).
+Lệnh rẽ nhánh (**Branch Instruction**) là một loại [[lệnh]] trong [[lập trình]] điều khiển luồng thực thi của [[chương trình]] bằng cách **chuyển hướng** sang một phần khác của [[mã nguồn]], thay vì chạy tuần tự từng dòng (if-else, switch...).
 
 ### Có hai loại chính:
 
