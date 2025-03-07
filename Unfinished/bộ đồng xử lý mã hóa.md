@@ -1,0 +1,3 @@
+**Bộ đồng xử lý mã hóa (Encryption Coprocessor)** là một **[[bộ xử lý]] chuyên dụng** được thiết kế để **thực hiện các thuật toán mã hóa và giải mã dữ liệu** một cách nhanh chóng và an toàn. Nó hoạt động độc lập hoặc kết hợp với CPU để **tăng tốc độ xử lý mã hóa và giảm tải cho hệ thống chính**.
+
+📌 **Mục đích chính:** Bảo vệ dữ liệu, tăng cường bảo mật và cải thiện hiệu suất xử lý mã hóa trong các ứng dụng như mạng, lưu trữ dữ liệu, tài chính và thiết bị di động.
