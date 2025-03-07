@@ -1,4 +1,4 @@
-Trong thuật toán nhân ma trận dạng ô, pha (phases) là các bước nhỏ trong quá trình tính toán, giúp giảm số lần truy xuất bộ nhớ toàn cục và tận dụng bộ nhớ chia sẻ để tối ưu hiệu suất.
+Trong thuật toán nhân ma trận dạng [[ô]], pha (phases) là các bước nhỏ trong quá trình tính toán, giúp giảm số lần truy xuất [[bộ nhớ toàn cục]] và tận dụng bộ nhớ chia sẻ để tối ưu hiệu suất.
 Thay vì để mỗi [[luồng]] truy xuất toàn bộ dữ liệu từ bộ nhớ toàn cục trong một lần, thuật toán chia nhỏ quá trình xử lý thành nhiều pha:
 1. Mỗi pha tải một phần dữ liệu nhỏ (tile) từ bộ nhớ toàn cục vào bộ nhớ chia sẻ.
 2. Dữ liệu trong bộ nhớ chia sẻ được sử dụng để tính toán trong một pha.

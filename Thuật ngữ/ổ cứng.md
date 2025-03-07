@@ -9,4 +9,5 @@
 - **Sao lưu (Backup)**: Phòng tránh mất dữ liệu do hỏng hóc.
 
 ### Phân loại ổ cứng
-[[HDD|Ổ cứng HDD]]
+- [[HDD|Ổ cứng HDD]]
+- [[SSD|Ổ cứng SSD]]
