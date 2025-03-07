@@ -4,4 +4,4 @@
 
 - **Không đồng bộ hóa**: Các [[luồng]] tự do truy cập tài nguyên chung mà không có [[cơ chế khóa]] (lock) hoặc kiểm soát.
     
-- **[[Thao tác không nguyên tử]]**: Các phép toán như ghi/đọc dữ liệu bị chia cắt thành nhiều bước nhỏ, tạo cơ hội cho luồng khác can thiệp giữa chừng.
+- **[[thao tác không nguyên tử|Thao tác không nguyên tử]]**: Các phép toán như [[ghi dữ liệu|ghi]]/[[đọc dữ liệu|đọc]] [[dữ liệu]] bị chia cắt thành nhiều bước nhỏ, tạo cơ hội cho luồng khác can thiệp giữa chừng.
