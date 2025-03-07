@@ -1,1 +1,1 @@
-Bộ nhớ chia sẻ là một vùng bộ nhớ có thể được truy cập bởi nhiều [[tiến trình]] hoặc [[luồng]] khác nhau để trao đổi [[dữ liệu]] mà không cần thông qua[[ hệ thống tệp]] hoặc cơ chế liên lạc phức tạp.
+Bộ nhớ chia sẻ là bộ nhớ mà tất cả các bộ xử lý có thể truy cập. Ở góc độ phần cứng, điều này có nghĩa là tất cả các bộ xử lý đều có quyền truy cập trực tiếp vào bộ nhớ vật lý chung thông qua một hệ thống bus (thường sử dụng dây dẫn). Các bộ xử lý này có thể hoạt động độc lập trong khi vẫn truy cập cùng một bộ nhớ.
