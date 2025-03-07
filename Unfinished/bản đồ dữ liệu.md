@@ -1,1 +1,0 @@
-**Bản đồ dữ liệu (Data Map)** là một công cụ hoặc sơ đồ trực quan mô tả cách [[dữ liệu]] được **lưu trữ, di chuyển, liên kết và sử dụng** trong một hệ thống hoặc tổ chức. Nó giúp hiểu rõ nguồn gốc, luồng dữ liệu và mối quan hệ giữa các thành phần dữ liệu, từ đó hỗ trợ quản lý, phân tích và tối ưu hóa dữ liệu hiệu quả.
