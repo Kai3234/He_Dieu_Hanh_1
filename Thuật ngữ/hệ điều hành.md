@@ -1,4 +1,4 @@
-Hệ điều hành (Operating System - OS) là một phần mềm hệ thống đóng vai trò trung gian giữa người dùng và phần cứng của máy tính. Nó quản lý và điều phối các tài nguyên của hệ thống (như bộ nhớ, bộ xử lý, thiết bị vào/ra) để các chương trình ứng dụng có thể hoạt động một cách hiệu quả.
+Hệ điều hành (Operating System - OS) là một phần mềm hệ thống đóng vai trò trung gian giữa người dùng và [[phần cứng]] của máy tính. Nó quản lý và điều phối các tài nguyên của hệ thống (như [[bộ nhớ]], [[bộ xử lý]], [[thiết bị vào, ra|thiết bị vào/ra]]) để các chương trình ứng dụng có thể hoạt động một cách hiệu quả.
 
 ## Vai trò của hệ điều hành
 
