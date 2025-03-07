@@ -1,6 +1,6 @@
 **Wavefront** là một nhóm các **[[luồng]] chạy song song** trên **[[GPU]] AMD**. Nó là đơn vị thực thi cơ bản trong kiến trúc **AMD GCN (Graphics Core Next) và RDNA (Radeon DNA)**, tương tự như **[[Warp]] trên [[GPU]] NVIDIA**.
-- **Wavefront** là một nhóm **32 hoặc 64 luồng** thực thi cùng lúc trong GPU AMD.
-- Giúp [[GPU]] **tăng tốc tính toán song song** trong các ứng dụng đồ họa, AI, và xử lý [[dữ liệu]] lớn.
+- **Wavefront** là một nhóm **32 hoặc 64 [[luồng]]** thực thi cùng lúc trong [[GPU]] AMD.
+- Giúp [[GPU]] **tăng tốc tính toán song song** trong các ứng dụng [[đồ họa]], [[AI]], và xử lý [[dữ liệu]] lớn.
 
 ### Cách hoạt động
 
