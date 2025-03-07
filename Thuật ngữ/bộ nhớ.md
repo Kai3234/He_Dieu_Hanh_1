@@ -2,6 +2,6 @@ Bộ nhớ (Memory) trong máy tính [[lưu trữ dữ liệu]] máy tính m�
 
 ### Các cấp độ chính của bộ nhớ
 - [[bộ nhớ chính|Bộ nhớ chính]]
-- [[bộ nhớ ngoài|Bộ nhớ ngoài]]
+- [[bộ nhớ phụ|Bộ nhớ phụ]]
 - [[bộ nhớ đệm|Bộ nhớ đệm]] và [[thanh ghi]]
 - [[bộ nhớ ảo|Bộ nhớ ảo]]
