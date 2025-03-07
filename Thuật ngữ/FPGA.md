@@ -1,4 +1,4 @@
-**FPGA (Field-Programmable Gate Array)** là một loại [[vi mạch]] **có thể lập trình lại** sau khi sản xuất. Không giống như [[CPU]] hay [[GPU]] có cấu trúc cố định, [[FPGA]] cho phép người dùng **tự thiết kế và tối ưu hóa [[phần cứng]] theo nhu cầu cụ thể**.
+**FPGA (Field-Programmable Gate Array)** là một loại [[vi mạch]] **có thể [[lập trình]] lại** sau khi sản xuất. Không giống như [[CPU]] hay [[GPU]] có cấu trúc cố định, [[FPGA]] cho phép người dùng **tự thiết kế và tối ưu hóa [[phần cứng]] theo nhu cầu cụ thể**.
 ### Đặc điểm của FPGA
 
 - **Có thể lập trình lại** – Thay đổi chức năng của [[vi mạch]] theo nhu cầu.  
