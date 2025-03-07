@@ -1,8 +1,8 @@
-"Tiling" là một kỹ thuật được sử dụng trong nhiều lĩnh vực, bao gồm đồ họa máy tính, xử lý hình ảnh, và lập trình song song, đặc biệt là trong ngữ cảnh của GPU và CUDA. Dưới đây là một số khía cạnh chính của tiling:
+"Tiling" là một kỹ thuật được sử dụng trong nhiều lĩnh vực, bao gồm [[đồ họa]] máy tính, [[xử lý hình ảnh]], và [[lập trình song song]], đặc biệt là trong ngữ cảnh của [[GPU]] và [[CUDA]]. Dưới đây là một số khía cạnh chính của tiling:
 
 1. **Định nghĩa**: Tiling là phương pháp chia nhỏ một không gian lớn thành các phần nhỏ hơn, gọi là "tiles" ([[ô]]). Mỗi tile có thể được xử lý độc lập, giúp tối ưu hóa hiệu suất và sử dụng tài nguyên.
     
-2. **Trong đồ họa máy tính**: Tiling thường được sử dụng để quản lý bộ nhớ và cải thiện hiệu suất render. Thay vì xử lý toàn bộ hình ảnh hoặc khung hình cùng một lúc, hệ thống có thể chia nó thành các tile nhỏ hơn và xử lý từng tile một cách độc lập. Điều này giúp giảm lượng dữ liệu cần phải tải vào bộ nhớ và cải thiện tốc độ xử lý.
+2. **Trong đồ họa máy tính**: Tiling thường được sử dụng để quản lý [[bộ nhớ]] và cải thiện hiệu suất [[Render|render]]. Thay vì xử lý toàn bộ hình ảnh hoặc khung hình cùng một lúc, hệ thống có thể chia nó thành các tile nhỏ hơn và xử lý từng tile một cách độc lập. Điều này giúp giảm lượng dữ liệu cần phải tải vào bộ nhớ và cải thiện tốc độ xử lý.
     
 3. **Trong xử lý hình ảnh**: Tiling có thể được sử dụng để xử lý các hình ảnh lớn bằng cách chia chúng thành các phần nhỏ hơn. Điều này cho phép các thuật toán xử lý hình ảnh hoạt động hiệu quả hơn, vì chúng có thể làm việc với các tile nhỏ mà không cần phải tải toàn bộ hình ảnh vào bộ nhớ cùng một lúc.
     
