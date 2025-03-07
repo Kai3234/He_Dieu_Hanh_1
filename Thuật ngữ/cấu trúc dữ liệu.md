@@ -1,0 +1,3 @@
+Trong khoa học máy tính, **cấu trúc dữ liệu (Data Structure)** là một cách tổ chức và định dạng [[lưu trữ dữ liệu]], thường được lựa chọn để tối ưu hóa việc [[truy xuất dữ liệu]] một cách hiệu quả.
+
+Chính xác hơn, **cấu trúc dữ liệu** là một tập hợp các giá trị [[dữ liệu]], mối quan hệ giữa chúng, và các hàm hoặc thao tác có thể áp dụng lên dữ liệu. Nói cách khác, nó là một cấu trúc đại số liên quan đến dữ liệu.
