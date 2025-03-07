@@ -2,7 +2,7 @@
 
 ## **Ứng dụng của cổng giao tiếp**
 
-✔ **Kết nối [[thiết bị ngoại vi]]** (bàn phím, chuột, máy in).  
-✔ **Truyền tải [[dữ liệu]] nhanh chóng** ([[USB]], [[Ethernet]]).  
-✔ **Kết nối [[mạng]] và truy cập [[Internet]]** (Wi-Fi, cổng RJ45).  
-✔ **Giao tiếp giữa [[phần mềm]] và [[phần cứng]]** (cổng COM, TCP/IP).
+✔ **Kết nối [[thiết bị ngoại vi]]** .  
+✔ **Truyền tải [[dữ liệu]] nhanh chóng**.  
+✔ **Kết nối [[mạng]] và truy cập [[Internet]]**.  
+✔ **Giao tiếp giữa [[phần mềm]] và [[phần cứng]]**.

@@ -1,0 +1,1 @@
+**Cơ sở dữ liệu (Database - DB)** là một hệ thống **tổ chức, lưu trữ và quản lý [[dữ liệu]]** một cách có cấu trúc, cho phép truy xuất, cập nhật và phân tích thông tin hiệu quả. Dữ liệu được quản lý thông qua **hệ quản trị cơ sở dữ liệu (DBMS)** như MySQL, PostgreSQL, hoặc MongoDB, giúp đảm bảo tính toàn vẹn, bảo mật và chia sẻ dữ liệu giữa nhiều người dùng hoặc ứng dụng.
