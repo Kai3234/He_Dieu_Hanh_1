@@ -2,6 +2,7 @@ Bộ nhớ đệm (**Cache memory**) là một thành phần [[phần cứng]] h
 
 ### Cơ chế hoạt động
 Khi [[bộ xử lý]] cần truy cập dữ liệu, nó sẽ kiểm tra **bộ nhớ đệm trước**.
+- Khi xảy ra cache hit
 **Cache hit** xảy ra khi [[dữ liệu]] được yêu cầu có sẵn trong bộ nhớ đệm, trong khi **cache miss** xảy ra khi dữ liệu không có sẵn. Khi xảy ra cache hit, dữ liệu được truy xuất trực tiếp từ bộ nhớ đệm, giúp tăng tốc độ xử lý so với việc phải tính toán lại hoặc đọc từ [[bộ nhớ]] chậm hơn. Do đó, càng nhiều yêu cầu được xử lý từ bộ nhớ đệm, hệ thống sẽ hoạt động càng nhanh.
 
 ### Chức năng của bộ nhớ đệm
