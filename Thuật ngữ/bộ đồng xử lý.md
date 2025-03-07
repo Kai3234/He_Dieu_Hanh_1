@@ -1,4 +1,4 @@
-Bộ đồng xử lý là một bộ xử lý máy tính được sử dụng để bổ sung cho các chức năng của bộ xử lý chính ([[CPU]]). Các hoạt động được thực hiện bởi bộ đồng xử lý có thể là số học dấu phẩy động, đồ họa, xử lý tín hiệu, xử lý chuỗi, mật mã hoặc giao diện I/O với các thiết bị ngoại vi. Bằng cách chuyển các tác vụ chuyên sâu về xử lý ra khỏi bộ xử lý chính ([[CPU]]), bộ đồng xử lý có thể tăng tốc hiệu suất hệ thống. Bộ đồng xử lý cho phép một dòng máy tính được tùy chỉnh, để những khách hàng không cần hiệu suất bổ sung không cần phải trả tiền cho nó.
+Bộ đồng xử lý là một bộ xử lý máy tính được sử dụng để bổ sung cho các chức năng của bộ xử lý chính ([[CPU]]). Các hoạt động được thực hiện bởi bộ đồng xử lý có thể là [[số học dấu phẩy động]], [[đồ họa]], [[xử lý tín hiệu]], [[xử lý chuỗi]], [[mật mã]] hoặc [[giao diện I/O]] với các [[thiết bị ngoại vi]]. Bằng cách chuyển các tác vụ chuyên sâu về xử lý ra khỏi bộ xử lý chính ([[CPU]]), bộ đồng xử lý có thể tăng tốc hiệu suất hệ thống. Bộ đồng xử lý cho phép một dòng máy tính được tùy chỉnh, để những khách hàng không cần hiệu suất bổ sung không cần phải trả tiền cho nó.
 
 ### Chức năng
 
