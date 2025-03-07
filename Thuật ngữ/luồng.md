@@ -3,15 +3,10 @@
 ### Đặc điểm chính của luồng
 
 - **Chia sẻ tài nguyên**:
-    
-    - Các luồng trong cùng tiến trình dùng chung bộ nhớ, biến toàn cục.
-        
+    - Các [[luồng trong cùng [[tiến trình]] dùng chung [[bộ nhớ toàn cục]].
 - **Nhẹ (Lightweight)**:
-    
-    - Tạo/xóa luồng nhanh hơn tiến trình, tốn ít tài nguyên hệ thống.
-        
+    - Tạo/xóa [[luồng]] nhanh hơn [[tiến trình]], tốn ít tài nguyên hệ thống.
 - **Độc lập thực thi**:
-    
     - Mỗi luồng có **ngăn xếp (stack)** riêng để lưu biến cục bộ và trạng thái.
 
 Một _thread_ là đơn vị thực thi nhỏ nhất có thể được quản lý bởi [[hệ điều hành]]. _Process_ là một nhóm các thread có liên kết, thực thi cùng nhau trên cùng một môi trường và cùng chia sẻ tài nguyên trên đó với nhau. Nghĩa là các thread trong cùng một process chia sẻ với nhau cùng một memory space và có thể giao tiếp trực tiếp với nhau.
