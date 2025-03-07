@@ -1,0 +1,1 @@
+**Trình duyệt web (Web Browser)** là một [[phần mềm]] cho phép người dùng truy cập và tương tác với các trang web trên [[Internet]]. Trình duyệt hoạt động bằng cách gửi yêu cầu đến máy chủ web, tải nội dung trang web về và hiển thị nó dưới dạng [[đồ họa]] hoặc văn bản.
