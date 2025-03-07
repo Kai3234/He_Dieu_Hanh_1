@@ -1,4 +1,4 @@
-**Luồng (Thread)** là đơn vị nhỏ nhất của mã lệnh có thể được **lập lịch và thực thi độc lập** bởi hệ điều hành.
+**Luồng (Thread)** là đơn vị nhỏ nhất của mã lệnh có thể được **[[lập lịch]] và thực thi độc lập** bởi [[hệ điều hành]]. Một [[tiến trình]] (process) có thể chứa nhiều [[luồng]], và các [[luồng]] này **chia sẻ tài nguyên** ([[bộ nhớ]], file, dữ liệu) với nhau để thực hiện các tác vụ đồng thời. Luồng giúp tận dụng tối đa tài nguyên CPU và cải thiện hiệu suất ứng dụng.
 
 Một _thread_ là đơn vị thực thi nhỏ nhất có thể được quản lý bởi [[hệ điều hành]]. _Process_ là một nhóm các thread có liên kết, thực thi cùng nhau trên cùng một môi trường và cùng chia sẻ tài nguyên trên đó với nhau. Nghĩa là các thread trong cùng một process chia sẻ với nhau cùng một memory space và có thể giao tiếp trực tiếp với nhau.
 
