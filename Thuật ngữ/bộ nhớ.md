@@ -4,5 +4,4 @@ Bộ nhớ (Memory) trong máy tính [[lưu trữ dữ liệu]] máy tính m�
 - [[bộ nhớ đệm|Bộ nhớ đệm]] và [[thanh ghi]]
 - [[bộ nhớ chính|Bộ nhớ chính]]
 - [[bộ nhớ phụ|Bộ nhớ phụ]]
-- Bộ nhớ bậc ba và bộ nhớ ngoại tuyến
 - [[bộ nhớ ảo|Bộ nhớ ảo]]
