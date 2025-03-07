@@ -1,0 +1,1 @@
+**Cổng giao tiếp (Communication Port)** là điểm kết nối giữa các thiết bị [[phần cứng]] hoặc [[phần mềm]], cho phép chúng truyền [[dữ liệu]] với nhau. Cổng giao tiếp có thể là **cổng vật lý** (cổng USB, HDMI, Ethernet) hoặc **cổng logic** (cổng TCP/IP, cổng [[phần mềm]] trong [[hệ điều hành]])
