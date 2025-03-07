@@ -1,1 +1,0 @@
-Bộ nhớ cục bộ (Local Memory) là loại bộ nhớ lưu trữ dữ liệu trên các thiết bị vật lý như [[ổ cứng]] (HDD), [[ổ thể rắn]] (SSD) hoặc [[thiết bị lưu trữ ngoài]]. Dữ liệu được lưu trữ cục bộ sẽ nằm trong tầm kiểm soát của bạn, cho phép bạn quản lý cách dữ liệu được lưu trữ và ai có thể truy cập dữ liệu đó.
