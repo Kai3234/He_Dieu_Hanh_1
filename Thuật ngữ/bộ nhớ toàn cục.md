@@ -1,4 +1,4 @@
-"Global memory" là một thuật ngữ thường được sử dụng trong lĩnh vực máy tính và lập trình, đặc biệt là trong ngữ cảnh của các hệ thống [[đa luồng]] hoặc [[lập trình song song]]. Nó thường chỉ đến một vùng nhớ mà tất cả các [[luồng]] hoặc [[tiến trình]] có thể [[truy cập dữ liệu|truy cập]]. 
+"Global memory" là một thuật ngữ thường được sử dụng trong lĩnh vực máy tính và lập trình, đặc biệt là trong ngữ cảnh của các hệ thống [[đa luồng]] hoặc [[lập trình song song]]. Nó thường chỉ đến một vùng nhớ mà tất cả các [[luồng]] hoặc [[tiến trình]] có thể truy cập. 
 
 ### Điểm chính về bộ nhớ toàn cục
 
