@@ -15,13 +15,13 @@
 🔹 **1.3. Điện toán [[phần mềm]] (Software Computing)**
 
 - Phát triển [[phần mềm]], [[ứng dụng]] và [[hệ điều hành]] để điều khiển [[phần cứng]].
-- Ví dụ: **[[Lập trình]], phát triển [[ứng dụng]] web, điện toán đám mây.**
+- Ví dụ: **[[Lập trình]], phát triển [[ứng dụng]] [[web]], [[điện toán đám mây]].**
 
 🔹 **1.4. Điện toán [[mạng]] (Networking & Cloud Computing)**
 
-- Liên quan đến mạng máy tính, điện toán đám mây và bảo mật dữ liệu.
-- Ví dụ: **Internet, mạng 5G, an toàn thông tin.**
+- Liên quan đến [[mạng]] máy tính, [[điện toán đám mây]] và bảo mật [[dữ liệu]].
+- Ví dụ: **[[Internet]], [[mạng]] 5G, an toàn thông tin.**
 
-🔹 **1.5. Điện toán ứng dụng (Applied Computing)**
+🔹 **1.5. Điện toán [[ứng dụng]] (Applied Computing)**
 
-- Ứng dụng máy tính trong thực tế như **trí tuệ nhân tạo, game, mô phỏng khoa học.**
+- [[Ứng dụng]] máy tính trong thực tế như **trí tuệ nhân tạo, game, mô phỏng khoa học.**
