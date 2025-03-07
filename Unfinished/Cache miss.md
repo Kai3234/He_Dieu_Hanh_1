@@ -1,0 +1,1 @@
+**Cache Miss xảy ra khi dữ liệu được yêu cầu không có trong cache**, buộc hệ thống phải lấy dữ liệu từ bộ nhớ chính hoặc ổ cứng, làm giảm tốc độ truy xuất.
