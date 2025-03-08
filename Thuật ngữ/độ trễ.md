@@ -7,8 +7,8 @@
 
 - **Độ trễ [[RAM]] (Memory Latency)**: Thời gian để [[bộ xử lý]] ([[CPU]]) [[truy cập dữ liệu]] từ [[RAM]].
 - **Độ trễ [[ổ cứng]] (Disk Latency)**: Thời gian cần để [[đọc dữ liệu|đọc]] hoặc [[ghi dữ liệu|ghi]] [[dữ liệu]] lên [[ổ cứng]] [[HDD]]/[[SSD]].
-- **Độ trễ màn hình (Display Latency)**: Thời gian từ khi [[GPU]] gửi khung hình đến khi hiển thị trên màn hình.
+- **Độ trễ [[màn hình]] (Display Latency)**: Thời gian từ khi [[GPU]] gửi khung hình đến khi hiển thị trên [[màn hình]].
 ### Độ trễ trong âm thanh và video
 
 - **Độ trễ âm thanh (Audio Latency)**: Chậm trễ giữa âm thanh phát ra và âm thanh đến tai người nghe (đặc biệt quan trọng khi thu âm, chỉnh sửa nhạc).
-- **Độ trễ video (Video Latency)**: Khoảng thời gian từ khi quay video đến khi xuất ra màn hình, ảnh hưởng đến livestream hoặc chỉnh sửa video.
+- **Độ trễ video (Video Latency)**: Khoảng thời gian từ khi quay video đến khi xuất ra [[màn hình]], ảnh hưởng đến livestream hoặc chỉnh sửa video.
