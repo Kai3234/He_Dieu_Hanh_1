@@ -11,4 +11,4 @@
     Internet cho phép người dùng truy cập website, gửi email, chia sẻ tài liệu, video, hình ảnh và nhiều loại dữ liệu khác.
     
 - **Dịch vụ đa dạng:**  
-    Hỗ trợ nhiều dịch vụ trực tuyến như World Wide Web (WWW), email, truyền thông xã hội, ứng dụng nhắn tin, và thương mại điện tử.
+    Hỗ trợ nhiều dịch vụ trực tuyến như World Wide Web (WWW), email, truyền thông xã hội, [[ứng dụng]] nhắn tin, và thương mại điện tử.
