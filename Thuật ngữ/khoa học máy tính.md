@@ -4,6 +4,6 @@
 
 - **[[Lập trình]] [[phần mềm]] và [[ứng dụng]].**  
 - **Phát triển [[AI]] và [[học máy]].**  
-- **Bảo mật mạng và an toàn thông tin.**  
+- **Bảo mật [[mạng]] và an toàn thông tin.**  
 - **Phân tích [[dữ liệu]] lớn, tài chính, y tế.**  
-- **Phát triển trò chơi, thực tế ảo (VR).**
+- **Phát triển trò chơi, [[thực tế ảo]] (VR).**
