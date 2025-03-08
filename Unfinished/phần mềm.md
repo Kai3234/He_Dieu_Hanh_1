@@ -1,0 +1,1 @@
+**Phần mềm (Software)** là tập hợp các chương trình, [[dữ liệu]] và hướng dẫn được viết bằng [[ngôn ngữ lập trình]] để thực hiện các tác vụ cụ thể trên máy tính hoặc thiết bị điện tử. Phần mềm giúp máy tính xử lý thông tin, điều khiển hoạt động của phần cứng và cung cấp các chức năng cho người dùng.
