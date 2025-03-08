@@ -9,10 +9,10 @@
     Là các bước làm sạch, chuẩn hóa, biến đổi [[dữ liệu]] để chuẩn bị cho việc phân tích.
     
 - **Phân tích và khai phá [[dữ liệu]]:**  
-    Sử dụng các phương pháp thống kê, phân tích dữ liệu và [[thuật toán]] [[học máy]] để trích xuất thông tin, khám phá mối quan hệ và xu hướng.
+    Sử dụng các phương pháp thống kê, [[phân tích dữ liệu]] và [[thuật toán]] [[học máy]] để trích xuất thông tin, khám phá mối quan hệ và xu hướng.
     
 - **Trực quan hóa [[dữ liệu]]:**  
-    Biểu diễn dữ liệu dưới dạng đồ thị, biểu đồ, bảng biểu nhằm giúp dễ dàng hiểu và truyền đạt kết quả.
+    Biểu diễn [[dữ liệu]] dưới dạng đồ thị, biểu đồ, bảng biểu nhằm giúp dễ dàng hiểu và truyền đạt kết quả.
     
 - **Mô hình hóa và dự đoán:**  
     Xây dựng các mô hình dự đoán, phân loại hoặc gợi ý nhằm hỗ trợ ra quyết định dựa trên [[dữ liệu]].
