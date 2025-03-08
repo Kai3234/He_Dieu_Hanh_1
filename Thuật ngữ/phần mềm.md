@@ -4,5 +4,5 @@
 
 - **Điều khiển [[phần cứng]]:** Phần mềm chuyển đổi các [[lệnh]] của người dùng thành các chỉ thị cho [[phần cứng]].
 - **Xử lý [[dữ liệu]]:** Phần mềm thực hiện các phép tính, xử lý [[dữ liệu]], lưu trữ và truy xuất thông tin.
-- **Giao tiếp và tương tác:** Cung cấp giao diện và các chức năng để người dùng tương tác với máy tính.
-- **Hỗ trợ công việc và giải trí:** Từ các ứng dụng văn phòng, thiết kế đồ họa đến các trò chơi điện tử và giải trí.
+- **Giao tiếp và tương tác:** Cung cấp [[giao diện]] và các chức năng để người dùng tương tác với [[máy tính]].
+- **Hỗ trợ công việc và giải trí:** Từ các [[ứng dụng]] văn phòng, thiết kế [[đồ họa]] đến các trò chơi điện tử và giải trí.
