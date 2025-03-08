@@ -1,1 +1,0 @@
-**Thiết bị điện tử** là các thiết bị sử dụng các thành phần điện tử như bán dẫn, vi mạch, và mạch điện để xử lý, lưu trữ, truyền tải và hiển thị thông tin. Những thiết bị này được thiết kế để hoạt động bằng điện năng và thường tích hợp các công nghệ xử lý tín hiệu số, điều khiển mạch và giao tiếp điện tử.
