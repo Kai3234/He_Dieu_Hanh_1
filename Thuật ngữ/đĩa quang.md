@@ -1,0 +1,1 @@
+**Đĩa quang** là một loại [[bộ nhớ|thiết bị lưu trữ dữ liệu]] sử dụng công nghệ ánh sáng (laser) để **[[ghi dữ liệu|ghi]] và [[đọc dữ liệu|đọc]] [[dữ liệu]]** từ bề mặt của đĩa. [[Dữ liệu]] được lưu trữ dưới dạng các vết chạm nhỏ trên bề mặt đĩa, và một đầu đọc laser sẽ quét qua bề mặt này để truy xuất thông tin.
