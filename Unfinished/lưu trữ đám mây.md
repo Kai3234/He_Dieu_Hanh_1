@@ -1,0 +1,1 @@
+**Lưu trữ đám mây (Cloud Storage)** là dịch vụ cho phép người dùng lưu trữ dữ liệu ([[tệp tin|file]], hình ảnh, video, tài liệu) trên các **máy chủ từ xa** thông qua Internet, thay vì lưu trữ trên ổ cứng cục bộ hoặc thiết bị vật lý. Dữ liệu được quản lý và duy trì bởi các nhà cung cấp dịch vụ đám mây, giúp người dùng truy cập từ bất kỳ đâu, trên bất kỳ thiết bị nào.
