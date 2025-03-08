@@ -1,4 +1,4 @@
-**Cơ chế khóa** trong [[khoa học máy tính]] là một phương pháp được sử dụng để **đảm bảo tính đồng bộ** khi nhiều [[tiến trình]] hoặc [[luồng]] (threads) cùng truy cập và thao tác trên một tài nguyên dùng chung (shared resource). Mục đích chính của cơ chế khóa là **ngăn chặn các tình huống [[tranh chấp dữ liệu]] ([[Race condition|race conditions]])**, đảm bảo rằng chỉ có một tiến trình hoặc luồng được phép truy cập vào tài nguyên đó tại một thời điểm nhất định.
+**Cơ chế khóa** trong [[khoa học máy tính]] là một phương pháp được sử dụng để **đảm bảo tính đồng bộ** khi nhiều [[tiến trình]] hoặc [[luồng]] (threads) cùng truy cập và thao tác trên một tài nguyên dùng chung (shared resource). Mục đích chính của cơ chế khóa là **ngăn chặn các tình huống tranh chấp dữ liệu ([[Race condition|race conditions]])**, đảm bảo rằng chỉ có một tiến trình hoặc luồng được phép truy cập vào tài nguyên đó tại một thời điểm nhất định.
 
 ## **Các loại cơ chế khóa phổ biến**
 
