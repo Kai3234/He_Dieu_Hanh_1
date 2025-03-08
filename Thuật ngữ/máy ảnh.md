@@ -1,0 +1,1 @@
+**Máy ảnh** là [[thiết bị điện tử]] hoặc cơ học dùng để **chụp và lưu trữ hình ảnh** (ảnh tĩnh hoặc video) thông qua việc tập trung ánh sáng từ vật thể vào cảm biến hoặc phim ảnh. Máy ảnh có thể là thiết bị kỹ thuật số hoặc máy ảnh phim truyền thống.
