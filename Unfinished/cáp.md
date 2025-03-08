@@ -1,0 +1,1 @@
+**Cáp** là một loại dây dẫn vật lý dùng để **truyền tải tín hiệu điện hoặc [[dữ liệu]]** giữa các [[thiết bị điện tử]] hoặc [[máy tính]]. Cáp có thể truyền tải thông tin qua điện, ánh sáng, hoặc sóng điện từ, tùy thuộc vào công nghệ và ứng dụng cụ thể.
