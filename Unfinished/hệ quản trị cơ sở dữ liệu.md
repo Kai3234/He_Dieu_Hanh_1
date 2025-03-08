@@ -1,0 +1,1 @@
+**Hệ quản trị cơ sở dữ liệu (Database Management System - DBMS)** là một [[phần mềm]] được thiết kế để tạo, quản lý và duy trì [[cơ sở dữ liệu]]. Nó cung cấp các công cụ và [[giao diện]] để người dùng có thể lưu trữ, truy xuất, chỉnh sửa và bảo mật [[dữ liệu]] một cách hiệu quả.
