@@ -1,0 +1,1 @@
+**Khoa học dữ liệu (Data Science)** là lĩnh vực nghiên cứu và ứng dụng các phương pháp, quy trình, thuật toán và hệ thống để trích xuất tri thức, thông tin hữu ích từ dữ liệu. Đây là sự giao thoa giữa toán học, thống kê, lập trình và kiến thức chuyên môn về lĩnh vực cụ thể, nhằm phân tích, hiểu và dự đoán các hiện tượng từ dữ liệu.
