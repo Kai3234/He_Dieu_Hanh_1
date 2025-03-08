@@ -1,0 +1,1 @@
+**Pin** là thiết bị lưu trữ năng lượng điện hóa, được sử dụng để cung cấp nguồn điện cho các [[thiết bị điện tử]]. Nó chuyển đổi năng lượng hóa học thành năng lượng điện khi cần thiết, giúp thiết bị hoạt động độc lập mà không cần nguồn điện trực tiếp.
