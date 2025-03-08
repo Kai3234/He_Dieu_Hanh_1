@@ -1,0 +1,1 @@
+**Đọc dữ liệu (Data Reading)** là quá trình [[truy xuất dữ liệu|truy xuất]] và lấy [[dữ liệu]] từ một thiết bị lưu trữ, như ổ [[HDD]], ổ [[SSD]], [[RAM]], USB hoặc đĩa quang, để sử dụng hoặc xử lý.
