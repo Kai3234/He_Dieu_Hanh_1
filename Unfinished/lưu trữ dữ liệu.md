@@ -1,0 +1,1 @@
+**Lưu trữ dữ liệu** là quá trình **ghi, bảo quản và quản lý thông tin** vào các thiết bị lưu trữ để có thể truy xuất và sử dụng lại khi cần. Đây là quá trình quan trọng giúp bảo toàn [[dữ liệu]] qua thời gian và đảm bảo rằng [[dữ liệu]] luôn sẵn sàng cho các [[ứng dụng]], [[phần mềm]] hoặc hệ thống khi được yêu cầu.
