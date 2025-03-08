@@ -1,1 +1,0 @@
-**USB (Universal Serial Bus)** là một tiêu chuẩn công nghiệp nhằm định nghĩa các **cáp, đầu nối và giao thức truyền dữ liệu** giữa máy tính với các thiết bị ngoại vi khác. USB cho phép các thiết bị như bàn phím, chuột, máy in, ổ cứng ngoài, điện thoại, máy ảnh, và nhiều thiết bị khác **kết nối và giao tiếp** với máy tính một cách dễ dàng và tiện lợi.
