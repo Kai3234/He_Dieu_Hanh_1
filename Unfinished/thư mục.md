@@ -1,0 +1,1 @@
+**Thư mục** (Folder) là một đơn vị tổ chức [[dữ liệu]] trên [[máy tính]], dùng để chứa và sắp xếp các [[tệp tin]] (file) hoặc các thư mục con khác. Nó giúp quản lý và phân loại thông tin một cách có cấu trúc, giúp người dùng dễ dàng tìm kiếm và [[truy cập dữ liệu]].
