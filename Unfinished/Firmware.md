@@ -1,0 +1,1 @@
+**Firmware** là một loại **[[phần mềm]] được tích hợp sẵn** vào [[phần cứng]] của [[thiết bị điện tử]], đóng vai trò điều khiển các chức năng cơ bản và giao tiếp giữa [[phần cứng]] với [[hệ điều hành]] hoặc người dùng. Firmware thường được lưu trữ trong [[bộ nhớ]] **[[ROM]] (Read-Only Memory)** hoặc **[[bộ nhớ flash]]**, có thể cập nhật để sửa lỗi hoặc nâng cấp tính năng.
