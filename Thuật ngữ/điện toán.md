@@ -24,4 +24,4 @@
 
 🔹 **1.5. Điện toán [[ứng dụng]] (Applied Computing)**
 
-- [[Ứng dụng]] máy tính trong thực tế như **trí tuệ nhân tạo, game, mô phỏng khoa học.**
+- [[ứng dụng]] máy tính trong thực tế như **trí tuệ nhân tạo, game, mô phỏng khoa học.**
