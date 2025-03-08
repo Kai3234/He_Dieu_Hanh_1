@@ -1,0 +1,1 @@
+**Bàn phím** là một thiết bị nhập liệu dùng để gửi thông tin và [[lệnh]] từ người dùng đến máy tính hoặc các thiết bị điện tử khác. Nó bao gồm một tập hợp các phím chữ, số, và các phím chức năng, cho phép người dùng gõ văn bản, điều khiển phần mềm và thực hiện các thao tác khác.
