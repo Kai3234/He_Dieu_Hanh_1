@@ -1,0 +1,1 @@
+**Hệ thống tệp (File System)** là cấu trúc tổ chức và quản lý [[dữ liệu]] được lưu trữ trên các thiết bị lưu trữ như [[HDD]], [[SSD]], [[USB]], và các [[thiết bị ngoại vi]] khác. Nó xác định cách [[dữ liệu]] được ghi, lưu trữ và truy xuất, cũng như cách sắp xếp các [[tệp tin]] và [[thư mục]] trên thiết bị lưu trữ.
