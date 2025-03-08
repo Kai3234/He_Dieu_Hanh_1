@@ -1,0 +1,1 @@
+**Linh kiện điện tử** là các thành phần cơ bản được sử dụng trong [[mạch điện tử]] để thực hiện các chức năng điều khiển, xử lý, lưu trữ và chuyển đổi tín hiệu điện. Chúng là những "khối xây dựng" của các [[thiết bị điện tử]], từ các thiết bị gia dụng, [[máy tính]] cho đến các hệ thống viễn thông và công nghiệp.
