@@ -2,7 +2,7 @@
 ## Các đặc điểm chính của tệp tin
 
 - **Định dạng:**  
-    Tệp tin có thể có nhiều định dạng khác nhau, như .txt, .docx, .jpg, .mp3, .exe, v.v. Mỗi định dạng chỉ ra loại dữ liệu mà tệp chứa và cách mà dữ liệu đó được xử lý.
+    Tệp tin có thể có nhiều định dạng khác nhau, như .txt, .docx, .jpg, .mp3, .exe, v.v. Mỗi định dạng chỉ ra loại [[dữ liệu]] mà tệp chứa và cách mà [[dữ liệu]] đó được xử lý.
     
 - **Tên tệp:**  
     Tệp tin được đặt tên để người dùng dễ dàng nhận diện và quản lý. Tên tệp thường kết hợp với phần mở rộng (extension) chỉ định định dạng của tệp.
@@ -11,4 +11,4 @@
     Tệp tin có kích thước nhất định, thường được tính bằng byte, kilobyte (KB), megabyte (MB), hoặc gigabyte (GB).
     
 - **Vị trí lưu trữ:**  
-    Tệp tin được lưu trữ trên thiết bị lưu trữ như ổ cứng, SSD, USB, hoặc trên đám mây, và được tổ chức trong các thư mục (folder).
+    Tệp tin được lưu trữ trên [[bộ nhớ|thiết bị lưu trữ]] như [[ổ cứng]], [[SSD]], [[USB]], hoặc trên [[lưu trữ đám mây|đám mây]], và được tổ chức trong các thư mục (folder).
