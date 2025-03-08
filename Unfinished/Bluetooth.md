@@ -1,0 +1,1 @@
+**Bluetooth** là một công nghệ kết nối không dây tầm ngắn, được thiết kế để **truyền dữ liệu giữa các thiết bị** như điện thoại, máy tính, tai nghe, loa, máy tính bảng và các thiết bị khác mà không cần sử dụng cáp kết nối.
