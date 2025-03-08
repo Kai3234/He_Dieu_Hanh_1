@@ -1,1 +1,0 @@
-**Trình biên dịch (Compiler)** là một [[chương trình]] chuyển đổi **[[mã nguồn]]** (source code) được viết bằng một [[ngôn ngữ lập trình]] (như C, C++, Java, v.v.) thành **mã máy** (machine code) mà [[máy tính]] có thể hiểu và thực thi. Quá trình này giúp chuyển đổi ngôn ngữ có tính trừu tượng cao của con người thành ngôn ngữ nhị phân mà [[CPU]] có thể xử lý.
