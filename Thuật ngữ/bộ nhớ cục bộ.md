@@ -2,4 +2,4 @@
 
 ### Trong [[phần cứng]]
 - [[Bộ nhớ đệm]]
-- [[Thanh ghi]]
+- [[thanh ghi]]

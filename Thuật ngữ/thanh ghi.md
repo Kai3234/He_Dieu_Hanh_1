@@ -6,4 +6,4 @@
     
 - **[[Dung lượng]] rất nhỏ**: Thường chỉ vài byte (ví dụ: 32-bit, 64-bit).
     
-- **Nằm trực tiếp trong CPU**: Được tích hợp trên vi xử lý, không phải thiết bị ngoại vi.
+- **Nằm trực tiếp trong [[CPU]]**: Được tích hợp trên [[vi xử lý]], không phải [[thiết bị ngoại vi]].
