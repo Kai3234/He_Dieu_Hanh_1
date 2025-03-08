@@ -2,7 +2,7 @@
 
 ## Ứng dụng của khoa học máy tính
 
-- **[[Lập trình]] [[phần mềm]] và [[ứng dụng]].**  
+- **[[lập trình]] [[phần mềm]] và [[ứng dụng]].**  
 - **Phát triển [[AI]] và [[học máy]].**  
 - **Bảo mật [[mạng]] và an toàn thông tin.**  
 - **Phân tích [[dữ liệu]] lớn, tài chính, y tế.**  

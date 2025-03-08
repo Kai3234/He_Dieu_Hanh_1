@@ -15,7 +15,7 @@
 🔹 **1.3. Điện toán [[phần mềm]] (Software Computing)**
 
 - Phát triển [[phần mềm]], [[ứng dụng]] và [[hệ điều hành]] để điều khiển [[phần cứng]].
-- Ví dụ: **[[Lập trình]], phát triển [[ứng dụng]] [[Web|web]], [[điện toán đám mây]].**
+- Ví dụ: **[[lập trình]], phát triển [[ứng dụng]] [[Web|web]], [[điện toán đám mây]].**
 
 🔹 **1.4. Điện toán [[mạng]] (Networking & Cloud Computing)**
 
