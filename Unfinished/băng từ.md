@@ -1,0 +1,1 @@
+**Băng từ** là một **phương tiện lưu trữ dữ liệu** sử dụng một dải băng mỏng được phủ lớp vật liệu từ tính để ghi và đọc dữ liệu. Đây là một loại bộ nhớ không bay hơi, có khả năng lưu trữ dữ liệu trong thời gian dài và thường được sử dụng cho mục đích sao lưu hoặc lưu trữ dữ liệu lớn, đặc biệt là trong các trung tâm dữ liệu hoặc hệ thống lưu trữ doanh nghiệp.
