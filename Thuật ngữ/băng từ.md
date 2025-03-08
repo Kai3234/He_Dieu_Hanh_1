@@ -4,5 +4,5 @@
 
 - **[[Dung lượng]] lớn:** Băng từ có thể lưu trữ một lượng [[dữ liệu]] rất lớn với chi phí tương đối thấp.
 - **Độ tin cậy cao:** Phù hợp cho việc [[lưu trữ dữ liệu]] lâu dài vì ít bị ảnh hưởng bởi thời gian.
-- **Tốc độ truy xuất chậm:** So với các [[bộ nhớ|thiết bị lưu trữ]] hiện đại như [[SSD]] hay [[HDD]], việc [[truy xuất dữ liệu]] từ băng từ thường chậm hơn, do dữ liệu cần được cuộn và tìm vị trí trên dải băng.
-- **Sử dụng chuyên dụng:** Thường được sử dụng trong môi trường lưu trữ dự phòng (backup), lưu trữ lưu trữ lâu dài (archival storage) và các hệ thống không yêu cầu truy xuất dữ liệu theo thời gian thực.
+- **Tốc độ truy xuất chậm:** So với các [[bộ nhớ|thiết bị lưu trữ]] hiện đại như [[SSD]] hay [[HDD]], việc [[truy xuất dữ liệu]] từ băng từ thường chậm hơn, do [[dữ liệu]] cần được cuộn và tìm vị trí trên dải băng.
+- **Sử dụng chuyên dụng:** Thường được sử dụng trong môi trường lưu trữ dự phòng (backup), lưu trữ lưu trữ lâu dài (archival storage) và các hệ thống không yêu cầu [[truy xuất dữ liệu]] theo thời gian thực.
