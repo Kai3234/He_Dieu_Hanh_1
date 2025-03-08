@@ -1,0 +1,1 @@
+**Giao tiếp gần trường (Near Field Communication - NFC)** là công nghệ **không dây tầm ngắn** cho phép hai thiết bị trao đổi [[dữ liệu]] khi đặt gần nhau (thường trong phạm vi **4 cm** hoặc gần hơn). NFC hoạt động dựa trên nguyên lý cảm ứng từ trường, kết hợp giữa công nghệ RFID (Radio Frequency Identification) và kết nối không dây.
