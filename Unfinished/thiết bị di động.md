@@ -1,0 +1,1 @@
+**Ghi dữ liệu (Data Writing)** là quá trình lưu trữ thông tin vào một thiết bị lưu trữ, chẳng hạn như ổ cứng (HDD), ổ SSD, bộ nhớ RAM, USB hoặc đĩa quang
