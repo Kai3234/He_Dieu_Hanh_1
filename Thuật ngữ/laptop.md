@@ -1,0 +1,1 @@
+**Laptop** (còn gọi là **[[máy tính]] xách tay**) là một thiết bị [[máy tính]] cá nhân **di động**, tích hợp đầy đủ các thành phần như [[màn hình]], [[bàn phím]], touchpad (bàn di chuột), [[pin]], và [[phần cứng]] ([[CPU]], [[RAM]], [[ổ cứng]]...) trong một thiết kế gọn nhẹ, cho phép người dùng mang theo và sử dụng linh hoạt ở mọi nơi mà không cần nguồn điện liên tục.
