@@ -1,0 +1,1 @@
+**Tệp tin** (file) là một đơn vị lưu trữ dữ liệu trên máy tính, được tổ chức theo định dạng nhất định để chứa thông tin, văn bản, hình ảnh, âm thanh, chương trình, hoặc bất kỳ loại dữ liệu nào khác. Tệp tin được lưu trữ trong hệ thống tệp của máy tính và có thể được truy cập, chỉnh sửa, sao lưu hoặc chia sẻ.
