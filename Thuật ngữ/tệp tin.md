@@ -11,4 +11,4 @@
     Tệp tin có kích thước nhất định, thường được tính bằng byte, kilobyte (KB), megabyte (MB), hoặc gigabyte (GB).
     
 - **Vị trí lưu trữ:**  
-    Tệp tin được lưu trữ trên [[bộ nhớ|thiết bị lưu trữ]] như [[ổ cứng]], [[SSD]], [[USB]], hoặc trên [[lưu trữ đám mây|đám mây]], và được tổ chức trong các thư mục (folder).
+    Tệp tin được lưu trữ trên [[bộ nhớ|thiết bị lưu trữ]] như [[ổ cứng]], [[SSD]], [[USB]], hoặc trên [[lưu trữ đám mây|đám mây]], và được tổ chức trong các [[thư mục]] (folder).

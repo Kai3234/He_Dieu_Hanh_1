@@ -1,0 +1,1 @@
+**Bộ nhớ flash** là một loại bộ nhớ không bay hơi (non-volatile memory) lưu trữ dữ liệu dưới dạng điện tử trong các mạch tích hợp. Điều này có nghĩa là dữ liệu được lưu trên bộ nhớ flash vẫn được giữ lại ngay cả khi không có nguồn điện.
