@@ -9,7 +9,7 @@
     Khác với [[HDD|ổ cứng HDD]] có đĩa quay, bộ nhớ flash không sử dụng các bộ phận cơ học, giúp giảm tiếng ồn và tăng độ bền.
     
 - **Tốc độ truy xuất:**  
-    Cho phép [[đọc dữ liệu|]] và ghi dữ liệu nhanh chóng, thích hợp cho các thiết bị cần hiệu suất cao như SSD.
+    Cho phép [[đọc dữ liệu|đọc]] và [[ghi dữ liệu|ghi]] [[dữ liệu]] nhanh chóng, thích hợp cho các thiết bị cần hiệu suất cao như [[SSD]].
     
 - **Tiêu thụ năng lượng thấp:**  
-    Giúp tiết kiệm pin, thường được dùng cho các thiết bị di động.
+    Giúp tiết kiệm [[pin]], thường được dùng cho các [[thiết bị di động]].
