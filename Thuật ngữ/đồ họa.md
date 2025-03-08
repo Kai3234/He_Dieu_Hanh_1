@@ -1,0 +1,1 @@
+**Đồ họa (Graphics)** là lĩnh vực liên quan đến việc tạo, xử lý và hiển thị **hình ảnh, biểu đồ, hoặc thiết kế trực quan** bằng các công cụ kỹ thuật số hoặc thủ công. Đồ họa được ứng dụng rộng rãi trong nhiều ngành, từ nghệ thuật, thiết kế, giải trí đến khoa học, kỹ thuật và giáo dục.
