@@ -1,0 +1,1 @@
+**Lệnh đồng xử lý (Coprocessor Instruction)** là các [[lệnh]] được thiết kế để thực hiện các tác vụ chuyên biệt hoặc phức tạp mà bộ xử lý chính ([[CPU]]) không thể xử lý hiệu quả. Các [[lệnh]] này được thực thi bởi một **[[bộ đồng xử lý]] (coprocessor)**, một thành phần [[phần cứng]] hỗ trợ [[CPU]] để tăng tốc độ và hiệu suất xử lý.
