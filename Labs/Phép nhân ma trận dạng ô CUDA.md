@@ -114,3 +114,42 @@ Mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Sinh vi
 		gpuTKTime_start(GPU, "Đang cấp phát bộ nhớ GPU.");
 		
 		//@@ Cấp phát bộ nhớ GPU tại đây
+		
+		gpuTKTime_stop(GPU, "Đang cấp phát bộ nhớ GPU.");
+		
+		gpuTKTime_start(GPU, "Sao chép bộ nhớ đầu vào vào GPU.");
+		
+		//@@ Sao chép bộ nhớ vào GPU tại đây
+		
+		gpuTKTime_stop(GPU, "Sao chép bộ nhớ đầu vào vào GPU.");
+		
+		//@@ Khởi tạo kích thước lưới và khối tại đây
+		
+		gpuTKTime_start(Compute, "Thực hiện tính toán CUDA");
+		
+		//@@ Khởi chạy GPU Kernel tại đây
+		
+		cudaDeviceSynchronize();
+		
+		gpuTKTime_stop(Compute, "Thực hiện tính toán CUDA");
+		
+		gpuTKTime_start(Copy, "Sao chép bộ nhớ đầu ra vào CPU");
+		
+		//@@ Sao chép bộ nhớ GPU trở lại CPU tại đây
+		
+		gpuTKTime_stop(Copy, "Sao chép bộ nhớ đầu ra vào CPU");
+		
+		gpuTKTime_start(GPU, "Giải phóng bộ nhớ GPU");
+		
+		//@@ Giải phóng bộ nhớ GPU tại đây
+		
+		gpuTKTime_stop(GPU, "Giải phóng bộ nhớ GPU");
+		
+		gpuTKSolution(args, hostC, numCRows, numCColumns);
+		
+		free(hostA);
+		free(hostB);
+		free(hostC);
+		
+		return 0;
+	}
