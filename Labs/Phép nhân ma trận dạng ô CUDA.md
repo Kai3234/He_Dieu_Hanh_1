@@ -47,9 +47,8 @@ Mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Sinh vi
 \#include <gputk.h>
 
 \#define gpuTKCheck(stmt) 
-
 	do { 
-	
+
 		cudaError_t err = stmt; 
 		
 		if (err != cudaSuccess) { 
