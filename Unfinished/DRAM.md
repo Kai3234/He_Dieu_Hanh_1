@@ -1,0 +1,1 @@
+**DRAM** (Dynamic Random-Access Memory - bộ nhớ truy cập ngẫu nhiên động) là một loại bộ nhớ truy cập ngẫu nhiên (RAM) được sử dụng rộng rãi trong các thiết bị điện tử như máy tính, điện thoại thông minh và các hệ thống nhúng. DRAM là một thành phần quan trọng trong việc lưu trữ dữ liệu tạm thời để CPU có thể truy cập nhanh chóng.
