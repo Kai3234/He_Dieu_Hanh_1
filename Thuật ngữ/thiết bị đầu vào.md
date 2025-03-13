@@ -1,0 +1,3 @@
+**Thiết bị đầu vào (Input Device)** là các thiết bị giúp nhập [[dữ liệu]] hoặc [[lệnh]] vào [[máy tính]] để xử lý. Chúng giúp người dùng giao tiếp với [[máy tính]] bằng nhiều cách khác nhau như nhập văn bản, điều khiển con trỏ, thu âm, quay video,...
+
+**Ví dụ**: [[Bàn phím]], [[chuột]], máy quét, micro, camera, [[màn hình cảm ứng]].
