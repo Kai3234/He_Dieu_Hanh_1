@@ -1,0 +1,1 @@
+**Màn hình phẳng (Flat Panel Display - FPD)** là loại [[màn hình]] mỏng, nhẹ, có bề mặt phẳng, sử dụng công nghệ hiện đại để hiển thị hình ảnh thay vì sử dụng ống tia âm cực (CRT) như các [[màn hình]] đời cũ.
