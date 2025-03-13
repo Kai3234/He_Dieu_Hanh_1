@@ -1,0 +1,1 @@
+**Mã máy (Machine Code)** là tập hợp các [[lệnh]] nhị phân (binary) mà **CPU có thể hiểu và thực thi trực tiếp**. Đây là cấp độ ngôn ngữ thấp nhất của máy tính, được viết dưới dạng các số 0 và 1.
