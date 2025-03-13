@@ -1,0 +1,1 @@
+**Thực tế ảo (VR - Virtual Reality)** là công nghệ mô phỏng một môi trường ảo bằng [[máy tính]], giúp người dùng **tương tác và trải nghiệm thế giới kỹ thuật số** như thật thông qua kính VR, tay cầm điều khiển, hoặc thiết bị cảm biến.
