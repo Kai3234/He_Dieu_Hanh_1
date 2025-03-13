@@ -1,0 +1,1 @@
+**Ngôn ngữ lập trình** (Programming Language) là một hệ thống các quy tắc, cú pháp và từ vựng được sử dụng để viết các chỉ thị (instructions) mà [[máy tính]] có thể hiểu và thực thi. Ngôn ngữ lập trình giúp con người giao tiếp với [[máy tính]], tạo ra các [[chương trình]], [[ứng dụng]], [[phần mềm]] và hệ thống.

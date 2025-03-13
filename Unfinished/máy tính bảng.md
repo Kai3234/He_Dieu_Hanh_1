@@ -1,0 +1,1 @@
+**Máy tính bảng (Tablet)** là thiết bị điện tử có màn hình cảm ứng lớn, mỏng và nhẹ, kết hợp giữa điện thoại thông minh và máy tính xách tay. Máy tính bảng thường chạy hệ điều hành như **Android, iOS (iPadOS) hoặc Windows**, hỗ trợ cảm ứng và đôi khi có thể kết nối bàn phím, chuột.
