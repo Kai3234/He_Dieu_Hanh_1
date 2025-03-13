@@ -12,7 +12,7 @@ Deadlock chỉ xảy ra khi **cả 4 điều kiện sau cùng tồn tại**:
         
 2. **Hold and Wait (Giữ và chờ)**:
     
-    - [[Tiến trình]] đang giữ ít nhất một tài nguyên và chờ để nhận thêm tài nguyên khác.
+    - [[tiến trình]] đang giữ ít nhất một tài nguyên và chờ để nhận thêm tài nguyên khác.
         
 3. **No Preemption (Không có ưu tiên giành giật)**:
     

@@ -1,1 +1,0 @@
-Một tiến trình có thể hiểu là một thể hiện (instance) của một [[chương trình]] đang được thực thi. Mỗi tiến trình có không gian [[bộ nhớ]] riêng, tài nguyên riêng và được quản lý độc lập bởi [[hệ điều hành]].
