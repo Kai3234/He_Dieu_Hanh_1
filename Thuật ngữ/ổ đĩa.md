@@ -21,13 +21,13 @@
 - **[[Dung lượng]]**: 4GB - 2TB.
 - **Ứng dụng**: Sao lưu [[dữ liệu]], mở rộng [[bộ nhớ]] cho [[điện thoại]], [[máy ảnh]].
 
-### **4. Ổ đĩa quang (CD/DVD/Blu-ray)**
+### **4. Ổ [[đĩa quang]] (CD/DVD/Blu-ray)**
 
-- Dùng tia laser để đọc và ghi dữ liệu lên đĩa quang.
-- **Nhược điểm**: Dung lượng thấp (CD: 700MB, DVD: 4.7GB), không phổ biến nữa.
-- **Ứng dụng**: Lưu trữ phim, nhạc, cài đặt phần mềm cũ.
+- Dùng tia laser để đọc và [[ghi dữ liệu]] lên [[đĩa quang]].
+- **Nhược điểm**: [[Dung lượng]] thấp (CD: 700MB, DVD: 4.7GB), không phổ biến nữa.
+- **Ứng dụng**: Lưu trữ phim, nhạc, cài đặt [[phần mềm]] cũ.
 
-### **5. Ổ đĩa mạng (NAS - Network Attached Storage)**
+### **5. Ổ đĩa [[mạng]] (NAS - Network Attached Storage)**
 
-- Kết nối qua mạng để lưu trữ dữ liệu chung.
-- **Ứng dụng**: Doanh nghiệp, lưu trữ dữ liệu tập trung.
+- Kết nối qua [[mạng]] để [[lưu trữ dữ liệu]] chung.
+- **Ứng dụng**: Doanh nghiệp, [[lưu trữ dữ liệu]] tập trung.
