@@ -1,0 +1,1 @@
+**DSP** (Digital Signal Processor) là một bộ [[vi xử lý]] chuyên dụng được thiết kế để thực hiện các phép toán số học và logic trên tín hiệu số (digital signals) một cách nhanh chóng và hiệu quả. DSP được sử dụng rộng rãi trong các [[ứng dụng]] [[xử lý tín hiệu]] như âm thanh, hình ảnh, video, truyền thông và nhiều lĩnh vực khác.
