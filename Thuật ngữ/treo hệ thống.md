@@ -1,0 +1,1 @@
+**Treo hệ thống** là tình trạng [[máy tính]], [[điện thoại]] hoặc [[thiết bị điện tử]] **bị đứng hoàn toàn hoặc phản hồi rất chậm**, khiến người dùng không thể thao tác bình thường. Lúc này, hệ thống có thể không nhận [[lệnh]] từ [[bàn phím]], [[chuột]] hoặc [[màn hình]] bị đơ.
