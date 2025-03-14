@@ -4,10 +4,10 @@
 
 1. **Xác định nguồn [[dữ liệu]]**: Biết [[dữ liệu]] được lưu trữ ở đâu (database, file, cloud).
     
-2. **Xác định yêu cầu**: Hiểu rõ dữ liệu cần lấy là gì (ví dụ: thông tin người dùng, báo cáo doanh thu).
+2. **Xác định yêu cầu**: Hiểu rõ [[dữ liệu]] cần lấy là gì (ví dụ: thông tin người dùng, báo cáo doanh thu).
     
 3. **Thực hiện truy vấn**: Sử dụng công cụ hoặc ngôn ngữ phù hợp để truy xuất dữ liệu.
     
-4. **Xử lý dữ liệu**: Lọc, sắp xếp hoặc biến đổi dữ liệu nếu cần.
+4. **Xử lý [[dữ liệu]]**: Lọc, sắp xếp hoặc biến đổi [[dữ liệu]] nếu cần.
     
-5. **Sử dụng dữ liệu**: Phân tích, hiển thị hoặc lưu trữ dữ liệu đã truy xuất.
+5. **Sử dụng [[dữ liệu]]**: Phân tích, hiển thị hoặc [[lưu trữ dữ liệu]] đã truy xuất.
