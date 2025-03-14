@@ -1,0 +1,3 @@
+Phân kỳ điều khiển (Control Divergence) là một hiện tượng trong [[lập trình song song]], đặc biệt phổ biến trong các kiến trúc như [[GPU]] ([[CUDA]], [[OpenCL]]). Nó xảy ra khi các [[luồng]] trong một nhóm thực thi ([[Warp|warp]], [[Wavefront|wavefront]]) gặp các nhánh điều kiện khác nhau, dẫn đến hiệu suất giảm do phải xử lý tuần tự thay vì song song.
+
+Trong [[GPU]], nhiều luồng thực thi cùng một mã lệnh theo mô hình [[SIMD]] hoặc [[SIMT]]. Khi có một câu [[lệnh rẽ nhánh]] (if-else, switch...), một số [[luồng]] có thể đi theo nhánh này, số khác đi theo nhánh kia. Vì [[GPU]] không thể thực thi đồng thời cả hai nhánh trên cùng một đơn vị tính toán, nó phải thực thi từng nhánh một, khiến các [[luồng]] khác phải chờ đợi → gây giảm hiệu suất.

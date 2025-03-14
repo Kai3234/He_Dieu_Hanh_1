@@ -1,0 +1,1 @@
+**Giao diện (Interface)** là điểm tiếp xúc và tương tác giữa hai hệ thống, giữa [[phần mềm]] và người dùng, hoặc giữa các thành phần của một hệ thống. Nó định nghĩa cách mà các thành phần này trao đổi thông tin và làm việc với nhau.

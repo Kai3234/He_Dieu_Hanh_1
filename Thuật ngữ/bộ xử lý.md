@@ -1,0 +1,3 @@
+Trong [[điện toán]] và [[khoa học máy tính]], bộ xử lý hoặc đơn vị xử lý là một thành phần điện tử thực hiện các hoạt động trên một nguồn [[dữ liệu]] bên ngoài, thường là bộ nhớ hoặc một luồng [[dữ liệu]] nào đó. Nó thường có dạng một vi xử lý, có thể được triển khai trên một hoặc một vài chip vi mạch tích hợp.
+
+Thuật ngữ này thường được sử dụng để chỉ [[CPU|đơn vị xử lý trung tâm, bộ xử lý chính]] trong một hệ thống. Tuy nhiên, nó cũng có thể đề cập đến các [[bộ đồng xử lý]] khác, chẳng hạn như đơn vị xử lý đồ họa ([[GPU]]).

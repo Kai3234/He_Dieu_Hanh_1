@@ -1,0 +1,1 @@
+**Mạng không dây (Wireless Network)** là [[mạng]] máy tính sử dụng **sóng vô tuyến ([[Wi-Fi]], [[Bluetooth]], 4G/5G, sóng hồng ngoại, vệ tinh, v.v.)** để truyền [[dữ liệu]] mà không cần [[cáp]] vật lý như [[mạng]] có dây (Ethernet).

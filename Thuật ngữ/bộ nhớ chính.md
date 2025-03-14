@@ -1,14 +1,25 @@
-Bộ nhớ chính (main memory), còn được gọi là bộ nhớ trong (internal memory) hay bộ nhớ truy cập ngẫu nhiên (RAM - Random Access Memory), là một phần quan trọng của máy tính, nơi dữ liệu và chương trình được lưu trữ tạm thời trong quá trình hoạt động. Nó cho phép [[CPU]] (Central Processing Unit - Bộ xử lý trung tâm) truy cập dữ liệu một cách nhanh chóng và ngẫu nhiên để thực hiện các tác vụ xử lý.
+**Bộ nhớ chính (Primary Memory)** là loại bộ nhớ **trực tiếp tương tác với [[CPU]]**, có nhiệm vụ [[lưu trữ dữ liệu]] và [[lệnh]] **tạm thời** để [[CPU]] xử lý ngay lập tức. Đây là thành phần quan trọng quyết định tốc độ và hiệu suất của máy tính.
 
-### Đặc điểm của bộ nhớ chính
+### Đặc điểm chính
 
-- **Tính tạm thời**: Dữ liệu trong RAM chỉ tồn tại khi máy tính còn hoạt động. Khi tắt máy, dữ liệu sẽ bị mất.
-- **Tốc độ truy cập nhanh**: CPU có thể truy cập dữ liệu trong RAM rất nhanh, giúp tăng tốc độ xử lý của máy tính.
-- **Khả năng truy cập ngẫu nhiên**: CPU có thể truy cập bất kỳ vị trí nào trong RAM một cách trực tiếp mà không cần phải theo một thứ tự nhất định.
-- **Dung lượng có hạn**: So với bộ nhớ ngoài (như ổ cứng), dung lượng của RAM thường nhỏ hơn.
+1. **Tốc độ truy xuất cực nhanh**
+    
+    - Được thiết kế để [[CPU]] [[đọc dữ liệu|đọc]]/[[ghi dữ liệu|ghi]] dữ liệu trực tiếp mà không cần thông qua [[thiết bị trung gian]].
+        
+    - Ví dụ: [[RAM]] có tốc độ hàng tỷ lần truy cập mỗi giây (nanosecond).
+        
+2. **[[dung lượng|Dung lượng]] hạn chế**
+    
+    - Thường nhỏ hơn [[bộ nhớ phụ]] (ví dụ: [[RAM]] phổ thông từ 8GB đến 64GB, trong khi [[ổ cứng]] có thể lên đến hàng TB).
+        
+3. **Dữ liệu dễ bay hơi (Volatile)**
+    
+    - **Mất [[dữ liệu]] khi tắt nguồn** (trừ [[ROM]]).
+        
+4. **Vị trí vật lý gần CPU**
+    
+    - Được gắn trực tiếp trên [[bo mạch chủ]] hoặc tích hợp trong [[CPU]]
 
-### Vai trò của bộ nhớ chính
-
-- **Lưu trữ dữ liệu và chương trình**: RAM là nơi lưu trữ các chương trình đang chạy và dữ liệu mà chúng sử dụng.
-- **Truy cập dữ liệu nhanh chóng**: RAM cung cấp tốc độ truy cập dữ liệu nhanh chóng, giúp CPU xử lý thông tin hiệu quả.
-- **Hỗ trợ đa nhiệm**: RAM cho phép máy tính chạy nhiều chương trình cùng một lúc bằng cách lưu trữ chúng tạm thời.
+### Phân loại
+1. [[RAM]]
+2. [[ROM]]

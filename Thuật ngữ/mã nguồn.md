@@ -1,0 +1,1 @@
+**Mã nguồn (Source Code)** là tập hợp các dòng [[lệnh]] được viết bằng [[ngôn ngữ lập trình]] (C, Java, Python...) để tạo ra [[phần mềm]] hoặc [[chương trình]] máy tính. Đây là phiên bản dễ đọc và chỉnh sửa của [[chương trình]] trước khi được [[biên dịch]] thành [[mã máy]] để [[máy tính]] có thể chạy.

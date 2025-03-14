@@ -1,0 +1,1 @@
+Vi mạch (Intergrated Circuit - IC) là một [[mạch điện tử]] thu nhỏ được tích hợp trên một miếng vật liệu bán dẫn (thường là silicon) rất nhỏ. Vi mạch có thể chứa hàng triệu hoặc thậm chí hàng tỷ [[linh kiện điện tử]] được kết nối với nhau để tạo thành một [[mạch điện tử]] phức tạp.

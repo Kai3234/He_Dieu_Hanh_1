@@ -1,0 +1,1 @@
+**Xử lý hình ảnh (Image Processing)** là quá trình sử dụng các [[thuật toán]] và kỹ thuật để **phân tích, thao tác và cải thiện** hình ảnh kỹ thuật số. Mục tiêu chính là trích xuất thông tin hữu ích từ hình ảnh hoặc biến đổi hình ảnh để phục vụ các mục đích cụ thể như phân tích, nhận dạng, nén [[dữ liệu]] hoặc hiển thị.

@@ -1,0 +1,1 @@
+**Đầu nối** là thành phần [[phần cứng]] dùng để **kết nối** các thiết bị, [[cáp]] hoặc [[linh kiện điện tử]] với nhau, cho phép truyền tải tín hiệu điện, [[dữ liệu]] hoặc năng lượng. Nó đóng vai trò như một cầu nối giúp các thiết bị hoạt động phối hợp hiệu quả.

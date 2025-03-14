@@ -1,0 +1,1 @@
+**Floating Point Unit (FPU)** là **[[bộ xử lý]] dấu chấm động**, một thành phần chuyên biệt trong [[CPU]] hoặc một [[bộ đồng xử lý]] riêng biệt, được thiết kế để thực hiện các phép toán số thực [[dấu phẩy động]] (floating-point arithmetic) như cộng, trừ, nhân, chia và căn bậc hai nhanh hơn so với khi sử dụng đơn vị xử lý số nguyên (Integer Unit - IU).

@@ -1,0 +1,1 @@
+**IoT (Internet of Things - Internet Vạn Vật)** là một hệ thống gồm các thiết bị vật lý được kết nối với [[Internet]], có khả năng thu thập, truyền tải và trao đổi [[dữ liệu]] mà không cần sự can thiệp trực tiếp của con người.

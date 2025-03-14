@@ -1,0 +1,1 @@
+**Mã hóa** là quá trình chuyển đổi thông tin ([[dữ liệu]]) từ dạng có thể hiểu được (plain text) sang dạng không thể đọc được (ciphertext) nếu không có chìa khóa [[giải mã]]. Mục đích của quá trình này là bảo vệ thông tin, đảm bảo rằng chỉ những người có quyền truy cập (người sở hữu chìa khóa [[giải mã]]) mới có thể hiểu được [[dữ liệu]].

@@ -1,0 +1,1 @@
+**Kiến trúc tập lệnh (ISA)** là tập hợp các [[lệnh]] mà bộ [[vi xử lý]] có thể hiểu và thực thi. Nó là [[giao diện]] giữa [[phần cứng]] (hardware) và [[phần mềm]] (software), quy định cách một [[chương trình]] có thể điều khiển [[CPU]].

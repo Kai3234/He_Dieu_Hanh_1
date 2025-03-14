@@ -1,0 +1,1 @@
+**Lập trình** là quá trình viết và sắp xếp các câu [[lệnh]] theo một [[ngôn ngữ lập trình]] để tạo ra các [[chương trình]] [[máy tính]]. Những [[chương trình]] này hướng dẫn [[máy tính]] thực hiện các nhiệm vụ cụ thể, từ xử lý [[dữ liệu]], điều khiển [[phần cứng]] đến giao tiếp với người dùng.

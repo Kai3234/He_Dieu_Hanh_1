@@ -1,0 +1,1 @@
+OpenCL (Open Computing Language) là một tiêu chuẩn [[lập trình]] mở để viết các chương trình chạy trên nhiều loại [[phần cứng]] khác nhau, bao gồm [[CPU]], [[GPU]], [[FPGA]] và các [[bộ xử lý]] khác. Nó giúp tận dụng sức mạnh tính toán song song của [[phần cứng]] để tăng hiệu suất xử lý.

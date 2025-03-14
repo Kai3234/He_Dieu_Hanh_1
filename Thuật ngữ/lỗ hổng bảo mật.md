@@ -1,0 +1,1 @@
+**Lỗ hổng bảo mật (Security Vulnerability)** là điểm yếu trong [[phần mềm]], [[phần cứng]] hoặc hệ thống [[mạng]] mà tin tặc có thể khai thác để xâm nhập, đánh cắp [[dữ liệu]], phá hoại hoặc chiếm quyền điều khiển hệ thống.

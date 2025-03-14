@@ -8,15 +8,19 @@ a. 1/8 mức sử dụng ban đầu
 b. 1/16 mức sử dụng ban đầu  
 c. 1/32 mức sử dụng ban đầu  
 d. 1/64 mức sử dụng ban đầu
-Câu 3. Đối với [[Kernel|kernel]] nhân ma trận đơn chính theo ô như đã trình bày trong [[4.4 Phép nhân ma trận dạng ô nhớ kernel|Bài giảng 4.4]], giả sử kích thước [[ô]] là 32x32 và hệ thống có kích thước [[Burst DRAM|burst DRAM]] là 128 byte. Sẽ có bao nhiêu [[Burst DRAM|burst DRAM]] được gửi đến bộ xử lý do việc tải một ô ma trận A bởi một [[khối luồng]]?
+Câu 3. Đối với [[Kernel|kernel]] nhân ma trận đơn chính theo ô như đã trình bày trong [[4.4 Kernel nhân ma trận dạng ô|Bài giảng 4.4]], giả sử kích thước [[ô]] là 32x32 và hệ thống có kích thước [[Burst DRAM|burst DRAM]] là 128 byte. Sẽ có bao nhiêu [[Burst DRAM|burst DRAM]] được gửi đến bộ xử lý do việc tải một ô ma trận A bởi một [[khối luồng]]?
 a.      16
 b.      32
 c.      64
 d.      128
 <<<<<<< HEAD
+<<<<<<< HEAD
 Câu 4. Giả sử một nhân ma trận theo [[ô]] xử lý các điều kiện biên như đã giải thích trong [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô|Bài giảng 4.5]]. Giả sử chúng ta sử dụng [[ô]] kích thước 32x32 để xử lý các ma trận vuông có kích thước 1.000x1.000. Trong MỖI [[khối luồng]], số lượng warps tối đa sẽ có sự phân kỳ điều khiển do xử lý các điều kiện biên khi tải các [[ô]] A trong suốt quá trình thực thi của [[kernel]] là bao nhiêu?
 =======
 Câu 4. Giả sử một nhân ma trận theo [[ô]] xử lý các điều kiện biên như đã giải thích trong [[Bài giảng 4.5]]. Giả sử chúng ta sử dụng [[ô]] kích thước 32x32 để xử lý các ma trận vuông có kích thước 1.000x1.000. Trong MỖI [[khối luồng]], số lượng [[warp]] tối đa sẽ có sự phân kỳ điều khiển do xử lý các điều kiện biên khi tải các [[ô]] A trong suốt quá trình thực thi của [[kernel]] là bao nhiêu?
+>>>>>>> origin/main
+=======
+Câu 4. Giả sử một nhân ma trận theo [[ô]] xử lý các điều kiện biên như đã giải thích trong [[4.5 Xử lí kích thước ma trận bất kì trong thuật toán dạng ô|Bài giảng 4.5]]. Giả sử chúng ta sử dụng [[ô]] kích thước 32x32 để xử lý các ma trận vuông có kích thước 1.000x1.000. Trong MỖI [[khối luồng]], số lượng [[Warp|warps]] tối đa sẽ có sự phân kỳ điều khiển do xử lý các điều kiện biên khi tải các [[ô]] A trong suốt quá trình thực thi của [[kernel]] là bao nhiêu?
 >>>>>>> origin/main
 a.      32
 b.      24

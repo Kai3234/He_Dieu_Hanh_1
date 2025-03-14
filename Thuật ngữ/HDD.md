@@ -1,0 +1,1 @@
+**HDD (Hard Disk Drive)** là một [[bộ nhớ]] của [[máy tính]], sử dụng đĩa từ quay và đầu đọc/ghi từ tính để lưu trữ thông tin. [[Dữ liệu]] được lưu trữ dưới dạng các bit (0 và 1) trên bề mặt đĩa từ, giúp [[máy tính]] ghi, đọc và truy xuất thông tin khi cần.

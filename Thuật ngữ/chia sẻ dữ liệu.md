@@ -1,0 +1,1 @@
+**Chia sẻ dữ liệu (Data Sharing)** là quá trình **trao đổi hoặc cấp quyền [[truy cập dữ liệu]]** giữa nhiều người dùng, [[ứng dụng]] hoặc hệ thống nhằm mục đích sử dụng chung hoặc hợp tác.

@@ -1,0 +1,1 @@
+**Màn hình cảm ứng (Touchscreen)** là loại [[màn hình]] có thể nhận diện và phản hồi khi người dùng chạm trực tiếp lên bề mặt của nó. Thay vì sử dụng [[chuột]] hoặc [[bàn phím]], người dùng có thể tương tác bằng ngón tay hoặc bút cảm ứng (stylus).

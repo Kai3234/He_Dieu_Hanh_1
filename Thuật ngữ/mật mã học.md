@@ -1,0 +1,1 @@
+**Mật mã học** (Cryptography) là một lĩnh vực khoa học và nghệ thuật liên quan đến việc bảo vệ thông tin bằng cách biến đổi ([[mã hóa]]) [[dữ liệu]] thành các dạng không thể đọc được đối với những người không có quyền truy cập. Mục tiêu chính của mật mã học là đảm bảo tính **bảo mật**, **toàn vẹn**, **xác thực** và **không thể chối bỏ** của thông tin.

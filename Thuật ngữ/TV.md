@@ -1,0 +1,1 @@
+**TV (Television - truyền hình)** là thiết bị hiển thị hình ảnh và âm thanh, dùng để xem các chương trình truyền hình, phim ảnh, chơi game hoặc kết nối [[Internet]].

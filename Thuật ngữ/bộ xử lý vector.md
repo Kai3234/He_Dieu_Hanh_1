@@ -1,0 +1,1 @@
+Trong [[điện toán]], bộ xử lý vectơ hoặc bộ xử lý mảng là một đơn vị xử lý trung tâm ([[CPU]]) triển khai một tập [[lệnh]], trong đó các [[lệnh]] của nó được thiết kế để hoạt động hiệu quả trên các mảng một chiều lớn [[dữ liệu]] được gọi là vectơ.

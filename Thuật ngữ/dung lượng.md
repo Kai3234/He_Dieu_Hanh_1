@@ -1,0 +1,1 @@
+**Dung lượng (Capacity)** là khái niệm chỉ **khả năng chứa đựng hoặc xử lý** của một hệ thống, thiết bị hoặc vật thể. Trong lĩnh vực công nghệ và đời sống, dung lượng thường được dùng để đo lường **khối lượng [[dữ liệu]], năng lượng hoặc tài nguyên** mà một thiết bị có thể lưu trữ, xử lý hoặc cung cấp.
