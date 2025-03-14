@@ -1,0 +1,1 @@
+**Web** (viết tắt của **World Wide Web - WWW**) là hệ thống thông tin toàn cầu, nơi các tài liệu và tài nguyên được truy cập qua [[Internet]] thông qua [[trình duyệt web]]. Web hoạt động dựa trên các trang web (**website**), được liên kết với nhau bằng **siêu liên kết (hyperlink)** và hiển thị nội dung bằng **HTML (HyperText Markup Language)**.

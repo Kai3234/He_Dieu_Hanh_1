@@ -3,7 +3,7 @@
 ## **Các thành phần chính của khoa học dữ liệu**
 
 - **Thu thập [[dữ liệu]]:**  
-    Quá trình thu thập, tích hợp [[dữ liệu]] từ nhiều nguồn khác nhau ([[cơ sở dữ liệu]], [[web]], [[IoT]], …).
+    Quá trình thu thập, tích hợp [[dữ liệu]] từ nhiều nguồn khác nhau ([[cơ sở dữ liệu]], [[Web]], [[IoT]], …).
     
 - **Tiền xử lý [[dữ liệu]]:**  
     Là các bước làm sạch, chuẩn hóa, biến đổi [[dữ liệu]] để chuẩn bị cho việc phân tích.
