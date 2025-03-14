@@ -6,10 +6,10 @@
 
 - **Command Prompt (CMD)** – `cmd.exe`
 - **Windows PowerShell** – Mạnh hơn CMD, hỗ trợ scripting.
-- **Windows Terminal** – Hỗ trợ nhiều loại dòng lệnh (CMD, PowerShell, WSL).
+- **Windows Terminal** – Hỗ trợ nhiều loại dòng [[lệnh]] (CMD, PowerShell, WSL).
 
 **Trên Linux/macOS:**
 
-- **Bash (Bourne Again Shell)** – Dòng lệnh phổ biến trên Linux/macOS.
+- **Bash (Bourne Again Shell)** – Dòng [[lệnh]] phổ biến trên Linux/macOS.
 - **Zsh, Fish** – Các shell thay thế với tính năng nâng cao.
 - **Terminal (macOS/Linux)** – Công cụ để chạy các shell này.
