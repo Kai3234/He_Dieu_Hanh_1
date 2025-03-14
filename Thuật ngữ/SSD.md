@@ -1,0 +1,1 @@
+**SSD** (Solid State Drive) là một loại [[ổ cứng]] thể rắn dùng để [[lưu trữ dữ liệu]] trên [[máy tính]], thay thế hoặc bổ sung cho [[ổ cứng]] truyền thống ([[HDD]] - Hard Disk Drive). SSD sử dụng [[bộ nhớ flash]] (flash memory) để [[lưu trữ dữ liệu]], không có bộ phận chuyển động cơ học như HDD, giúp tăng tốc độ [[truy xuất dữ liệu]] và độ bền.
