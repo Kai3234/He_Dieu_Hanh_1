@@ -10,3 +10,15 @@
 3. **Shared Memory (Bộ nhớ dùng chung):**
     - Các tiến trình chia sẻ một vùng bộ nhớ chung để trao đổi dữ liệu.
     - Hiệu quả về tốc độ nhưng cần cơ chế đồng bộ hóa (ví dụ: semaphore) để tránh xung đột.
+4. **Semaphore (Tín hiệu):**
+    
+    - Là cơ chế đồng bộ hóa để quản lý truy cập vào tài nguyên dùng chung.
+    - Đảm bảo chỉ một tiến trình được truy cập tài nguyên tại một thời điểm.
+    
+5. **Socket (Ổ cắm):**
+    - Cho phép giao tiếp giữa các tiến trình trên cùng một máy hoặc qua mạng.
+    - Sử dụng giao thức TCP/IP hoặc UDP.
+6. **Signal (Tín hiệu):**
+	- Dùng để thông báo sự kiện giữa các tiến trình.
+7. **Remote Procedure Call (RPC - Gọi thủ tục từ xa):**
+    - Cho phép một tiến trình gọi hàm hoặc thủ tục trên tiến trình khác, thậm chí trên máy tính khác.
