@@ -3,7 +3,7 @@ Tính toán song song (Parallel computing) là một hình thức tính toán tr
 ### **Đặc điểm chính**:
 
 1. **Chia để trị** (Divide and Conquer):  
-    Bài toán được phân tách thành các tác vụ hoặc luồng (threads) độc lập hoặc phụ thuộc ít, xử lý đồng thời.
+    Bài toán được phân tách thành các tác vụ hoặc [[luồng]] (threads) độc lập hoặc phụ thuộc ít, xử lý đồng thời.
     
 2. **Xử lý đồng thời**:  
     Các bộ xử lý (cores, máy tính, node) làm việc cùng lúc trên các phần khác nhau của bài toán.
