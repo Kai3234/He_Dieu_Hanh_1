@@ -6,7 +6,7 @@ Tính toán song song (Parallel computing) là một hình thức tính toán tr
     Bài toán được phân tách thành các tác vụ hoặc [[luồng]] (threads) độc lập hoặc phụ thuộc ít, xử lý đồng thời.
     
 2. **Xử lý đồng thời**:  
-    Các bộ xử lý (cores, máy tính, node) làm việc cùng lúc trên các phần khác nhau của bài toán.
+    Các [[bộ xử lý]] (cores, [[máy tính]], node) làm việc cùng lúc trên các phần khác nhau của bài toán.
     
 3. **Kết hợp kết quả**:  
     Sau khi xử lý xong các phần, kết quả được tổng hợp để tạo ra đầu ra cuối cùng.
