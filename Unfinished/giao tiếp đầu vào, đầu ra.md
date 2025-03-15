@@ -1,0 +1,1 @@
+Giao tiếp đầu vào/đầu ra (I/O - Input/Output) là quá trình trao đổi dữ liệu giữa một hệ thống máy tính với thế giới bên ngoài, bao gồm con người, thiết bị ngoại vi hoặc các hệ thống khác.
