@@ -1,0 +1,1 @@
+**Render** (kết xuất) là quá trình tạo ra hình ảnh, video hoặc nội dung hiển thị từ [[dữ liệu]] thô bằng cách xử lý [[đồ họa]], ánh sáng, màu sắc và hiệu ứng. Quá trình này thường được thực hiện bằng [[phần mềm]] chuyên dụng và [[phần cứng]] [[đồ họa]] ([[GPU]], [[CPU]]).
