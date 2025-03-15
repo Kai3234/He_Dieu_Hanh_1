@@ -1,0 +1,1 @@
+**Truy cập dữ liệu (Data Access)** là quá trình lấy, đọc, ghi hoặc thay đổi [[dữ liệu]] từ một nguồn lưu trữ như [[bộ nhớ]] [[máy tính]], [[cơ sở dữ liệu]], [[hệ thống tệp]] hoặc đám mây.

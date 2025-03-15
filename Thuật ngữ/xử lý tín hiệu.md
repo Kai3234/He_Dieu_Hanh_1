@@ -1,0 +1,1 @@
+**Xử lý tín hiệu (Signal Processing)** là quá trình phân tích, biến đổi và thao tác tín hiệu để trích xuất thông tin hữu ích hoặc cải thiện chất lượng tín hiệu. Tín hiệu có thể ở dạng **analog** (tín hiệu liên tục) hoặc **digital** (tín hiệu số).
