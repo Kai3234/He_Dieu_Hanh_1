@@ -1,0 +1,1 @@
+Phương pháp số (**Numerical Methods**) là tập hợp các kỹ thuật toán học được sử dụng để tìm nghiệm gần đúng của các bài toán không thể giải chính xác bằng phương pháp giải tích (analytical methods).
