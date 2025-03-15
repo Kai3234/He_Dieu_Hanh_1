@@ -1,0 +1,1 @@
+**Truy cập bộ nhớ trực tiếp (DMA - Direct Memory Access)** là một cơ chế cho phép thiết bị phần cứng (như ổ đĩa, card âm thanh, card mạng...) đọc và ghi dữ liệu trực tiếp vào bộ nhớ chính (RAM) mà không cần thông qua CPU. Điều này giúp tăng tốc độ xử lý và giảm tải cho bộ xử lý trung tâm.
