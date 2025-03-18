@@ -158,6 +158,115 @@ Sau đây là một triển khai khả thi của phòng thí nghiệm. Giải ph
 chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân phát cho sinh viên.
 
 \#include <gputk.h>
+\#include <gputk.h>
+
+\#define gpuTKCheck(stmt) 
+
+	do { 
+	
+		cudaError_t err = stmt; 
+		
+		if (err != cudaSuccess) { 
+		
+		gpuTKLog(ERROR, "Không chạy được stmt", #stmt); 
+		
+		gpuTKLog(ERROR, "Đã nhận lỗi CUDA ", cudaGetErrorString(err)); 
+		
+		return -1; 
+		} 
+	} while (0)
+	
+	// Tính toán C=A∗B
+	
+	__global__ void matrixMultiplyShared(float *A, float *B, float *C, int numARows, int numAColumns, int numBRows, int numBColumns, int numCRows, int numCColumns) {
+	//@@ Chèn mã để triển khai phép nhân ma trận tại đây
+	//@@ Bạn phải sử dụng bộ nhớ chia sẻ cho lab này
+	}
+	
+	int main(int argc, char **argv) {
+		gpuTKArg_t args;
+		float *hostA; // Ma trận A
+		float *hostB; // Ma trận B
+		float *hostC; // Ma trận đầu ra C
+		float *deviceA;
+		float *deviceB;
+		float *deviceC;
+		int numARows; // Số hàng trong ma trận A
+		
+		int numAColumns; // Số cột trong ma trận A
+		
+		int numBRows; // Số hàng trong ma trận B
+		
+		int numBColumns; // Số cột trong ma trận B
+		
+		int numCRows; // Số hàng trong ma trận C (bạn phải đặt giá trị này)
+		
+		int numCColumns; // Số cột trong ma trận C (bạn phải đặt giá trị này)
+		
+		args = gpuTKArg_read(argc, argv);
+		
+		gpuTKTime_start(Generic, "Đang nhập dữ liệu và tạo bộ nhớ trên máy chủ");
+		
+		hostA = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 0), &numARows, &numAColumns);
+		
+		hostB = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 1), &numBRows, &numBColumns);
+		
+		//@@ Đặt numCRows và numCColumns
+		
+		numCRows = 0;
+		
+		numCColumns = 0;
+		
+		//@@ Cấp phát ma trận hostC
+		
+		gpuTKTime_stop(Generic, "Đang nhập dữ liệu và tạo bộ nhớ trên máy chủ");
+		
+		gpuTKLog(TRACE, "Kích thước của A là %d x %d", numARows, numAColumns);
+		
+		gpuTKLog(TRACE, "Kích thước của B là %d x %d", numBRows, numBColumns);
+		
+		gpuTKTime_start(GPU, "Đang cấp phát bộ nhớ GPU.");
+		
+		//@@ Cấp phát bộ nhớ GPU tại đây
+		
+		gpuTKTime_stop(GPU, "Đang cấp phát bộ nhớ GPU.");
+		
+		gpuTKTime_start(GPU, "Sao chép bộ nhớ đầu vào vào GPU.");
+		
+		//@@ Sao chép bộ nhớ vào GPU tại đây
+		
+		gpuTKTime_stop(GPU, "Sao chép bộ nhớ đầu vào vào GPU.");
+		
+		//@@ Khởi tạo kích thước lưới và khối tại đây
+		
+		gpuTKTime_start(Compute, "Thực hiện tính toán CUDA");
+		
+		//@@ Khởi chạy GPU Kernel tại đây
+		
+		cudaDeviceSynchronize();
+		
+		gpuTKTime_stop(Compute, "Thực hiện tính toán CUDA");
+		
+		gpuTKTime_start(Copy, "Sao chép bộ nhớ đầu ra vào CPU");
+		
+		//@@ Sao chép bộ nhớ GPU trở lại CPU tại đây
+		
+		gpuTKTime_stop(Copy, "Sao chép bộ nhớ đầu ra vào CPU");
+		
+		gpuTKTime_start(GPU, "Giải phóng bộ nhớ GPU");
+		
+		//@@ Giải phóng bộ nhớ GPU tại đây
+		
+		gpuTKTime_stop(GPU, "Giải phóng bộ nhớ GPU");
+		
+		gpuTKSolution(args, hostC, numCRows, numCColumns);
+		
+		free(hostA);
+		free(hostB);
+		free(hostC);
+		
+		return 0;
+	}
 
 
 
