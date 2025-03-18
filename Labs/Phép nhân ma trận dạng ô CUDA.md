@@ -270,9 +270,11 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		gpuTKTime_start(Compute, "Thực hiện tính toán CUDA");
 		
 		//@@ Khởi chạy GPU Kernel tại đây
+		matrixMultiply<<<dimGrid, dimBlock>>>(
+			deviceA, deviceB, deviceC, numARows, numAColumns, numBRows,
+		numBColumns, numCRows, numCColumns);
 		
 		cudaDeviceSynchronize();
-		
 		gpuTKTime_stop(Compute, "Thực hiện tính toán CUDA");
 		
 		gpuTKTime_start(Copy, "Sao chép bộ nhớ đầu ra vào CPU");
