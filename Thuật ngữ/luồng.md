@@ -6,4 +6,4 @@
 - **Nhẹ (Lightweight)**:
     - Tạo/xóa luồng nhanh hơn [[tiến trình]], tốn ít tài nguyên hệ thống.
 - **Độc lập thực thi**:
-    - Mỗi luồng có **[[ngăn xếp]] (stack)** riêng để lưu [[biến cục bộ của luồng|biến cục bộ]] và trạng thái.
+    - Mỗi luồng có **ngăn xếp (stack)** riêng để lưu [[biến cục bộ của luồng|biến cục bộ]] và trạng thái.
