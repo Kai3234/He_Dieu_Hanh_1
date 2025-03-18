@@ -1,0 +1,1 @@
+Ma trận là một mảng hình chữ nhật gồm các số, ký hiệu hoặc biểu thức được sắp xếp theo hàng và cột. Mỗi phần tử trong ma trận được xác định bởi vị trí hàng và cột của nó.
