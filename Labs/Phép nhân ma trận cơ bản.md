@@ -107,7 +107,7 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 	gpuTKTime_stop(Copy, "Sao chép bộ nhớ đầu ra vào CPU");
 	
 	gpuTKTime_start(GPU, "Giải phóng bộ nhớ GPU");
-	//@@ Free the GPU memory here
+	//@@ Giải phóng bộ nhớ GPU tại đây
 	cudaFree(deviceA);
 	cudaFree(deviceB);
 	cudaFree(deviceC);
