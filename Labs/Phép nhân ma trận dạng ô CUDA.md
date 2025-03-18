@@ -168,12 +168,10 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		if (err != cudaSuccess) { 
 		
 		gpuTKLog(ERROR, "Không chạy được stmt", #stmt); 
-		
-		gpuTKLog(ERROR, "Đã nhận lỗi CUDA ", cudaGetErrorString(err)); 
-		
 		return -1; 
 		} 
 	} while (0)
+\#define TILE_WIDTH 16
 	
 	// Tính toán C=A∗B
 	
