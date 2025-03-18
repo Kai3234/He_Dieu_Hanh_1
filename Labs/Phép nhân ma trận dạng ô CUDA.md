@@ -176,7 +176,31 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 	
 	__global__ void matrixMultiplyShared(float *A, float *B, float *C, int numARows, int numAColumns, int numBRows, int numBColumns, int numCRows, int numCColumns) {
 	//@@ Chèn mã để triển khai phép nhân ma trận tại đây
-	//@@ Bạn phải sử dụng bộ nhớ chia sẻ cho lab này
+	____shared__ float ds_M[TILE_WIDTH][TILE_WIDTH];
+	__shared__ float ds_N[TILE_WIDTH][TILE_WIDTH];
+	int bx = blockIdx.x, by = blockIdx.y, tx = threadIdx.x, ty = threadIdx.y,
+23 Row = by * TILE_WIDTH + ty, Col = bx * TILE_WIDTH + tx;
+24 float Pvalue = 0;
+25
+26 for (int m = 0; m < (numAColumns - 1) / TILE_WIDTH + 1; ++m) {
+27 if (Row < numARows && m * TILE_WIDTH + tx < numAColumns)
+28 ds_M[ty][tx] = A[Row * numAColumns + m * TILE_WIDTH + tx];
+29 else
+30 ds_M[ty][tx] = 0;
+31 if (Col < numBColumns && m * TILE_WIDTH + ty < numBRows)
+32 ds_N[ty][tx] = B[(m * TILE_WIDTH + ty) * numBColumns + Col];
+33 else
+34 ds_N[ty][tx] = 0;
+35
+36 __syncthreads();
+37 for (int k = 0; k < TILE_WIDTH; ++k)
+38 Pvalue += ds_M[ty][k] * ds_N[k][tx];
+39 __syncthreads();
+40 }
+41 if (Row < numCRows && Col < numCColumns)
+42 C[Row * numCColumns + Col] = Pvalue;
+43 }
+	
 	}
 	
 	int main(int argc, char **argv) {
