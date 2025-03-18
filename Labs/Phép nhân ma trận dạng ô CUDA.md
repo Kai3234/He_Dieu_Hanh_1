@@ -263,6 +263,9 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		gpuTKTime_stop(GPU, "Sao chép bộ nhớ đầu vào vào GPU.");
 		
 		//@@ Khởi tạo kích thước lưới và khối tại đây
+		dim3 dimGrid((numCColumns - 1) / TILE_WIDTH + 1,
+					(numCRows - 1) / TILE_WIDTH + 1, 1);
+		dim3 dimBlock(TILE_WIDTH, TILE_WIDTH, 1);
 		
 		gpuTKTime_start(Compute, "Thực hiện tính toán CUDA");
 		
