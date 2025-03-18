@@ -185,17 +185,17 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 	 for (int m = 0; m < (numAColumns - 1) / TILE_WIDTH + 1; ++m) {
 		 if (Row < numARows && m * TILE_WIDTH + tx < numAColumns)
 			 ds_M[ty][tx] = A[Row * numAColumns + m * TILE_WIDTH + tx];
-			 else
-30 ds_M[ty][tx] = 0;
-31 if (Col < numBColumns && m * TILE_WIDTH + ty < numBRows)
-32 ds_N[ty][tx] = B[(m * TILE_WIDTH + ty) * numBColumns + Col];
-33 else
-34 ds_N[ty][tx] = 0;
-35
-36 __syncthreads();
-37 for (int k = 0; k < TILE_WIDTH; ++k)
-38 Pvalue += ds_M[ty][k] * ds_N[k][tx];
-39 __syncthreads();
+		else
+			ds_M[ty][tx] = 0;
+		if (Col < numBColumns && m * TILE_WIDTH + ty < numBRows)
+			ds_N[ty][tx] = B[(m * TILE_WIDTH + ty) * numBColumns + Col];
+		else
+			ds_N[ty][tx] = 0; 
+			
+		__syncthreads();
+		for (int k = 0; k < TILE_WIDTH; ++k)
+			Pvalue += ds_M[ty][k] * ds_N[k][tx];
+			__syncthreads();
 40 }
 41 if (Row < numCRows && Col < numCColumns)
 42 C[Row * numCColumns + Col] = Pvalue;
