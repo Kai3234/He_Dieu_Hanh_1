@@ -1,10 +1,10 @@
-**Điện toán (Computing)** là quá trình sử dụng máy tính để xử lý thông tin, thực hiện phép tính, lưu trữ và truyền tải [[dữ liệu]]. Điện toán bao gồm cả [[phần cứng]], [[phần mềm]] và các nguyên tắc khoa học liên quan đến việc xử lý [[dữ liệu]].
+**Điện toán (Computing)** là quá trình sử dụng [[máy tính]] để xử lý thông tin, thực hiện phép tính, lưu trữ và truyền tải [[dữ liệu]]. Điện toán bao gồm cả [[phần cứng]], [[phần mềm]] và các nguyên tắc khoa học liên quan đến việc xử lý [[dữ liệu]].
 
 ## Các lĩnh vực chính của điện toán
 
 🔹 **1.1. Điện toán lý thuyết (Theoretical Computing)**
 
-- Nghiên cứu về [[thuật toán]], lý thuyết độ phức tạp, logic toán học trong máy tính.
+- Nghiên cứu về [[thuật toán]], lý thuyết độ phức tạp, logic toán học trong [[máy tính]].
 - Ví dụ: **Trí tuệ nhân tạo ([[AI]]), [[mật mã học]], [[khoa học dữ liệu]].**
 
 🔹 **1.2. Điện toán [[phần cứng]] (Hardware Computing)**
