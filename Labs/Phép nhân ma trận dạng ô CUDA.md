@@ -196,10 +196,10 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		for (int k = 0; k < TILE_WIDTH; ++k)
 			Pvalue += ds_M[ty][k] * ds_N[k][tx];
 			__syncthreads();
-40 }
-41 if (Row < numCRows && Col < numCColumns)
-42 C[Row * numCColumns + Col] = Pvalue;
-43 }
+		}
+		if (Row < numCRows && Col < numCColumns)
+			C[Row * numCColumns + Col] = Pvalue;
+	}
 	
 	}
 	
