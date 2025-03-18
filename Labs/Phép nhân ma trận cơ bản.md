@@ -5,6 +5,7 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
  \#include <gputk.h>
  // Tính toán C = A * B
 	// Sgemm là viết tắt của phép nhân ma trận-ma trận tổng quát chính xác đơn
+```
 	__global__ void sgemm(float *A, float *B, float *C, int numARows,
 						 int numAColumns, int numBRows, int numBColumns) {
 		//@@ Chèn mã để thực hiện phép nhân ma trận ở đây
