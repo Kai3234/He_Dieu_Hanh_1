@@ -240,9 +240,8 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		hostC = (float *)malloc(sizeof(float) * numCRows * numCColumns);
 		gpuTKTime_stop(Generic, "Đang nhập dữ liệu và tạo bộ nhớ trên máy chủ");
 		
-		gpuTKLog(TRACE, "Kích thước của A là %d x %d", numARows, numAColumns);
-		
-		gpuTKLog(TRACE, "Kích thước của B là %d x %d", numBRows, numBColumns);
+		gpuTKLog(TRACE, "The dimensions of A are ", numARows, " x ", numAColumns);
+		gpuTKLog(TRACE, "The dimensions of B are ", numBRows, " x ", numBColumns);
 		
 		gpuTKTime_start(GPU, "Đang cấp phát bộ nhớ GPU.");
 		
