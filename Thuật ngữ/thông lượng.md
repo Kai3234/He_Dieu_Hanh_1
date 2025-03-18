@@ -1,0 +1,4 @@
+**Thông lượng (throughput)** là một thước đo hiệu suất trong hệ thống tính toán, đặc biệt quan trọng trong các bộ xử lý song song. Nó thể hiện số lượng công việc được hoàn thành trong một đơn vị thời gian.
+## Thông lượng trong bộ nhớ và bộ xử lý song song: 
+- **Thông lượng bộ nhớ:** Là lượng dữ liệu có thể được truyền từ bộ nhớ đến bộ xử lý (hoặc ngược lại) trong một đơn vị thời gian. Được đo bằng **GB/s (gigabyte mỗi giây)**.
+- **Thông lượng thực thi:** Là số lượng phép toán hoặc tác vụ mà bộ xử lý có thể thực hiện trong một giây, thường đo bằng FLOPS (Floating Point Operations Per Second - số phép toán dấu phẩy động trên giây).
