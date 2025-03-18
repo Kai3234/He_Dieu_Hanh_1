@@ -246,13 +246,20 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		gpuTKTime_start(GPU, "Đang cấp phát bộ nhớ GPU.");
 		
 		//@@ Cấp phát bộ nhớ GPU tại đây
+		cudaMalloc(&deviceA, sizeof(float) * numARows * numAColumns);
+		cudaMalloc(&deviceB, sizeof(float) * numBRows * numBColumns);
+		cudaMalloc(&deviceC, sizeof(float) * numCRows * numCColumns);
 		
 		gpuTKTime_stop(GPU, "Đang cấp phát bộ nhớ GPU.");
 		
 		gpuTKTime_start(GPU, "Sao chép bộ nhớ đầu vào vào GPU.");
 		
 		//@@ Sao chép bộ nhớ vào GPU tại đây
-		
+		cudaMemcpy(deviceA, hostA, sizeof(float) * numARows * numAColumns,
+			cudaMemcpyHostToDevice);
+		cudaMemcpy(deviceB, hostB, sizeof(float) * numBRows * numBColumns,
+			cudaMemcpyHostToDevice);
+			
 		gpuTKTime_stop(GPU, "Sao chép bộ nhớ đầu vào vào GPU.");
 		
 		//@@ Khởi tạo kích thước lưới và khối tại đây
