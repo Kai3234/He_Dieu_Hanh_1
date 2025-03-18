@@ -237,7 +237,7 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		numCColumns = numBColumns;
 		
 		//@@ Cấp phát ma trận hostC
-		
+		hostC = (float *)malloc(sizeof(float) * numCRows * numCColumns);
 		gpuTKTime_stop(Generic, "Đang nhập dữ liệu và tạo bộ nhớ trên máy chủ");
 		
 		gpuTKLog(TRACE, "Kích thước của A là %d x %d", numARows, numAColumns);
