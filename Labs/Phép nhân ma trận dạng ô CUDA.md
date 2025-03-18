@@ -233,9 +233,8 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		
 		//@@ Đặt numCRows và numCColumns
 		
-		numCRows = ;
-		
-		numCColumns = 0;
+		numCRows = numARows;
+		numCColumns = numBColumns;
 		
 		//@@ Cấp phát ma trận hostC
 		
