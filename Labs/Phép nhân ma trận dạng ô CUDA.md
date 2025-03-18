@@ -233,7 +233,7 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		
 		//@@ Đặt numCRows và numCColumns
 		
-		numCRows = 0;
+		numCRows = ;
 		
 		numCColumns = 0;
 		
