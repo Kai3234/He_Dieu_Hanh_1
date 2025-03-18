@@ -280,12 +280,17 @@ chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân
 		gpuTKTime_start(Copy, "Sao chép bộ nhớ đầu ra vào CPU");
 		
 		//@@ Sao chép bộ nhớ GPU trở lại CPU tại đây
-		
+		cudaMemcpy(hostC, deviceC, sizeof(float) * numCRows * numCColumns,
+					cudaMemcpyDeviceToHost);
+					
 		gpuTKTime_stop(Copy, "Sao chép bộ nhớ đầu ra vào CPU");
 		
 		gpuTKTime_start(GPU, "Giải phóng bộ nhớ GPU");
 		
 		//@@ Giải phóng bộ nhớ GPU tại đây
+		cudaFree(deviceA);
+		cudaFree(deviceB);
+		cudaFree(deviceC);
 		
 		gpuTKTime_stop(GPU, "Giải phóng bộ nhớ GPU");
 		
