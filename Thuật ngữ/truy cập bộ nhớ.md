@@ -1,0 +1,1 @@
+**Truy cập bộ nhớ** là quá trình đọc/ghi dữ liệu vào bộ nhớ (RAM, cache, ổ cứng). Tốc độ truy cập phụ thuộc vào loại bộ nhớ, độ trễ, băng thông và bộ đệm. Truy cập nhanh giúp tăng hiệu suất hệ thống và chương trình.
