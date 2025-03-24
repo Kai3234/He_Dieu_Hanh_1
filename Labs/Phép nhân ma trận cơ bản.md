@@ -18,6 +18,12 @@ Phiên bản mã nguồn mới nhất của bài thực hành này cùng với c
 Tệp thực thi được tạo ra sau khi biên dịch bài thực hành có thể được chạy bằng lệnh sau:
 		./BasicMatrixMultiplication_Stream_Template -e <expected.raw> \
 		    -i <input0.raw>,<input1.raw> -o <output.raw> -t matrix
+Trong đó:
+- `<expected.raw>` là đầu ra mong đợi,
+- `<input0.raw>,<input1.raw>` là tập dữ liệu đầu vào,
+- `<output.raw>` là đường dẫn tùy chọn để lưu kết quả.
+Các tập dữ liệu có thể được tạo bằng trình tạo dữ liệu được biên dịch như một phần của quá trình biên dịch.
+Câu hỏi: 
 
 #  Giải pháp mã: 
 Sau đây là một triển khai khả thi của phòng thí nghiệm. Giải pháp này dành cho  
