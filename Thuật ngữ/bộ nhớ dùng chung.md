@@ -1,0 +1,5 @@
+- Là mô hình tổ chức [[bộ nhớ]] trong đó cả [[chương trình]] (mã [[lệnh]]) và [[dữ liệu]] đều được lưu trữ trong cùng một không gian [[bộ nhớ]] vật lý.
+- **Đặc điểm chính**:
+    - Không phân biệt giữa vùng nhớ cho mã [[lệnh]] và vùng nhớ cho [[dữ liệu]]
+    - Sử dụng cùng một bus [[dữ liệu]] để truy cập cả [[lệnh]] và [[dữ liệu]]
+    - Mỗi vị trí [[bộ nhớ]] có một địa chỉ duy nhất, bất kể nó chứa [[lệnh]] hay [[dữ liệu]]
