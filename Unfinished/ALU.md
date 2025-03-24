@@ -1,0 +1,3 @@
+- **ALU** (Arithmetic Logic Unit - Đơn vị số học và Logic) là một thành phần phần cứng cơ bản trong bộ xử lý (CPU hoặc GPU). Đây là khối mạch điện tử chịu trách nhiệm thực hiện các phép tính số học và các phép toán logic.
+- Các đặc điểm và chức năng chính của ALU:
+  - 
