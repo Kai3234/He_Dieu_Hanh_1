@@ -1,3 +1,3 @@
 Trong [[CUDA]], **khối (block)** là một trong những thành phần cơ bản để tổ chức mô hình [[lập trình song song]]. Nó giúp nhóm các thread lại với nhau theo cách mà các thread trong cùng 1 block có thể:
 - **Đồng bộ hóa:** Các thread cùng một block có thể sử dụng hàm `__syncthreads()` để chờ cho đến khi mọi thread đều hoàn thành một đoạn code nhất định trước khi tiến hành xử lý tiếp.
-- **Chia sẻ [[dữ liệu]]:** Các thread trong cùng một block có thể truy cập vào [[bộ nhớ chia sẻ ]](shared memory). Đây là bộ nhớ nhanh, cho phép giảm độ trễ truy cập so với bộ nhớ toàn cục (global memory).
+- **Chia sẻ [[dữ liệu]]:** Các thread trong cùng một block có thể truy cập vào [[bộ nhớ chia sẻ ]](shared memory). Đây là [[bộ nhớ]] nhanh, cho phép giảm [[độ trễ]] truy cập so với [[bộ nhớ toàn cục]] (global memory).
