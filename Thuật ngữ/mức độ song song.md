@@ -1,0 +1,1 @@
+**Mức độ song song** đề cập đến khả năng thực hiện nhiều tác vụ hoặc phép tính đồng thời, thay vì xử lý tuần tự từng bước một. Điều này đặc biệt quan trọng trong lĩnh vực tính toán hiệu năng cao như trong lập trình GPU, nơi khối lượng công việc được phân chia thành hàng nghìn luồng (threads) và các khối luồng (thread blocks) để tận dụng tối đa sức mạnh xử lý của phần cứng.

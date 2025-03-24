@@ -1,0 +1,1 @@
+"Xung đột truy cập" là hiện tượng nhiều luồng (threads) hoặc tiến trình cùng cố gắng truy cập vào cùng một vùng bộ nhớ hoặc tài nguyên đồng thời. Hiện tượng này xuất hiện rõ ràng trong các hệ thống tính toán song song, chẳng hạn như GPU hoặc các ứng dụng đa luồng trên CPU, và có thể ảnh hưởng tiêu cực đến hiệu suất của hệ thống.

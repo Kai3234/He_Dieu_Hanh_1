@@ -1,0 +1,1 @@
+"Hiệu suất" là cách đánh giá mức độ hoạt động và khả năng thực hiện công việc của một hệ thống hoặc một thành phần nào đó. Nó cho biết bạn đang nhận được bao nhiêu "kết quả" từ một lượng tài nguyên (như thời gian, bộ nhớ, năng lượng) nhất định.
