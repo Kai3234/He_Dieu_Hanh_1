@@ -1,11 +1,11 @@
-- **ALU** (Arithmetic Logic Unit - Đơn vị số học và Logic) là một thành phần phần cứng cơ bản trong bộ xử lý (CPU hoặc GPU). Đây là khối mạch điện tử chịu trách nhiệm thực hiện các phép tính số học và các phép toán logic.
+- **ALU** (Arithmetic Logic Unit - Đơn vị số học và Logic) là một thành phần [[phần cứng]] cơ bản trong [[bộ xử lý]] ([[CPU]] hoặc [[GPU]]). Đây là khối [[mạch điện tử]] chịu trách nhiệm thực hiện các phép tính số học và các phép toán logic.
 - Các đặc điểm và chức năng chính của ALU:
-    - **Phép toán số học**: ALU thực hiện các phép tính cơ bản như cộng, trừ, nhân, chia trên dữ liệu số.
+    - **Phép toán số học**: ALU thực hiện các phép tính cơ bản như cộng, trừ, nhân, chia trên [[dữ liệu]] số.
     - **Phép toán logic**: ALU thực hiện các phép toán như AND, OR, NOT, XOR, so sánh (lớn hơn/nhỏ hơn/bằng) trên các bit.
     - **Cấu trúc**: ALU thường bao gồm:
-    - Các thanh ghi đầu vào để lưu trữ dữ liệu cần xử lý
-    - Mạch tổ hợp thực hiện các phép toán
-    - Thanh ghi đầu ra để lưu kết quả
-    - Bộ phận báo hiệu trạng thái (flags) như: tràn số, số âm, số không, v.v.
- - **Vị trí trong hệ thống**: Trong một bộ xử lý, có thể có nhiều ALU hoạt động song song để tăng hiệu suất xử lý.
-- **Vai trò trong GPU**: Trong kiến trúc GPU, mỗi CUDA core hoặc đơn vị xử lý đều chứa các ALU để thực hiện các phép toán trên dữ liệu. Sự kết hợp của hàng nghìn ALU trong một GPU cho phép thực hiện một lượng lớn phép tính song song.
+       - Các [[thanh ghi]] đầu vào để [[lưu trữ dữ liệu]] cần xử lý
+       - Mạch tổ hợp thực hiện các phép toán
+       - Thanh ghi đầu ra để lưu kết quả
+       - Bộ phận báo hiệu trạng thái (flags) như: tràn số, số âm, số không, v.v.
+    - **Vị trí trong hệ thống**: Trong một [[bộ xử lý]], có thể có nhiều ALU hoạt động song song để tăng [[hiệu suất]] xử lý.
+    - **Vai trò trong [[GPU]]**: Trong kiến trúc [[GPU]], mỗi CUDA core hoặc đơn vị xử lý đều chứa các ALU để thực hiện các phép toán trên dữ liệu. Sự kết hợp của hàng nghìn ALU trong một GPU cho phép thực hiện một lượng lớn phép tính song song.
