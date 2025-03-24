@@ -13,7 +13,12 @@ Chỉnh sửa mã nguồn trong tab mã để thực hiện các bước sau:
 - Sao chép kết quả từ thiết bị về host
 - Giải phóng bộ nhớ thiết bị
 Hướng dẫn về vị trí cần đặt từng phần của mã được đánh dấu bằng các dòng chú thích `//@@`.
-Hướng dẫn cài đặt cục bộ 
+# Hướng dẫn cài đặt cục bộ 
+Phiên bản mới nhất của mã nguồn cho bài thực hành này cùng với các script biên dịch có thể được tìm thấy trên [Bitbucket repository](#).  
+Tài liệu README trong thư mục gốc của repository sẽ hướng dẫn cách sử dụng công cụ [CMake](#) và cách xây dựng các bài thực hành để phát triển cục bộ.
+Tệp thực thi được tạo ra sau khi biên dịch bài thực hành có thể được chạy bằng lệnh sau:
+_(Phần lệnh không xuất hiện trong ảnh, có thể nằm ở phần tiếp theo của tài liệu.)_
+
 #  Giải pháp mã: 
 Sau đây là một triển khai khả thi của phòng thí nghiệm. Giải pháp này dành cho  
 chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân phát cho sinh viên.
