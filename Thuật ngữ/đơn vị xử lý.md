@@ -1,0 +1,10 @@
+- Đơn vị xử lý là thành phần [[phần cứng]] cấp thấp trong [[GPU]] có nhiệm vụ thực hiện các phép tính số học và logic. Trong kiến trúc NVIDIA, chúng thường được gọi là [[CUDA]] cores.
+- **Chức năng**: Mỗi đơn vị xử lý được thiết kế để thực hiện các phép toán đơn giản như cộng, trừ, nhân, chia, và các phép logic trên [[dữ liệu]].
+- **Đặc điểm hoạt động**:
+    - Hoạt động theo mô hình [[SIMT]] (Single Instruction, Multiple Threads) - một [[lệnh]] được thực hiện đồng thời trên nhiều [[luồng]]
+    - Có khả năng xử lý nhiều [[luồng]] song song
+    - Thường được [[tối ưu hóa]] cho các phép toán số học với độ chính xác đơn (single precision) hoặc kép (double precision)
+- **Vị trí trong hệ thống**:
+  - Nằm trong [[SM]] (Streaming Multiprocessor)
+  - Nhiều đơn vị xử lý được nhóm lại trong cùng một [[SM]]
+  - Tất cả đơn vị xử lý trong cùng [[SM]] chia sẻ tài nguyên như [[bộ nhớ chia sẻ]], bộ đệm hằng số, và bộ lập lịch [[warp]]
