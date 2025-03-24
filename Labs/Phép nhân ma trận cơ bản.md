@@ -53,14 +53,14 @@ Tài liệu về thư viện **Lib GPUTK** có thể được tìm thấy tron
 
     // Định nghĩa macro gpuTKCheck để kiểm tra lỗi CUDA
      #define gpuTKCheck(stmt) \
-    do { \
-        cudaError_t err = stmt;  // Thực thi lệnh và lấy mã lỗi CUDA
-        if (err != cudaSuccess) {  // Nếu có lỗi xảy ra
-            gpuTKLog(ERROR, "Không thể thực thi lệnh ", #stmt);  // Ghi log lệnh bị lỗi
-            gpuTKLog(ERROR, "Lỗi CUDA: ", cudaGetErrorString(err));  // Ghi log lỗi CUDA cụ thể
+	    do { \
+	        cudaError_t err = stmt;  // Thực thi lệnh và lấy mã lỗi CUDA
+	        if (err != cudaSuccess) {  // Nếu có lỗi xảy ra
+	            gpuTKLog(ERROR, "Không thể thực thi lệnh ", #stmt);  // Ghi log lệnh bị lỗi
+	            gpuTKLog(ERROR, "Lỗi CUDA: ", cudaGetErrorString(err));  // Ghi log lỗi CUDA cụ thể
             return -1;  // Trả về -1 để báo lỗi
-        } \
-    } while (0)  // Dùng vòng lặp do-while(0) để đảm bảo macro hoạt động như một khối lệnh đơn
+	        } \
+	    } while (0)  // Dùng vòng lặp do-while(0) để đảm bảo macro hoạt động như một khối lệnh đơn
 
 
 #  Giải pháp mã: 
