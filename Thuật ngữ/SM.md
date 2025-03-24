@@ -1,0 +1,1 @@
+**SM** là viết tắt của **Streaming Multiprocessor**, là đơn vị xử lý cốt lõi trong kiến trúc GPU, đặc biệt là trong các GPU của NVIDIA. SM là nơi mà các luồng (threads) và khối luồng (thread blocks) được phân phối và thực thi song song.

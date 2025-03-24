@@ -1,0 +1,1 @@
+"Hiệu năng" là khái niệm chỉ khả năng hoạt động của một hệ thống, thiết bị hoặc thuật toán trong việc thực hiện các công việc được giao một cách hiệu quả và tối ưu.
