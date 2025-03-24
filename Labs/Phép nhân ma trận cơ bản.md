@@ -48,7 +48,19 @@ Các tập dữ liệu có thể được tạo bằng trình tạo dữ liệu 
 # Mẫu Code
 Đoạn mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Code này xử lý việc nhập, xuất dữ liệu cũng như kiểm tra kết quả. Sinh viên cần chèn mã của mình vào các phần được đánh dấu bằng `//@@`. Các phần code khác cần được giữ nguyên.
 Tài liệu về thư viện **Lib GPUTK** có thể được tìm thấy trong [Kho lưu trữ Bitbucket](#) tại thư mục `"libgputk/docs"` trong thư mục gốc của kho lưu trữ.
+```
+#include <gputk.h>
 
+#define gpuTKCheck(stmt) \
+    do { \
+        cudaError_t err = stmt; \
+        if (err != cudaSuccess) { \
+            gpuTKLog(ERROR, "Failed to run stmt ", #stmt); \
+            gpuTKLog(ERROR, "Got CUDA error ... ", cudaGetErrorString(err)); \
+            return -1; \
+        } \
+    } while (0)
+```
 
 #  Giải pháp mã: 
 Sau đây là một triển khai khả thi của phòng thí nghiệm. Giải pháp này dành cho  
