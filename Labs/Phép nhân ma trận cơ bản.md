@@ -86,7 +86,7 @@ int main(int argc, char **argv) {
 
     args = gpuTKArg_read(argc, argv);
 
-    gpuTKTime_start(Generic, "Nhập dữ liệu và tạo bộ nhớ trên host");
+    gpuTKTime_start(Generic, "Importing data and creating memory on host"); //   Nhập dữ liệu và tạo bộ nhớ trên host
     hostA = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 0), &numARows,
                                  &numAColumns);
     hostB = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 1), &numBRows,
@@ -97,45 +97,46 @@ int main(int argc, char **argv) {
     numCColumns = 0;
 
     //@@ Cấp phát bộ nhớ cho ma trận hostC
-    gpuTKTime_stop(Generic, "Nhập dữ liệu và tạo bộ nhớ trên host");
+    gpuTKTime_stop(Generic, "Importing data and creating memory on host"); // Nhập dữ liệu và tạo bộ nhớ trên host
 
-    gpuTKLog(TRACE, "Kích thước của A là ", numARows, " x ", numAColumns);
-    gpuTKLog(TRACE, "Kích thước của B là ", numBRows, " x ", numBColumns);
+    gpuTKLog(TRACE, "The dimensions of A are ", numARows, " x ", numAColumns); // Kích thước của A
+    gpuTKLog(TRACE, "The dimensions of B are ", numBRows, " x ", numBColumns); // Kích thước của B
 
-    gpuTKTime_start(GPU, "Cấp phát bộ nhớ trên GPU.");
+    gpuTKTime_start(GPU, "Allocating GPU memory."); // Cấp phát bộ nhớ trên GPU
     //@@ Cấp phát bộ nhớ trên GPU ở đây
-    gpuTKTime_stop(GPU, "Cấp phát bộ nhớ trên GPU.");
+    gpuTKTime_stop(GPU, "Allocating GPU memory."); // Cấp phát bộ nhớ trên GPU
 
-    gpuTKTime_start(GPU, "Sao chép dữ liệu đầu vào lên GPU.");
+    gpuTKTime_start(GPU, "Copying input memory to the GPU."); // Sao chép dữ liệu đầu vào lên GPU
     //@@ Sao chép bộ nhớ lên GPU ở đây
-    gpuTKTime_stop(GPU, "Sao chép dữ liệu đầu vào lên GPU.");
+    gpuTKTime_stop(GPU, "Copying input memory to the GPU."); // Sao chép dữ liệu đầu vào lên GPU
 
     //@@ Khởi tạo kích thước lưới và khối ở đây
 
-    gpuTKTime_start(Compute, "Thực hiện tính toán CUDA.");
+    gpuTKTime_start(Compute, "Performing CUDA computation."); // Thực hiện tính toán CUDA
     //@@ Gọi kernel GPU ở đây
 
-	cudaDeviceSynchronize();
-	gpuTKTime_stop(Compute, "Thực hiện tính toán CUDA");
+    cudaDeviceSynchronize();
+    gpuTKTime_stop(Compute, "Performing CUDA computation"); // Thực hiện tính toán CUDA
 
-	gpuTKTime_start(Copy, "Sao chép bộ nhớ đầu ra về CPU");
-	//@@ Sao chép bộ nhớ từ GPU về CPU ở đây
+    gpuTKTime_start(Copy, "Copying output memory to the CPU");  
+    //@@ Sao chép bộ nhớ từ GPU về CPU ở đây  
 
-	gpuTKTime_stop(Copy, "Sao chép bộ nhớ đầu ra về CPU");
+    gpuTKTime_stop(Copy, "Copying output memory to the CPU");  
 
-	gpuTKTime_start(GPU, "Giải phóng bộ nhớ GPU");
-	//@@ Giải phóng bộ nhớ GPU ở đây
-	
-	gpuTKTime_stop(GPU, "Giải phóng bộ nhớ GPU");
+    gpuTKTime_start(GPU, "Freeing GPU Memory");  
+    //@@ Giải phóng bộ nhớ GPU ở đây  
 
-	gpuTKSolution(args, hostC, numCRows, numCColumns);
+    gpuTKTime_stop(GPU, "Freeing GPU Memory");  
 
-	free(hostA);
-	free(hostB);
-	free(hostC);
+    gpuTKSolution(args, hostC, numCRows, numCColumns);  
 
-	return 0;
+    free(hostA);  
+    free(hostB);  
+    free(hostC);  
+
+    return 0;  
 }
+
 
 
 ```
