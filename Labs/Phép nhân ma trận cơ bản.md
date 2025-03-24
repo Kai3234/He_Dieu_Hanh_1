@@ -60,6 +60,62 @@ Tài liệu về thư viện **Lib GPUTK** có thể được tìm thấy tron
             return -1; \
         } \
     } while (0)
+    
+// Tính toán C = A * B
+__global__ void matrixMultiply(float *A, float *B, float *C, int numARows,
+                               int numAColumns, int numBRows,
+                               int numBColumns, int numCRows,
+                               int numCColumns) {
+    //@@ Chèn code để thực hiện phép nhân ma trận ở đây
+}
+
+int main(int argc, char **argv) {
+    gpuTKArg_t args;
+    float *hostA;  // Ma trận A
+    float *hostB;  // Ma trận B
+    float *hostC;  // Ma trận kết quả C
+    float *deviceA;
+    float *deviceB;
+    float *deviceC;
+    int numARows;     // Số hàng của ma trận A
+    int numAColumns;  // Số cột của ma trận A
+    int numBRows;     // Số hàng của ma trận B
+    int numBColumns;  // Số cột của ma trận B
+    int numCRows;     // Số hàng của ma trận C (bạn cần đặt giá trị này)
+    int numCColumns;  // Số cột của ma trận C (bạn cần đặt giá trị này)
+
+    args = gpuTKArg_read(argc, argv);
+
+    gpuTKTime_start(Generic, "Nhập dữ liệu và tạo bộ nhớ trên host");
+    hostA = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 0), &numARows,
+                                 &numAColumns);
+    hostB = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 1), &numBRows,
+                                 &numBColumns);
+
+    //@@ Đặt giá trị cho numCRows và numCColumns
+    numCRows = 0;
+    numCColumns = 0;
+
+    //@@ Cấp phát bộ nhớ cho ma trận hostC
+    gpuTKTime_stop(Generic, "Nhập dữ liệu và tạo bộ nhớ trên host");
+
+    gpuTKLog(TRACE, "Kích thước của A là ", numARows, " x ", numAColumns);
+    gpuTKLog(TRACE, "Kích thước của B là ", numBRows, " x ", numBColumns);
+
+    gpuTKTime_start(GPU, "Cấp phát bộ nhớ trên GPU.");
+    //@@ Cấp phát bộ nhớ trên GPU ở đây
+    gpuTKTime_stop(GPU, "Cấp phát bộ nhớ trên GPU.");
+
+    gpuTKTime_start(GPU, "Sao chép dữ liệu đầu vào lên GPU.");
+    //@@ Sao chép bộ nhớ lên GPU ở đây
+    gpuTKTime_stop(GPU, "Sao chép dữ liệu đầu vào lên GPU.");
+
+    //@@ Khởi tạo kích thước lưới và khối ở đây
+
+    gpuTKTime_start(Compute, "Thực hiện tính toán CUDA.");
+    //@@ Gọi kernel GPU ở đây
+}
+
 ```
 
 #  Giải pháp mã: 
