@@ -4,7 +4,16 @@ Triển khai một thuật toán nhân ma trận vuông đặc. Các tối ưu h
 Trước khi bắt đầu bài thực hành, hãy đảm bảo rằng:
 - Bạn đã hoàn thành bài thực hành _Cộng vector_
 - Bạn đã hoàn thành các module giảng dạy cần thiết
-Hướng dẫn
+# Hướng dẫn
+Chỉnh sửa mã nguồn trong tab mã để thực hiện các bước sau:
+- Cấp phát bộ nhớ trên thiết bị
+- Sao chép bộ nhớ từ host sang thiết bị
+- Khởi tạo kích thước luồng và lưới của kernel
+- Gọi kernel CUDA
+- Sao chép kết quả từ thiết bị về host
+- Giải phóng bộ nhớ thiết bị
+Hướng dẫn về vị trí cần đặt từng phần của mã được đánh dấu bằng các dòng chú thích `//@@`.
+Hướng dẫn cài đặt cục bộ 
 #  Giải pháp mã: 
 Sau đây là một triển khai khả thi của phòng thí nghiệm. Giải pháp này dành cho  
 chỉ được sử dụng bởi đội ngũ giảng viên và không nên phân phát cho sinh viên.
