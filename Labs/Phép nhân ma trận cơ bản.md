@@ -114,7 +114,7 @@ int main(int argc, char **argv) {
 
     gpuTKTime_start(Compute, "Thực hiện tính toán CUDA.");
     //@@ Gọi kernel GPU ở đây
-}
+
 
 ```
 
