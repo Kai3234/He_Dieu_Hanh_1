@@ -1,5 +1,6 @@
 # Mục tiêu
-
+Triển khai một thuật toán nhân ma trận vuông đặc. Các tối ưu hóa như chia ô (tiling) và sử dụng bộ nhớ chia sẻ không bắt buộc trong bài thực hành này.
+# YÊU CẦU TRƯỚC
 
 #  Giải pháp mã: 
 Sau đây là một triển khai khả thi của phòng thí nghiệm. Giải pháp này dành cho  
