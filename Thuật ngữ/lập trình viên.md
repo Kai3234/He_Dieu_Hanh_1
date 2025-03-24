@@ -1,0 +1,1 @@
+- [[Lập trình]] viên là người chuyên nghiệp tạo ra và phát triển các [[chương trình]] [[máy tính]], [[ứng dụng]] [[phần mềm]] và hệ thống thông tin bằng cách viết [[mã nguồn]] (code) sử dụng các [[ngôn ngữ lập trình]] khác nhau.
