@@ -17,7 +17,8 @@ Hướng dẫn về vị trí cần đặt từng phần của mã được đá
 Phiên bản mới nhất của mã nguồn cho bài thực hành này cùng với các script biên dịch có thể được tìm thấy trên [Bitbucket repository](#).  
 Tài liệu README trong thư mục gốc của repository sẽ hướng dẫn cách sử dụng công cụ [CMake](#) và cách xây dựng các bài thực hành để phát triển cục bộ.
 Tệp thực thi được tạo ra sau khi biên dịch bài thực hành có thể được chạy bằng lệnh sau:
-_(Phần lệnh không xuất hiện trong ảnh, có thể nằm ở phần tiếp theo của tài liệu.)_
+		./BasicMatrixMultiplication_Stream_Template -e <expected.raw> \
+		-i <input0.raw>,<input1.raw> -o <output.raw> -t matrix
 
 #  Giải pháp mã: 
 Sau đây là một triển khai khả thi của phòng thí nghiệm. Giải pháp này dành cho  
