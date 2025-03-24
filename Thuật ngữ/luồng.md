@@ -1,4 +1,4 @@
-**Luồng (Thread)** là một đơn vị xử lý nhỏ nhất trong một [[tiến trình]] (process), có khả năng thực thi độc lập và chia sẻ tài nguyên (như [[bộ nhớ]], [[tệp tin|file]], [[dữ liệu]]) với các luồng khác cùng thuộc một [[tiến trình]].
+**Luồng (Thread)** là một [[đơn vị xử lý]] nhỏ nhất trong một [[tiến trình]] (process), có khả năng thực thi độc lập và chia sẻ tài nguyên (như [[bộ nhớ]], [[tệp tin|file]], [[dữ liệu]]) với các luồng khác cùng thuộc một [[tiến trình]].
 
 ### Đặc điểm chính của luồng
 - **Chia sẻ tài nguyên**:
