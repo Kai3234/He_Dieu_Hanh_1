@@ -1,0 +1,1 @@
+Bộ nhớ CUDA là hệ thống quản lý bộ nhớ trên GPU trong môi trường lập trình CUDA của NVIDIA. Nó bao gồm nhiều loại bộ nhớ khác nhau, mỗi loại có phạm vi, tốc độ truy cập và cách sử dụng riêng biệt
