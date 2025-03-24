@@ -8,4 +8,4 @@
        - [[Thanh ghi]] đầu ra để lưu kết quả
        - Bộ phận báo hiệu trạng thái (flags) như: tràn số, số âm, số không, v.v.
     - **Vị trí trong hệ thống**: Trong một [[bộ xử lý]], có thể có nhiều ALU hoạt động song song để tăng [[hiệu suất]] xử lý.
-    - **Vai trò trong [[GPU]]**: Trong kiến trúc [[GPU]], mỗi [[CUDA]] core hoặc [[đơn vị xử lý]] đều chứa các ALU để thực hiện các phép toán trên [[dữ liệu]]. Sự kết hợp của hàng nghìn ALU trong một GPU cho phép thực hiện một lượng lớn phép tính song song.
+    - **Vai trò trong [[GPU]]**: Trong kiến trúc [[GPU]], mỗi [[CUDA]] core hoặc [[đơn vị xử lý]] đều chứa các ALU để thực hiện các phép toán trên [[dữ liệu]]. Sự kết hợp của hàng nghìn ALU trong một [[GPU]] cho phép thực hiện một lượng lớn phép tính song song.
