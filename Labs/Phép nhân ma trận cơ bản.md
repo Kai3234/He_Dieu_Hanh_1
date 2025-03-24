@@ -86,7 +86,7 @@ int main(int argc, char **argv) {
 
     args = gpuTKArg_read(argc, argv);
 
-    gpuTKTime_start(Generic, "Importing data and creating memory on host"); //   Nhập dữ liệu và tạo bộ nhớ trên host
+    gpuTKTime_start(Generic, "Importing data and creating memory on host"); 
     hostA = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 0), &numARows,
                                  &numAColumns);
     hostB = (float *)gpuTKImport(gpuTKArg_getInputFile(args, 1), &numBRows,
@@ -97,7 +97,7 @@ int main(int argc, char **argv) {
     numCColumns = 0;
 
     //@@ Cấp phát bộ nhớ cho ma trận hostC
-    gpuTKTime_stop(Generic, "Importing data and creating memory on host"); // Nhập dữ liệu và tạo bộ nhớ trên host
+    gpuTKTime_stop(Generic, "Importing data and creating memory on host"); 
 
     gpuTKLog(TRACE, "The dimensions of A are ", numARows, " x ", numAColumns); // Kích thước của A
     gpuTKLog(TRACE, "The dimensions of B are ", numBRows, " x ", numBColumns); // Kích thước của B
