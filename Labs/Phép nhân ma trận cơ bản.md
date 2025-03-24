@@ -14,11 +14,10 @@ Chỉnh sửa mã nguồn trong tab mã để thực hiện các bước sau:
 - Giải phóng bộ nhớ thiết bị
 Hướng dẫn về vị trí cần đặt từng phần của mã được đánh dấu bằng các dòng chú thích `//@@`.
 # Hướng dẫn cài đặt cục bộ 
-Phiên bản mới nhất của mã nguồn cho bài thực hành này cùng với các script biên dịch có thể được tìm thấy trên [Bitbucket repository](#).  
-Tài liệu README trong thư mục gốc của repository sẽ hướng dẫn cách sử dụng công cụ [CMake](#) và cách xây dựng các bài thực hành để phát triển cục bộ.
+Phiên bản mã nguồn mới nhất của bài thực hành này cùng với các tập lệnh biên dịch có thể được tìm thấy trong [Kho lưu trữ Bitbucket](#). Mô tả về cách sử dụng công cụ CMake cũng như cách xây dựng các bài thực hành để phát triển cục bộ có thể được tìm thấy trong tài liệu README tại thư mục gốc của kho lưu trữ.
 Tệp thực thi được tạo ra sau khi biên dịch bài thực hành có thể được chạy bằng lệnh sau:
 		./BasicMatrixMultiplication_Stream_Template -e <expected.raw> \
-			-i <input0.raw>,<input1.raw> -o <output.raw> -t matrix
+		    -i <input0.raw>,<input1.raw> -o <output.raw> -t matrix
 
 #  Giải pháp mã: 
 Sau đây là một triển khai khả thi của phòng thí nghiệm. Giải pháp này dành cho  
