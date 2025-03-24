@@ -23,7 +23,28 @@ Trong đó:
 - `<input0.raw>,<input1.raw>` là tập dữ liệu đầu vào,
 - `<output.raw>` là đường dẫn tùy chọn để lưu kết quả.
 Các tập dữ liệu có thể được tạo bằng trình tạo dữ liệu được biên dịch như một phần của quá trình biên dịch.
-Câu hỏi: 
+### Câu hỏi: 
+1. **Có bao nhiêu phép toán số thực được thực hiện trong kernel nhân ma trận của bạn? Giải thích.**  
+    **Trả lời:**  
+    Số phép nhân vô hướng thực hiện là:  
+    **numCRows * numCCols dot-products = 2 * numCRows * numCCols * numACols**
+    
+2. **Kernel của bạn thực hiện bao nhiêu lần đọc bộ nhớ toàn cục? Giải thích.**  
+    **Trả lời:**  
+    Số lần đọc bộ nhớ toàn cục:  
+    **numCRows * numCCols dot-products = 2 * numCRows * numCCols * numACols**
+    
+3. **Kernel của bạn thực hiện bao nhiêu lần ghi bộ nhớ toàn cục? Giải thích.**  
+    **Trả lời:**  
+    **Chỉ có ma trận đầu ra được ghi. Số lần ghi bộ nhớ là numCRows * numCCols.**
+    
+4. **Mô tả một số tối ưu hóa có thể được áp dụng vào kernel của bạn để tăng tốc độ thực thi.**  
+    **Trả lời:**  
+    **Sử dụng kỹ thuật "tiling" để lưu trữ các ma trận đầu vào trong bộ nhớ chia sẻ nhằm giảm số lần truy xuất bộ nhớ toàn cục.**
+    
+- **Kể tên ba ứng dụng của phép nhân ma trận.**  
+    **Trả lời:**  
+    **Phép nhân ma trận xuất hiện trong hầu hết các ứng dụng tính toán cường độ cao. Một số ứng dụng bao gồm: Mạng nơ-ron nhân tạo (Neural Networks), Đồ họa máy tính (Graphics), và Phương trình vi phân từng phần (PDEs).**
 
 #  Giải pháp mã: 
 Sau đây là một triển khai khả thi của phòng thí nghiệm. Giải pháp này dành cho  
