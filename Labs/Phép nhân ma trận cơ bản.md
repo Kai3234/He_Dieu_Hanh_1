@@ -115,6 +115,28 @@ int main(int argc, char **argv) {
     gpuTKTime_start(Compute, "Thực hiện tính toán CUDA.");
     //@@ Gọi kernel GPU ở đây
 
+	cudaDeviceSynchronize();
+	gpuTKTime_stop(Compute, "Thực hiện tính toán CUDA");
+
+	gpuTKTime_start(Copy, "Sao chép bộ nhớ đầu ra về CPU");
+	//@@ Sao chép bộ nhớ từ GPU về CPU ở đây
+
+	gpuTKTime_stop(Copy, "Sao chép bộ nhớ đầu ra về CPU");
+
+	gpuTKTime_start(GPU, "Giải phóng bộ nhớ GPU");
+	//@@ Giải phóng bộ nhớ GPU ở đây
+	
+	gpuTKTime_stop(GPU, "Giải phóng bộ nhớ GPU");
+
+	gpuTKSolution(args, hostC, numCRows, numCColumns);
+
+	free(hostA);
+	free(hostB);
+	free(hostC);
+
+	return 0;
+}
+
 
 ```
 
