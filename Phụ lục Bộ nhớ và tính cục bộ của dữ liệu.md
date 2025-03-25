@@ -9,7 +9,7 @@
 - [[4.3 Phép nhân ma trận dạng ô#Phép nhân ma trận dạng ô|3) Phép nhân ma trận dạng ô]]
 - [[4.3 Phép nhân ma trận dạng ô#Tải một ô dữ liệu (Loading a Tile)|4) Tải một ô dữ liệu (Loading a Tile)]]
 - [[4.3 Phép nhân ma trận dạng ô#Pha 0 - Tải dữ liệu cho khối (0,0)|5) Pha 0 - Tải dữ liệu cho khối (0,0)]]
-- 
+- [[4.3 Phép nhân ma trận dạng ô#|5) Pha 0 - Tải dữ liệu cho khối (0,0)]]
 ## [[4.4 Kernel nhân ma trận dạng ô]]
 - #### [[4.4 Kernel nhân ma trận dạng ô#1. Mục tiêu|1) Mục tiêu]]
 - #### [[4.4 Kernel nhân ma trận dạng ô#2. Thuật toán nhân ma trận dạng ô ô nhớ|2) Thuật toán nhân ma trận dạng ô nhớ]]
