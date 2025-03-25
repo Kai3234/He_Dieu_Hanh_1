@@ -5,46 +5,46 @@ Trước khi bắt đầu bài thực hành, hãy đảm bảo rằng:
 - Bạn đã hoàn thành bài thực hành _Cộng vector_
 - Bạn đã hoàn thành các module giảng dạy cần thiết
 # Hướng dẫn
-Chỉnh sửa mã nguồn trong tab mã để thực hiện các bước sau:
-- Cấp phát bộ nhớ trên thiết bị
-- Sao chép bộ nhớ từ host sang thiết bị
-- Khởi tạo kích thước luồng và lưới của kernel
-- Gọi kernel CUDA
+Chỉnh sửa [[mã nguồn]] trong tab mã để thực hiện các bước sau:
+- Cấp phát [[bộ nhớ]] trên thiết bị
+- Sao chép [[bộ nhớ]] từ host sang thiết bị
+- Khởi tạo kích thước [[luồng]] và [[lưới]] của [[kernel]]
+- Gọi [[kernel]] [[CUDA]]
 - Sao chép kết quả từ thiết bị về host
-- Giải phóng bộ nhớ thiết bị
+- Giải phóng [[bộ nhớ]] thiết bị
 Hướng dẫn về vị trí cần đặt từng phần của mã được đánh dấu bằng các dòng chú thích `//@@`.
 # Hướng dẫn cài đặt cục bộ 
-Phiên bản mã nguồn mới nhất của bài thực hành này cùng với các tập lệnh biên dịch có thể được tìm thấy trong [Kho lưu trữ Bitbucket](#). Mô tả về cách sử dụng công cụ CMake cũng như cách xây dựng các bài thực hành để phát triển cục bộ có thể được tìm thấy trong tài liệu README tại thư mục gốc của kho lưu trữ.
-Tệp thực thi được tạo ra sau khi biên dịch bài thực hành có thể được chạy bằng lệnh sau:
+Phiên bản [[mã nguồn]] mới nhất của bài thực hành này cùng với các tập [[lệnh]] [[biên dịch]] có thể được tìm thấy trong [Kho lưu trữ Bitbucket](#). Mô tả về cách sử dụng công cụ CMake cũng như cách xây dựng các bài thực hành để phát triển cục bộ có thể được tìm thấy trong tài liệu [[README]] tại [[thư mục]] gốc của kho lưu trữ.
+[[Tệp thực thi]] được tạo ra sau khi [[biên dịch]] bài thực hành có thể được chạy bằng [[lệnh]] sau:
 		./BasicMatrixMultiplication_Stream_Template -e <expected.raw> \
 		    -i <input0.raw>,<input1.raw> -o <output.raw> -t matrix
 Trong đó:
 - `<expected.raw>` là đầu ra mong đợi,
-- `<input0.raw>,<input1.raw>` là tập dữ liệu đầu vào,
+- `<input0.raw>,<input1.raw>` là tập [[dữ liệu]] đầu vào,
 - `<output.raw>` là đường dẫn tùy chọn để lưu kết quả.
-Các tập dữ liệu có thể được tạo bằng trình tạo dữ liệu được biên dịch như một phần của quá trình biên dịch.
+Các tập [[dữ liệu]] có thể được tạo bằng trình tạo [[dữ liệu]] được [[biên dịch]] như một phần của quá [[trình biên dịch]].
 ### Câu hỏi: 
-1. **Có bao nhiêu phép toán số thực được thực hiện trong kernel nhân ma trận của bạn? Giải thích.**  
+1. **Có bao nhiêu phép toán số thực được thực hiện trong [[kernel]] nhân [[ma trận]] của bạn? Giải thích.**  
     **Trả lời:**  
     Số phép nhân vô hướng thực hiện là:  
     **numCRows * numCCols dot-products = 2 * numCRows * numCCols * numACols**
     
-2. **Kernel của bạn thực hiện bao nhiêu lần đọc bộ nhớ toàn cục? Giải thích.**  
+2. **[[Kernel]] của bạn thực hiện bao nhiêu lần đọc [[bộ nhớ toàn cục]]? Giải thích.**  
     **Trả lời:**  
-    Số lần đọc bộ nhớ toàn cục:  
+    Số lần đọc [[bộ nhớ toàn cục]]:  
     **numCRows * numCCols dot-products = 2 * numCRows * numCCols * numACols**
     
-3. **Kernel của bạn thực hiện bao nhiêu lần ghi bộ nhớ toàn cục? Giải thích.**  
+3. **[[Kernel]] của bạn thực hiện bao nhiêu lần ghi [[bộ nhớ toàn cục]]? Giải thích.**  
     **Trả lời:**  
-    **Chỉ có ma trận đầu ra được ghi. Số lần ghi bộ nhớ là numCRows * numCCols.**
+    **Chỉ có [[ma trận]] đầu ra được ghi. Số lần ghi [[bộ nhớ]] là numCRows * numCCols.**
     
-4. **Mô tả một số tối ưu hóa có thể được áp dụng vào kernel của bạn để tăng tốc độ thực thi.**  
+4. **Mô tả một số [[tối ưu hóa]] có thể được áp dụng vào [[kernel]] của bạn để tăng tốc độ thực thi.**  
     **Trả lời:**  
-    **Sử dụng kỹ thuật "tiling" để lưu trữ các ma trận đầu vào trong bộ nhớ chia sẻ nhằm giảm số lần truy xuất bộ nhớ toàn cục.**
+    **Sử dụng kỹ thuật "[[tiling]]" để lưu trữ các [[ma trận]] đầu vào trong [[bộ nhớ chia sẻ]] nhằm giảm số lần truy xuất [[bộ nhớ toàn cục]].**
     
-5. **Kể tên ba ứng dụng của phép nhân ma trận.**  
+5. **Kể tên ba [[ứng dụng]] của phép nhân [[ma trận]].**  
     **Trả lời:**  
-    **Phép nhân ma trận xuất hiện trong hầu hết các ứng dụng tính toán cường độ cao. Một số ứng dụng bao gồm: Mạng nơ-ron nhân tạo (Neural Networks), Đồ họa máy tính (Graphics), và Phương trình vi phân từng phần (PDEs).**
+    **Phép nhân [[ma trận]] xuất hiện trong hầu hết các ứng dụng tính toán cường độ cao. Một số ứng dụng bao gồm: Mạng nơ-ron nhân tạo (Neural Networks), Đồ họa máy tính (Graphics), và Phương trình vi phân từng phần (PDEs).**
 # Mẫu Code
 Đoạn mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Code này xử lý việc nhập, xuất dữ liệu cũng như kiểm tra kết quả. Sinh viên cần chèn mã của mình vào các phần được đánh dấu bằng `//@@`. Các phần code khác cần được giữ nguyên.
 Tài liệu về thư viện **Lib GPUTK** có thể được tìm thấy trong [Kho lưu trữ Bitbucket](#) tại thư mục `"libgputk/docs"` trong thư mục gốc của kho lưu trữ.
