@@ -6,7 +6,8 @@
 ## [[4.3 Phép nhân ma trận dạng ô]]
 - [[4.3 Phép nhân ma trận dạng ô#Mục tiêu|1) Mục tiêu]]
 - [[4.3 Phép nhân ma trận dạng ô#Phép nhân ma trận|2) Phép nhân ma trận]]
-- [[4.3 Phép nhân ma trận dạng ô#Mục tiêu|1) Mục tiêu]]
+- [[4.3 Phép nhân ma trận dạng ô#Phép nhân ma trận dạng ô|3) Phép nhân ma trận dạng ô]]
+- 
 ## [[4.4 Kernel nhân ma trận dạng ô]]
 - #### [[4.4 Kernel nhân ma trận dạng ô#1. Mục tiêu|1) Mục tiêu]]
 - #### [[4.4 Kernel nhân ma trận dạng ô#2. Thuật toán nhân ma trận dạng ô ô nhớ|2) Thuật toán nhân ma trận dạng ô nhớ]]
