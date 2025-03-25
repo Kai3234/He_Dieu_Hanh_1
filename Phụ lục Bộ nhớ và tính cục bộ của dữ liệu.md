@@ -4,7 +4,7 @@
 
 ## [[4.2 Thuật toán song song dạng ô]]
 ## [[4.3 Phép nhân ma trận dạng ô]]
-- [[4.3 Phép nhân ma trận dạng ô#1) Mục tiêu|1) Mục tiêu]]
+- [[4.3 Phép nhân ma trận dạng ô#Mục tiêu|1) Mục tiêu]]
 - 
 ## [[4.4 Kernel nhân ma trận dạng ô]]
 - #### [[4.4 Kernel nhân ma trận dạng ô#1. Mục tiêu|1) Mục tiêu]]
