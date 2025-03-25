@@ -3,6 +3,8 @@
 - [[4.1 Các bộ nhớ CUDA#2) Kernel làm mờ hình ảnh - Image Blur Kernel trong lập trình CUDA]|2) Kernel làm mở hình ảnh]]
 
 ## [[4.2 Thuật toán song song dạng ô]]
+
+
 ## [[4.3 Phép nhân ma trận dạng ô]]
 - [[4.3 Phép nhân ma trận dạng ô#Mục tiêu|1) Mục tiêu]]
 - [[4.3 Phép nhân ma trận dạng ô#Phép nhân ma trận|2) Phép nhân ma trận]]
