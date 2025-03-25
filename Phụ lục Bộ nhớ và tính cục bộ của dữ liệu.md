@@ -12,7 +12,7 @@
 ## [[4.2 Thuật toán song song dạng ô]]
 - [[4.2 Thuật toán song song dạng ô#1.Mục tiêu|1) Mục tiêu]]
 - [[4.2 Thuật toán song song dạng ô#2.Mô hình truy cập bộ nhớ toàn cục của Kernel nhân ma trận cơ bản (Matrix Multiplication Kernel)|2)Mô hình truy cập bộ nhớ toàn cục của Kernel nhân ma trận cơ bản (Matrix Multiplication Kernel)]]
-- [[4.2 Thuật toán song song dạng ô#3.Ý tưởng cơ bản của [[Tiling]]&[[Blocking]]|3) Ý tưởng cơ bản của [[Tiling]]&[[Blocking]]]]
+- [[4.2 Thuật toán song song dạng ô#3) ]]
 - [[4.2 Thuật toán song song dạng ô#4.Khái niệm cơ bản của phân mảnh [[Tiling]])|4) Khái niệm cơ bản của phân mảnh [[Tiling]]]]
 - [[4.2 Thuật toán song song dạng ô#Pha 0 - Tải dữ liệu cho khối (0,0)|5) Pha 0 - Tải dữ liệu cho khối (0,0)]]
 - [[4.2 Thuật toán song song dạng ô#Pha 1 - Tải dữ liệu cho khối (0,0)|6) Pha 1 - Tải dữ liệu cho khối (0,0)]]
