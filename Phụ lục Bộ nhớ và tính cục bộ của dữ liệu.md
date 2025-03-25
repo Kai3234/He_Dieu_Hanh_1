@@ -16,9 +16,9 @@
 - [[4.2 Thuật toán song song dạng ô#4.Khái niệm cơ bản của phân mảnh Tiling)|4) Khái niệm cơ bản của phân mảnh Tiling]]
 - [[4.2 Thuật toán song song dạng ô#5) Một số tính toán khó áp dụng kỹ thuật Tiling hơn|5) Một số tính toán khó áp dụng kỹ thuật Tilling hơn]]
 - [[4.2 Thuật toán song song dạng ô#6) Đồng bộ hóa trong đi chung xe( Carpooling )|6) Đồng bộ hoá trong đi chung xe (Carpooling)]]
-- [[4.2 Thuật toán song song dạng ô#4.Khái niệm cơ bản của phân mảnh Tiling)|4) Khái niệm cơ bản của phân mảnh Tiling]]
-- [[4.2 Thuật toán song song dạng ô#4.Khái niệm cơ bản của phân mảnh Tiling)|4) Khái niệm cơ bản của phân mảnh Tiling]]
-- [[4.2 Thuật toán song song dạng ô#4.Khái niệm cơ bản của phân mảnh Tiling)|4) Khái niệm cơ bản của phân mảnh Tiling]]
+- [[4.2 Thuật toán song song dạng ô#7) Đồng bộ hóa trong Tiling|7) Đồng bộ hoá trong Tiling]]
+- [[4.2 Thuật toán song song dạng ô#8) Đồng bộ hóa rào cản trong Tiling|8) Đồng bộ hoá rào cản trong Tiling]]
+- [[4.2 Thuật toán song song dạng ô#9) Các bước áp dụng kỹ thuật Tiling|9) ]]
 
 ## [[4.3 Phép nhân ma trận dạng ô]]
 - [[4.3 Phép nhân ma trận dạng ô#Mục tiêu|1) Mục tiêu]]
