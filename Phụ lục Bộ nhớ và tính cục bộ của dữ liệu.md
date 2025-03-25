@@ -1,6 +1,6 @@
 ## [[4.1 Các bộ nhớ CUDA]]
-- [[4.1 Các bộ nhớ CUDA#1, Mục tiêu|1, Mục tiêu]]
-- [[4.1 Các bộ nhớ CUDA|2, ]]
+- [[4.1 Các bộ nhớ CUDA#1) Mục tiêu|1) Mục tiêu]]
+- [[4.1 Các bộ nhớ CUDA.  ]]
 
 ## [[4.2 Thuật toán song song dạng ô]]
 ## [[4.3 Phép nhân ma trận dạng ô]]
