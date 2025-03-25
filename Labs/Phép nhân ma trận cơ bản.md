@@ -44,10 +44,10 @@ Các tập [[dữ liệu]] có thể được tạo bằng trình tạo [[dữ l
     
 5. **Kể tên ba [[ứng dụng]] của phép nhân [[ma trận]].**  
     **Trả lời:**  
-    **Phép nhân [[ma trận]] xuất hiện trong hầu hết các ứng dụng tính toán cường độ cao. Một số ứng dụng bao gồm: Mạng nơ-ron nhân tạo (Neural Networks), Đồ họa máy tính (Graphics), và Phương trình vi phân từng phần (PDEs).**
+    **Phép nhân [[ma trận]] xuất hiện trong hầu hết các [[ứng dụng]] tính toán cường độ cao. Một số [[ứng dụng]] bao gồm: Mạng nơ-ron nhân tạo (Neural Networks), [[Đồ họa]] [[máy tính]] (Graphics), và Phương trình vi phân từng phần (PDEs).**
 # Mẫu Code
-Đoạn mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Code này xử lý việc nhập, xuất dữ liệu cũng như kiểm tra kết quả. Sinh viên cần chèn mã của mình vào các phần được đánh dấu bằng `//@@`. Các phần code khác cần được giữ nguyên.
-Tài liệu về thư viện **Lib GPUTK** có thể được tìm thấy trong [Kho lưu trữ Bitbucket](#) tại thư mục `"libgputk/docs"` trong thư mục gốc của kho lưu trữ.
+Đoạn mã sau được đề xuất làm điểm khởi đầu cho sinh viên. Code này xử lý việc nhập, xuất [[dữ liệu]] cũng như kiểm tra kết quả. Sinh viên cần chèn mã của mình vào các phần được đánh dấu bằng `//@@`. Các phần code khác cần được giữ nguyên.
+Tài liệu về thư viện **Lib GPUTK** có thể được tìm thấy trong [Kho lưu trữ Bitbucket](#) tại [[thư mục]] `"libgputk/docs"` trong [[thư mục]] gốc của kho lưu trữ.
 ```
 #include <gputk.h>
 
