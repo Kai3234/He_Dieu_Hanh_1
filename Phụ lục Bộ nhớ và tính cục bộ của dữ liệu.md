@@ -11,7 +11,7 @@
 - [[4.3 Phép nhân ma trận dạng ô#Pha 0 - Tải dữ liệu cho khối (0,0)|5) Pha 0 - Tải dữ liệu cho khối (0,0)]]
 - [[4.3 Phép nhân ma trận dạng ô#Pha 1 - Tải dữ liệu cho khối (0,0)|6) Pha 1 - Tải dữ liệu cho khối (0,0)]]
 - [[4.3 Phép nhân ma trận dạng ô#Các pha thực thi của ví dụ minh họa|7) Các pha thực thi của ví dụ minh họa]]
-- 
+- [[4.3 Phép nhân ma trận dạng ô#Đồng bộ hóa rào cản (Barrier Synchronization)|8) Đồng bộ hóa rào cản (Barrier Synchronization)]]
 ## [[4.4 Kernel nhân ma trận dạng ô]]
 - #### [[4.4 Kernel nhân ma trận dạng ô#1. Mục tiêu|1) Mục tiêu]]
 - #### [[4.4 Kernel nhân ma trận dạng ô#2. Thuật toán nhân ma trận dạng ô ô nhớ|2) Thuật toán nhân ma trận dạng ô nhớ]]
