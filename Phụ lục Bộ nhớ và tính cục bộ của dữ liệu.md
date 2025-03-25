@@ -8,7 +8,7 @@
 - [[4.1 Các bộ nhớ CUDA#7) Khai báo các biến trong CUDA|7) Khai báo các biến trong CUDA]]
 - [[4.1 Các bộ nhớ CUDA#8) Đâu là vị trí thích hợp để khai báo các loại biến trong CUDA ?|8) Vị trí thích hợp để khai báo các biến trong CUDA]]
 - [[4.1 Các bộ nhớ CUDA#9) Bộ nhớ chia sẻ trong CUDA|9) Bộ nhớ chia sẻ trong CUDA]]
-- [[4.1 Các bộ nhớ CUDA#10) Góc nhìn phần cứng về các bộ nhớ CUDA|10) Góc nhìn phần ]]
+- [[4.1 Các bộ nhớ CUDA#10) Góc nhìn phần cứng về các bộ nhớ CUDA|10) Góc nhìn phần cứng về các bộ nhớ CUDA]]
 ## [[4.2 Thuật toán song song dạng ô]]
 - [[4.2 Thuật toán song song dạng ô#1.Mục tiêu|1) Mục tiêu]]
 - [[4.2 Thuật toán song song dạng ô#2.Mô hình truy cập [[bộ nhớ toàn cục]] của [[Kernel]] nhân [[ma trận]] cơ bản (Matrix Multiplication Kernel)|2)Mô hình truy cập [[bộ nhớ toàn cục]] của [[Kernel]] nhân [[ma trận]] cơ bản (Matrix Multiplication Kernel)]]
